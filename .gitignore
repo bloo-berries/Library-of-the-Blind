@@ -1,0 +1,43 @@
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+
+# Node modules (if any tools are added later)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Python (if any tools are added later)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
