@@ -63,9 +63,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Czech/Slovak Braille](./braille-systems/european/README.md#czechslovak-braille)** - Similar to Polish but with own diacritic mapping
 - **[Hungarian Braille](./braille-systems/european/README.md#hungarian-braille)** - Uses physical symmetry of patterns iconically; includes ő, ú, í, é, á, ó, ö, ü
 - **[Romanian Braille](./braille-systems/european/README.md#romanian-braille)** - Includes special characters for Romanian diacritics
-- **[Turkish Braille](./braille-systems/european/README.md#turkish-braille)** - Adapted for Turkish alphabet
 - **[Albanian Braille](./braille-systems/european/README.md#albanian-braille)** - Based on French-ordered Braille
-- **[Azerbaijani Braille](./braille-systems/european/README.md#azerbaijani-braille)** - Based on French-ordered Braille
 - **[Catalan Braille](./braille-systems/european/README.md#catalan-braille)** - Based on French-ordered Braille
 - **[Estonian Braille](./braille-systems/european/README.md#estonian-braille)** - Nordic family Braille
 - **[Faroese Braille](./braille-systems/european/README.md#faroese-braille)** - Nordic family Braille
@@ -82,13 +80,10 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Greenlandic Braille](./braille-systems/european/README.md#greenlandic-braille)** - Nordic family Braille (Scandinavian)
 - **[Northern Sámi Braille](./braille-systems/european/README.md#northern-sámi-braille)** - Nordic family Braille (Scandinavian)
 - **[Bulgarian Braille](./braille-systems/european/README.md#bulgarian-braille)** - Russian lineage family (Cyrillic-mediated)
-- **[Kazakh Braille](./braille-systems/european/README.md#kazakh-braille)** - Russian lineage family (Cyrillic-mediated)
-- **[Kyrgyz Braille](./braille-systems/european/README.md#kyrgyz-braille)** - Russian lineage family (Cyrillic-mediated)
 - **[Tatar Braille](./braille-systems/european/README.md#tatar-braille)** - Russian lineage family (Cyrillic-mediated)
 - **[Ukrainian Braille](./braille-systems/european/README.md#ukrainian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
 - **[Belarusian Braille](./braille-systems/european/README.md#belarusian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
 - **[Luxembourgish Braille (8-dot)](./braille-systems/european/README.md#luxembourgish-braille-8-dot)** - Extended to 8-dot system
-- **[Algerian Braille](./braille-systems/european/README.md#algerian-braille)** - Reordered system (obsolete)
 
 ### Asian Braille
 
@@ -106,6 +101,10 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Vietnamese Braille](./braille-systems/asian/README.md#vietnamese-braille)** - Phonetically based on Quốc ngữ romanization; uses diacritic cells for tonal marks
 - **[Malay/Indonesian Braille](./braille-systems/asian/README.md#malayindonesian-braille)** - Based on Latin alphabet (Southeast Asia); derived from English Braille with local letters
 - **[Mongolian Braille](./braille-systems/asian/README.md#mongolian-braille)** - Based on Russian Braille; covers Mongolian (Cyrillic script)
+- **[Turkish Braille](./braille-systems/asian/README.md#turkish-braille)** - Adapted for Turkish alphabet
+- **[Azerbaijani Braille](./braille-systems/asian/README.md#azerbaijani-braille)** - Based on French-ordered Braille
+- **[Kazakh Braille](./braille-systems/asian/README.md#kazakh-braille)** - Russian lineage family (Cyrillic-mediated)
+- **[Kyrgyz Braille](./braille-systems/asian/README.md#kyrgyz-braille)** - Russian lineage family (Cyrillic-mediated)
 - **[Georgian Braille](./braille-systems/asian/README.md#georgian-braille)** - Unique mapping for Georgian script
 - **[Armenian Braille](./braille-systems/asian/README.md#armenian-braille)** - Distinct cell assignments for Armenian script
 - **[Tibetan Braille](./braille-systems/asian/README.md#tibetan-braille)** - Represents Tibetan syllabic structure; developed mid-20th century for use in Tibet and India
@@ -135,6 +134,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Nigerian Braille](./braille-systems/african/README.md#nigerian-braille)** - Based on French-ordered Braille
 - **[South African Braille](./braille-systems/african/README.md#south-african-braille)** - Based on English Braille
 - **[Zambian Braille](./braille-systems/african/README.md#zambian-braille)** - Based on French-ordered Braille
+- **[Algerian Braille](./braille-systems/african/README.md#algerian-braille)** - Reordered system (obsolete)
 
 ### Americas Braille
 

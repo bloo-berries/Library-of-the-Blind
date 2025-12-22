@@ -72,18 +72,8 @@
 - **Key Characteristics:** Includes special characters for Romanian diacritics
 - **Status:** Active
 
-### Turkish Braille
-- **Languages Supported:** Turkish
-- **Key Characteristics:** Adapted for Turkish alphabet
-- **Status:** Active
-
 ### Albanian Braille
 - **Languages Supported:** Albanian
-- **Key Characteristics:** Based on French-ordered Braille
-- **Status:** Active
-
-### Azerbaijani Braille
-- **Languages Supported:** Azerbaijani
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** Active
 
@@ -167,16 +157,6 @@
 - **Key Characteristics:** Russian lineage family (Cyrillic-mediated)
 - **Status:** Active
 
-### Kazakh Braille
-- **Languages Supported:** Kazakh
-- **Key Characteristics:** Russian lineage family (Cyrillic-mediated)
-- **Status:** Active
-
-### Kyrgyz Braille
-- **Languages Supported:** Kyrgyz
-- **Key Characteristics:** Russian lineage family (Cyrillic-mediated)
-- **Status:** Active
-
 ### Tatar Braille
 - **Languages Supported:** Tatar
 - **Key Characteristics:** Russian lineage family (Cyrillic-mediated)
@@ -196,9 +176,4 @@
 - **Languages Supported:** Luxembourgish
 - **Key Characteristics:** Extended to 8-dot system
 - **Status:** Active
-
-### Algerian Braille
-- **Languages Supported:** Algerian Arabic (obsolete)
-- **Key Characteristics:** Reordered system (obsolete)
-- **Status:** Obsolete
 

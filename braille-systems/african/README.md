@@ -56,6 +56,11 @@ Many African Braille systems are based on French Braille, adapted for local lang
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** Active
 
+### Algerian Braille
+- **Languages Supported:** Algerian Arabic (obsolete)
+- **Key Characteristics:** Reordered system (obsolete)
+- **Status:** Obsolete
+
 ## Regional Notes
 
 - Many West African languages use adaptations of French Braille

@@ -75,6 +75,26 @@
 - **Key Characteristics:** Based on Russian Braille
 - **Status:** Active
 
+### Turkish Braille
+- **Languages Supported:** Turkish
+- **Key Characteristics:** Adapted for Turkish alphabet
+- **Status:** Active
+
+### Azerbaijani Braille
+- **Languages Supported:** Azerbaijani
+- **Key Characteristics:** Based on French-ordered Braille
+- **Status:** Active
+
+### Kazakh Braille
+- **Languages Supported:** Kazakh
+- **Key Characteristics:** Russian lineage family (Cyrillic-mediated)
+- **Status:** Active
+
+### Kyrgyz Braille
+- **Languages Supported:** Kyrgyz
+- **Key Characteristics:** Russian lineage family (Cyrillic-mediated)
+- **Status:** Active
+
 ### Georgian Braille
 - **Languages Supported:** Georgian
 - **Key Characteristics:** Unique mapping
