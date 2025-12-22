@@ -84,6 +84,40 @@ Physical raised-line graphics created through embossing.
 - **Swell paper:** Heat-activated paper that raises when printed on
 - **Vacuum forming:** Creates 3D-like raised surfaces
 
+## Experimental and Technological Systems
+
+Advanced tactile technologies that use alternative methods to convey information through touch.
+
+### Vibrotactile Alphabets
+- **Origin / Users:** Various (1960s–present)
+- **Description:** Patterns of vibration on skin representing letters; used in wearable devices
+- **Status:** Active (research and development)
+- **Key Features:**
+  - Uses vibration patterns on skin
+  - Can be integrated into wearable devices
+  - Represents letters through tactile vibration
+  - Research ongoing for various applications
+
+### Optacon Letter Recognition
+- **Origin / Users:** USA (1970s–1990s)
+- **Description:** Camera converts print to vibrating pin array felt by fingertip
+- **Status:** Historical/obsolete (discontinued)
+- **Key Features:**
+  - Camera-based print recognition
+  - Converts print to tactile vibration
+  - Portable device with vibrating pin array
+  - Important historical technology
+
+### Electrotactile Displays
+- **Origin / Users:** Research (1980s–present)
+- **Description:** Electrical stimulation patterns representing text
+- **Status:** Research/experimental
+- **Key Features:**
+  - Uses electrical stimulation
+  - Patterns represent text
+  - Ongoing research
+  - Potential for future applications
+
 ## Counting Methodology
 
 **1 per language-modality pair**

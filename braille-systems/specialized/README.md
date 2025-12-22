@@ -24,9 +24,19 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Used in educational settings
   - Named after Abraham Nemeth
 
+### Marburg Mathematical Notation
+- **Origin / Users:** Germany/Europe (mid-20th century)
+- **Description:** European alternative to Nemeth Code for mathematical and scientific notation
+- **Status:** Active (primarily in Europe)
+- **Key Features:**
+  - European standard for mathematical Braille
+  - Alternative to Nemeth Code
+  - Used in many European countries
+
 ### Other Mathematical Braille Systems
 - **European Mathematical Braille:** Used in many European countries
 - **Japanese Mathematical Braille:** Adapted for Japanese mathematical notation
+- **Unified English Braille (UEB) Technical:** Integrated technical/math symbols within UEB framework (international, 2010s–present)
 
 ## Computer Braille
 
@@ -38,6 +48,27 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Specialized cells for programming symbols
   - Used in coding and technical documentation
   - Essential for computer science education
+
+### 8-Dot Braille (Computer Braille)
+- **Origin / Users:** International (1970s–present)
+- **Description:** Extended cell with two additional dots for encoding 256 characters; used for computing
+- **Status:** Active
+- **Key Features:**
+  - Extended 8-dot cell (vs. standard 6-dot)
+  - Can encode 256 characters
+  - Used in computing and technical applications
+
+## Personal Shorthand Systems
+
+### Grade 3 Braille / Personal Shorthand
+- **Origin / Users:** Various (20th century)
+- **Description:** Highly contracted personal abbreviation systems for speed
+- **Status:** Active (personal use)
+- **Key Features:**
+  - Highly contracted forms
+  - Personal abbreviation systems
+  - Used for speed reading/writing
+  - Not standardized (varies by user)
 
 ## Other Specialized Codes
 

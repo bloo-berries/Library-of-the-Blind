@@ -18,6 +18,11 @@ A centralized, easily accessible reference documenting the most extensive collec
     - [Americas Braille](#americas-braille)
     - [Specialized Braille](#specialized-braille)
   - [Alternative Tactile Scripts](#alternative-tactile-scripts)
+    - [Pre-Braille Embossed Letter Systems](#pre-braille-embossed-letter-systems)
+    - [Dot-Based Alternative Systems](#dot-based-alternative-systems)
+    - [Modern Alternative Scripts](#modern-alternative-scripts)
+    - [Finger-Spelling and Manual Alphabets](#finger-spelling-and-manual-alphabets)
+    - [Other Tactile Communication Systems](#other-tactile-communication-systems)
   - [Audio Communication Channels](#audio-communication-channels)
     - [Screen Readers](#screen-readers)
     - [Audio Descriptions](#audio-descriptions)
@@ -27,6 +32,7 @@ A centralized, easily accessible reference documenting the most extensive collec
     - [Talking-Touch Devices](#talking-touch-devices)
     - [3D Printed Models](#3d-printed-models)
     - [Tactile Graphics](#tactile-graphics)
+    - [Experimental and Technological Systems](#experimental-and-technological-systems)
   - [Multimodal Systems](#multimodal-systems)
   - [Regional Accessibility Infrastructure](#regional-accessibility-infrastructure)
   - [Resources](#resources)
@@ -91,17 +97,54 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 - **[Braille Music Notation](./braille-systems/specialized/README.md#braille-music-notation)** - International standard for encoding musical symbols; separate from literary Braille
 - **[Braille Mathematics (Nemeth Code)](./braille-systems/specialized/README.md#braille-mathematics-nemeth-code)** - Specialized symbols for algebra, calculus, geometry; primarily used in United States
+- **[Marburg Mathematical Notation](./braille-systems/specialized/README.md#marburg-mathematical-notation)** - European alternative to Nemeth Code for mathematical notation
+- **[Unified English Braille (UEB) Technical](./braille-systems/specialized/README.md#other-mathematical-braille-systems)** - Integrated technical/math symbols within UEB framework
 - **[Computer Braille (CBC)](./braille-systems/specialized/README.md#computer-braille-computer-braille-code---cbc)** - Designed for representing computer syntax (brackets, punctuation) in Braille
+- **[8-Dot Braille](./braille-systems/specialized/README.md#8-dot-braille-computer-braille)** - Extended cell with two additional dots for encoding 256 characters; used for computing
+- **[Grade 3 Braille / Personal Shorthand](./braille-systems/specialized/README.md#grade-3-braille--personal-shorthand)** - Highly contracted personal abbreviation systems for speed
 - **[Braille for Sign Languages](./braille-systems/specialized/README.md#braille-for-sign-languages)** - Represents manual signs in tactile form (e.g., American Sign Language Braille, British Sign Language Braille)
 - **[Esperanto Braille](./braille-systems/specialized/README.md#esperanto-braille)** - International Braille with ĉ, ĝ, ĥ, ĵ, ŝ, ŭ
 - **[Braille for Constructed Languages](./braille-systems/specialized/README.md#braille-for-constructed-languages)** - Custom mappings created by enthusiasts (e.g., Klingon Braille, Dothraki Braille)
 
 ## Alternative Tactile Scripts
 
+### Pre-Braille Embossed Letter Systems
+
+- **[Haüy's Embossed Roman Letters](./alternative-tactile-scripts/README.md#haüys-embossed-roman-letters)** - Valentin Haüy's raised italic letters; first systematic tactile reading system (Paris, 1784)
+- **[Boston Line Type (Howe's Line Letter)](./alternative-tactile-scripts/README.md#boston-line-type-howes-line-letter)** - Angular, simplified raised Roman capitals; standard at Perkins School for the Blind (USA, 1830s–1900s)
+- **[Philadelphia Line Type](./alternative-tactile-scripts/README.md#philadelphia-line-type)** - Variant raised angular letters used at Pennsylvania Institution (USA, mid-19th century)
+- **[Gall's Triangular Type](./alternative-tactile-scripts/README.md#galls-triangular-type)** - Raised letters using triangular/angular forms; designed for easier tactile discrimination (Scotland, 1831)
+- **[Alston Type](./alternative-tactile-scripts/README.md#alston-type)** - Lowercase raised Roman letters (UK, early 19th century)
+- **[Frere's Type](./alternative-tactile-scripts/README.md#freres-type)** - Arbitrary symbols unrelated to print letters (UK, 1830s–1840s)
+- **[Lucas Type](./alternative-tactile-scripts/README.md#lucas-type)** - Shorthand-inspired raised characters; phonetic basis (UK, 1830s)
+- **[Klein's Stachel-Schrift (Pin Script)](./alternative-tactile-scripts/README.md#kleins-stachel-schrift-pin-script)** - Raised Roman letters formed by pin pricks; used in Vienna (Austria, early 19th century)
+- **[Hebold Type](./alternative-tactile-scripts/README.md#hebold-type)** - German raised letter variant (Germany, 19th century)
+
+### Dot-Based Alternative Systems
+
+- **[Night Writing (Sonography)](./alternative-tactile-scripts/README.md#night-writing-sonography)** - Charles Barbier's 12-dot military cipher; direct predecessor to Braille (France, 1815–1820s)
+- **[Ballu's Decapoint](./alternative-tactile-scripts/README.md#ballus-decapoint)** - 10-dot system; experimental French alternative (France, 19th century)
+
+### Modern Alternative Scripts
+
 - **[Moon Type](./alternative-tactile-scripts/README.md#moon-type)** - Simplified, raised-outline characters derived from Latin alphabet; easier for people with reduced tactile sensitivity (UK, USA, Canada, Australia, New Zealand)
 - **[New York Point](./alternative-tactile-scripts/README.md#new-york-point)** - Historical 19th-century U.S. system; two-column, 10-dot system used in early American blind schools (now obsolete)
+- **[ELIA Frames](./alternative-tactile-scripts/README.md#elia-frames)** - Geometric shapes within consistent frames; designed for late-blind adults (USA, 2000s–present)
+- **[Fishburne Alphabet](./alternative-tactile-scripts/README.md#fishburne-alphabet)** - Raised geometric symbols meant to be more intuitive than Braille (USA, 2010s)
+- **[Tactile Calligraphy Systems](./alternative-tactile-scripts/README.md#tactile-calligraphy-systems)** - Experimental raised cursive or decorative scripts for aesthetic purposes (various, contemporary)
+
+### Finger-Spelling and Manual Alphabets
+
+- **[Lorm Alphabet](./alternative-tactile-scripts/README.md#lorm-alphabet)** - Touch-based system using palm and finger locations; popular among DeafBlind in German-speaking countries (Austria, 1881–present)
+- **[Malossi Alphabet](./alternative-tactile-scripts/README.md#malossi-alphabet)** - Tapping/pinching specific finger joints to spell letters (Italy, 20th century)
+- **[Spartan Alphabet (Deafblind Manual)](./alternative-tactile-scripts/README.md#spartan-alphabet-deafblind-manual)** - Block letters traced on palm (UK/USA, various)
+- **[Two-Hand Manual Alphabet (Tactile)](./alternative-tactile-scripts/README.md#two-hand-manual-alphabet-tactile)** - British two-handed fingerspelling perceived tactilely (UK)
+- **[Haptic Communication](./alternative-tactile-scripts/README.md#haptic-communication)** - Systematic touch signals on back/arm conveying environmental and emotional information (Scandinavia, 2000s–present)
+
+### Other Tactile Communication Systems
+
 - **[Pro-Tactile (PT)](./alternative-tactile-scripts/README.md#pro-tactile-pt)** - Tactile-sign language developed by DeafBlind community; conveys grammatical information through pressure, movement, and location on the hand (USA, Canada, Europe)
-- **[Tactile Sign Language](./alternative-tactile-scripts/README.md#tactile-sign-language)** - Direct tactile perception of hand shapes or facial movements (e.g., Lorm, Tadoma, Finger-Spelling on the palm)
+- **[Tactile Sign Language](./alternative-tactile-scripts/README.md#tactile-sign-language)** - Direct tactile perception of hand shapes or facial movements (e.g., Tadoma, Finger-Spelling on the palm)
 - **[Tactile Graphics Systems](./alternative-tactile-scripts/README.md#tactile-graphics-systems)** - Use raised lines, textures, or 3-D prints to convey maps, charts, anatomical diagrams (e.g., Graphic Braille, Embossed Diagrams, 3-D Printed Models)
 - **[Tactile Map Symbols (ISO 13125)](./alternative-tactile-scripts/README.md#tactile-map-symbols-iso-13125)** - International cartography standard with standardized tactile symbols for roads, water bodies, elevation
 
@@ -167,6 +210,12 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **Graphic Braille** - Combination of Braille text and tactile graphics
 - **Applications** - Maps, charts, graphs, scientific illustrations, art reproductions
 - **Standards** - ISO 13125 (tactile map symbols) and various national standards
+
+### Experimental and Technological Systems
+
+- **[Vibrotactile Alphabets](./tactile-modalities/README.md#vibrotactile-alphabets)** - Patterns of vibration on skin representing letters; used in wearable devices (1960s–present)
+- **[Optacon Letter Recognition](./tactile-modalities/README.md#optacon-letter-recognition)** - Camera converts print to vibrating pin array felt by fingertip (USA, 1970s–1990s, discontinued)
+- **[Electrotactile Displays](./tactile-modalities/README.md#electrotactile-displays)** - Electrical stimulation patterns representing text (research, 1980s–present)
 
 ## Multimodal Systems
 
