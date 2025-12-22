@@ -488,6 +488,32 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 
 ## Ancient and Historical Tactile Systems
 
+### Didymus the Blind's Carved Wooden Letters
+- **Inventor/Developer:** [Didymus the Blind](https://en.wikipedia.org/wiki/Didymus_the_Blind)
+- **Origin:** Alexandria, Egypt
+- **Date:** 4th Century CE (c. 313-398 CE)
+- **Description:** Didymus the Blind began his education by using a system which was remarkably like Braille, that is reading letters engraved into the surface of wood by touch and subsequently furthering his knowledge by listening. Despite his blindness, Didymus excelled in scholarship because of his incredible memory. He found ways to help blind people to read, experimenting with carved wooden letters similar to Braille systems used by the blind today. This represents the earliest documented individual tactile reading system—predating Braille by approximately 1,500 years. Didymus, blinded by ophthalmia at age four, became one of the most learned theologians of his era and taught Saint Jerome.
+- **Status:** Historical
+- **Key Features:**
+  - Letters engraved into the surface of wood
+  - Read by touch
+  - Earliest documented individual tactile reading system
+  - Predates Braille by approximately 1,500 years
+  - Used by one of the most learned theologians of the 4th century
+
+### Japanese Anma/Amma Tradition
+- **Origin:** Japan
+- **Date:** 1600s–Present
+- **Description:** [Anma](https://en.wikipedia.org/wiki/Anma) is a practice of traditional Japanese massage. During the Tokugawa period, edicts were passed which made the practice of anma solely the preserve of the blind—sighted people were prohibited from practicing the art. Blind practitioners dominated anma due to the tactile nature of the techniques, which relied on heightened sensitivity to bodily cues rather than sight. In contemporary Japan, anma continues to underpin vocational training and employment for the visually impaired, with specialized curricula integrated into schools for the blind since the Meiji era's establishment of such institutions in the 1870s. This represents a unique case where tactile expertise became legally exclusive to blind practitioners, transforming heightened tactile sensitivity into professional advantage and creating an entire occupational identity around blindness.
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Traditional Japanese massage practice
+  - Legally exclusive to blind practitioners during Tokugawa period
+  - Tactile techniques rely on heightened sensitivity to bodily cues
+  - Integrated into schools for the blind since 1870s
+  - Creates professional advantage from tactile sensitivity
+  - Unique occupational identity around blindness
+
 ### Quipu / Khipu
 - **Origin / Users:** Andean Civilizations
 - **Date:** 2600 BCE–present

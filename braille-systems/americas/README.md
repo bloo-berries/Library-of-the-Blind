@@ -14,6 +14,11 @@
 - **Key Characteristics:** Joel Smith, a teacher at the [Perkins Institution](https://en.wikipedia.org/wiki/Perkins_School_for_the_Blind), introduced Modified American Braille in 1878. Frequency-based dot assignments. Still used in some legacy publications
 - **Status:** Legacy system
 
+### [Iñupiaq Braille](https://en.wikipedia.org/wiki/I%C3%B1upiaq_Braille)
+- **Languages Supported:** [Iñupiaq](https://en.wikipedia.org/wiki/Inupiat_language) (Alaska)
+- **Key Characteristics:** Braille alphabet of the Inupiat language maintained by the Alaskan Department of Education. Based on French-ordered Braille. Print digraphs _ch_ and _sr_ are digraphs in braille as well. Uses special characters including _ñ_, _ŋ_, _ġ_, _ḳ_, _ṭ_, _ḷ_, _ł_, and _ł̣_. Punctuation is the same as in English Braille.
+- **Status:** <span style="color: green;">Active</span>
+
 ## Latin America
 
 ### [Spanish Braille (Latin American variants)](https://en.wikipedia.org/wiki/Spanish_Braille)

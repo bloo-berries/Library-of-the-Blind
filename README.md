@@ -17,10 +17,10 @@ A centralized, easily accessible reference documenting the most extensive collec
 - [Library of the Blind](#library-of-the-blind)
   - [Contents](#contents)
   - [Braille Systems](#braille-systems)
-    - [European Braille](#european-braille)
-    - [Asian Braille](#asian-braille)
     - [Africa and Middle East Braille](#africa-and-middle-east-braille)
     - [Americas Braille](#americas-braille)
+    - [Asian Braille](#asian-braille)
+    - [European Braille](#european-braille)
     - [Specialized Braille](#specialized-braille)
   - [Alternative Tactile Scripts](#alternative-tactile-scripts)
     - [Pre-Braille Embossed Letter Systems](#pre-braille-embossed-letter-systems)
@@ -46,6 +46,79 @@ A centralized, easily accessible reference documenting the most extensive collec
   - [License](#license)
 
 ## Braille Systems
+
+### Africa and Middle East Braille
+
+- **[Hebrew Braille](./braille-systems/african/README.md#hebrew-braille)** - Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel; covers Hebrew and Yiddish
+- **[Swahili Braille](./braille-systems/african/README.md#swahili-braille)** - Based on Latin alphabet (East Africa); based on English or French Braille depending on region
+- **[Hausa Braille](./braille-systems/african/README.md#hausa-braille)** - Adapted for Hausa alphabet
+- **[Amharic Braille (Ethiopian Braille / Ge'ez Script)](./braille-systems/african/README.md#amharic-braille-ethiopian-braille--geez-script)** - Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary
+- **[Yoruba Braille](./braille-systems/african/README.md#yoruba-braille)** - Includes tone markers
+- **[Zulu Braille](./braille-systems/african/README.md#zulu-braille)** - Adapted for Zulu alphabet
+- **[Xhosa Braille](./braille-systems/african/README.md#xhosa-braille)** - Adapted for Xhosa alphabet
+- **[Ghanaian Braille](./braille-systems/african/README.md#ghanaian-braille)** - Based on French-ordered Braille
+- **[Akan (Twi) Braille](./braille-systems/african/README.md#akan-twi-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
+- **[Ewe Braille](./braille-systems/african/README.md#ewe-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
+- **[Ga and Dagaare Braille](./braille-systems/african/README.md#ga-and-dagaare-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
+- **[Nigerian Braille](./braille-systems/african/README.md#nigerian-braille)** - Based on French-ordered Braille; includes Hausa, Igbo, and Yoruba
+- **[Igbo Braille](./braille-systems/african/README.md#igbo-braille)** - Part of Nigerian Braille system; based on English Braille with Igbo-specific extensions
+- **[South African Braille](./braille-systems/african/README.md#south-african-braille)** - Based on English Braille; includes Afrikaans, Sesotho, Tswana, Venda, Xhosa, and Zulu
+- **[Afrikaans Braille](./braille-systems/african/README.md#afrikaans-braille)** - Part of South African Braille system; based on English Braille
+- **[Sesotho and Tswana Braille](./braille-systems/african/README.md#sesotho-and-tswana-braille)** - Part of South African Braille system; based on English Braille
+- **[Venda Braille](./braille-systems/african/README.md#venda-braille)** - Part of South African Braille system; based on English Braille
+- **[Zambian Braille](./braille-systems/african/README.md#zambian-braille)** - Based on French-ordered Braille
+- **[Algerian Braille](./braille-systems/african/README.md#algerian-braille)** - Reordered system (obsolete)
+- **[Arabic Braille](./braille-systems/african/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; used across Middle East and North Africa
+
+### Americas Braille
+
+- **[Unified English Braille (UEB)](./braille-systems/americas/README.md#unified-english-braille-ueb)** - Current standard for English (US, Canada)
+- **[American Braille (AB) / Modified American Braille](./braille-systems/americas/README.md#american-braille-ab--modified-american-braille)** - Joel W. Smith's frequency-based dot assignment system; introduced at Perkins Institution in 1878 (USA, 1878-1918, legacy)
+- **[Spanish Braille (Latin American variants)](./braille-systems/americas/README.md#spanish-braille-latin-american-variants)** - Regional variations across Latin America
+- **[Portuguese Braille (Brazilian)](./braille-systems/americas/README.md#portuguese-braille-brazilian)** - PT-BR variant with slight differences from PT-PT
+- **[Inuktitut Braille](./braille-systems/americas/README.md#inuktitut-braille)** - Adapted for Inuktitut syllabics; reassigned vowels
+- **[Guarani Braille](./braille-systems/americas/README.md#guarani-braille)** - Based on French-ordered Braille
+- **[Hawaiian Braille](./braille-systems/americas/README.md#hawaiian-braille)** - Based on French-ordered Braille
+- **[Iñupiaq Braille](./braille-systems/americas/README.md#iñupiaq-braille)** - Based on French-ordered Braille
+- **[Navajo Braille](./braille-systems/americas/README.md#navajo-braille)** - Based on French-ordered Braille
+- **[Samoan Braille](./braille-systems/americas/README.md#samoan-braille)** - Based on French-ordered Braille
+- **[Māori Braille](./braille-systems/americas/README.md#māori-braille)** - Based on French-ordered Braille
+
+### Asian Braille
+
+- **[Arabic Braille](./braille-systems/asian/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; avoids reordering chaos (unlike obsolete Algerian Braille); covers Arabic, Persian (Farsi), Urdu (Pakistan)
+- **[Pakistani Urdu Braille](./braille-systems/asian/README.md#pakistani-urdu-braille)** - Entirely different alphabet than Indian Urdu Braille; commonalities due to common inheritance from English/International Braille
+- **[Japanese Tenji (Braille) (点字)](./braille-systems/asian/README.md#japanese-tenji-braille-点字)** - Kuraji Ishikawa's system (1890); transcribes Japanese as written in hiragana/katakana; no provision for kanji
+- **[Korean Hangul Braille (한글 점자)](./braille-systems/asian/README.md#korean-hangul-braille-한글-점자)** - Rosetta Sherwood Hall (1894), Park Du-seong (1926); reflects Hangul patterns; differentiates initial consonants, vowels, and final consonants
+- **[Mainland Chinese Braille (现行盲文)](./braille-systems/asian/README.md#mainland-chinese-braille-现行盲文)** - Each syllable written with up to three Braille cells (initial, final, tone); tone generally omitted
+- **[Two-Cell Chinese Braille (汉语双拼盲文)](./braille-systems/asian/README.md#two-cell-chinese-braille-汉语双拼盲文)** - Encodes all syllable information (onset, rime, tone) in exactly two cells; approved 1988
+- **[Cantonese Braille (粵語點字)](./braille-systems/asian/README.md#cantonese-braille-粵語點字)** - Purely phonetic; each syllable divided into initial consonant, rime, and tone (Hong Kong and Macau)
+- **[Taiwanese Braille](./braille-systems/asian/README.md#taiwanese-braille)** - Based on Zhuyin (Bopomofo) phonetic system rather than Pinyin; differs significantly from mainland systems
+- **[Indian Braille (Bharati Braille) (भारती ब्रेल)](./braille-systems/asian/README.md#indian-braille-bharati-braille-भारती-ब्रेल)** - Unified code (1951); adopted by Sri Lanka, Nepal, Bangladesh; linearized alphasyllabary abugida (default vowel 'a' not written); covers Hindi, Bengali, Tamil, Telugu, Malayalam, Gujarati, Punjabi, Assamese, Odia, Kannada, Marathi, Nepali, Urdu (India), Sinhala, and others
+- **[Thai Braille](./braille-systems/asian/README.md#thai-braille)** - Adapted for Thai abugida; adapted from English Braille with tone markers
+- **[Vietnamese Braille](./braille-systems/asian/README.md#vietnamese-braille)** - Phonetically based on Quốc ngữ romanization; uses diacritic cells for tonal marks
+- **[Malay/Indonesian Braille](./braille-systems/asian/README.md#malayindonesian-braille)** - Based on Latin alphabet (Southeast Asia); derived from English Braille with local letters
+- **[Mongolian Braille](./braille-systems/asian/README.md#mongolian-braille)** - Based on Russian Braille; covers Mongolian (Cyrillic script)
+- **[Turkish Braille](./braille-systems/asian/README.md#turkish-braille)** - Adapted for Turkish alphabet
+- **[Azerbaijani Braille](./braille-systems/asian/README.md#azerbaijani-braille)** - Based on French-ordered Braille
+- **[Kazakh Braille](./braille-systems/asian/README.md#kazakh-braille)** - Russian lineage family (Cyrillic-mediated)
+- **[Kyrgyz Braille](./braille-systems/asian/README.md#kyrgyz-braille)** - Russian lineage family (Cyrillic-mediated)
+- **[Georgian Braille](./braille-systems/asian/README.md#georgian-braille)** - Unique mapping for Georgian script
+- **[Armenian Braille](./braille-systems/asian/README.md#armenian-braille)** - Distinct cell assignments for Armenian script
+- **[Tibetan Braille](./braille-systems/asian/README.md#tibetan-braille)** - Represents Tibetan syllabic structure; developed mid-20th century for use in Tibet and India
+- **[Burmese Braille](./braille-systems/asian/README.md#burmese-braille)** - For Burmese script (Myanmar)
+- **[Dzongkha Braille (Bhutanese)](./braille-systems/asian/README.md#dzongkha-braille-bhutanese)** - Adapted for Dzongkha script
+- **[Khmer Braille](./braille-systems/asian/README.md#khmer-braille)** - For Cambodian script
+- **[Lao Braille](./braille-systems/asian/README.md#lao-braille)** - Uses Japanese vowels; adapted for Lao script
+- **[Sinhala Braille](./braille-systems/asian/README.md#sinhala-braille)** - Indian lineage family (Bharati Braille)
+- **[Odia Braille](./braille-systems/asian/README.md#odia-braille)** - Indian lineage family (Bharati Braille)
+- **[Marathi Braille](./braille-systems/asian/README.md#marathi-braille)** - Indian lineage family (Bharati Braille - Devanagari script)
+- **[Nepali Braille](./braille-systems/asian/README.md#nepali-braille)** - Indian lineage family (Bharati Braille - Devanagari script)
+- **[Bangla Braille (Bengali variant)](./braille-systems/asian/README.md#bangla-braille-bengali-variant)** - Indian lineage family (Bharati Braille)
+- **[Devanagari Braille](./braille-systems/asian/README.md#devanagari-braille)** - Hindi, Marathi, Nepali (Devanagari script)
+- **[Mainland Chinese Mandarin Braille](./braille-systems/asian/README.md#mainland-chinese-mandarin-braille)** - Chinese semi-syllabary; largely reassigned from French-ordered
+- **[Taiwanese Mandarin Braille](./braille-systems/asian/README.md#taiwanese-mandarin-braille)** - Chinese semi-syllabary; largely reassigned from French-ordered
+- **[Two-cell Chinese Braille (Shuangpin)](./braille-systems/asian/README.md#two-cell-chinese-braille-shuangpin)** - Independent Chinese semi-syllabary system
 
 ### European Braille
 
@@ -84,79 +157,6 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Ukrainian Braille](./braille-systems/european/README.md#ukrainian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
 - **[Belarusian Braille](./braille-systems/european/README.md#belarusian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
 - **[Luxembourgish Braille](./braille-systems/european/README.md#luxembourgish-braille)** - Extended to 8-dot system
-
-### Asian Braille
-
-- **[Arabic Braille](./braille-systems/asian/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; avoids reordering chaos (unlike obsolete Algerian Braille); covers Arabic, Persian (Farsi), Urdu (Pakistan)
-- **[Pakistani Urdu Braille](./braille-systems/asian/README.md#pakistani-urdu-braille)** - Entirely different alphabet than Indian Urdu Braille; commonalities due to common inheritance from English/International Braille
-- **[Japanese Tenji (Braille) (点字)](./braille-systems/asian/README.md#japanese-tenji-braille-点字)** - Kuraji Ishikawa's system (1890); transcribes Japanese as written in hiragana/katakana; no provision for kanji
-- **[Korean Hangul Braille (한글 점자)](./braille-systems/asian/README.md#korean-hangul-braille-한글-점자)** - Rosetta Sherwood Hall (1894), Park Du-seong (1926); reflects Hangul patterns; differentiates initial consonants, vowels, and final consonants
-- **[Mainland Chinese Braille (现行盲文)](./braille-systems/asian/README.md#mainland-chinese-braille-现行盲文)** - Each syllable written with up to three Braille cells (initial, final, tone); tone generally omitted
-- **[Two-Cell Chinese Braille (汉语双拼盲文)](./braille-systems/asian/README.md#two-cell-chinese-braille-汉语双拼盲文)** - Encodes all syllable information (onset, rime, tone) in exactly two cells; approved 1988
-- **[Cantonese Braille (粵語點字)](./braille-systems/asian/README.md#cantonese-braille-粵語點字)** - Purely phonetic; each syllable divided into initial consonant, rime, and tone (Hong Kong and Macau)
-- **[Taiwanese Braille](./braille-systems/asian/README.md#taiwanese-braille)** - Based on Zhuyin (Bopomofo) phonetic system rather than Pinyin; differs significantly from mainland systems
-- **[Indian Braille (Bharati Braille) (भारती ब्रेल)](./braille-systems/asian/README.md#indian-braille-bharati-braille-भारती-ब्रेल)** - Unified code (1951); adopted by Sri Lanka, Nepal, Bangladesh; linearized alphasyllabary abugida (default vowel 'a' not written); covers Hindi, Bengali, Tamil, Telugu, Malayalam, Gujarati, Punjabi, Assamese, Odia, Kannada, Marathi, Nepali, Urdu (India), Sinhala, and others
-- **[Thai Braille](./braille-systems/asian/README.md#thai-braille)** - Adapted for Thai abugida; adapted from English Braille with tone markers
-- **[Vietnamese Braille](./braille-systems/asian/README.md#vietnamese-braille)** - Phonetically based on Quốc ngữ romanization; uses diacritic cells for tonal marks
-- **[Malay/Indonesian Braille](./braille-systems/asian/README.md#malayindonesian-braille)** - Based on Latin alphabet (Southeast Asia); derived from English Braille with local letters
-- **[Mongolian Braille](./braille-systems/asian/README.md#mongolian-braille)** - Based on Russian Braille; covers Mongolian (Cyrillic script)
-- **[Turkish Braille](./braille-systems/asian/README.md#turkish-braille)** - Adapted for Turkish alphabet
-- **[Azerbaijani Braille](./braille-systems/asian/README.md#azerbaijani-braille)** - Based on French-ordered Braille
-- **[Kazakh Braille](./braille-systems/asian/README.md#kazakh-braille)** - Russian lineage family (Cyrillic-mediated)
-- **[Kyrgyz Braille](./braille-systems/asian/README.md#kyrgyz-braille)** - Russian lineage family (Cyrillic-mediated)
-- **[Georgian Braille](./braille-systems/asian/README.md#georgian-braille)** - Unique mapping for Georgian script
-- **[Armenian Braille](./braille-systems/asian/README.md#armenian-braille)** - Distinct cell assignments for Armenian script
-- **[Tibetan Braille](./braille-systems/asian/README.md#tibetan-braille)** - Represents Tibetan syllabic structure; developed mid-20th century for use in Tibet and India
-- **[Burmese Braille](./braille-systems/asian/README.md#burmese-braille)** - For Burmese script (Myanmar)
-- **[Dzongkha Braille (Bhutanese)](./braille-systems/asian/README.md#dzongkha-braille-bhutanese)** - Adapted for Dzongkha script
-- **[Khmer Braille](./braille-systems/asian/README.md#khmer-braille)** - For Cambodian script
-- **[Lao Braille](./braille-systems/asian/README.md#lao-braille)** - Uses Japanese vowels; adapted for Lao script
-- **[Sinhala Braille](./braille-systems/asian/README.md#sinhala-braille)** - Indian lineage family (Bharati Braille)
-- **[Odia Braille](./braille-systems/asian/README.md#odia-braille)** - Indian lineage family (Bharati Braille)
-- **[Marathi Braille](./braille-systems/asian/README.md#marathi-braille)** - Indian lineage family (Bharati Braille - Devanagari script)
-- **[Nepali Braille](./braille-systems/asian/README.md#nepali-braille)** - Indian lineage family (Bharati Braille - Devanagari script)
-- **[Bangla Braille (Bengali variant)](./braille-systems/asian/README.md#bangla-braille-bengali-variant)** - Indian lineage family (Bharati Braille)
-- **[Devanagari Braille](./braille-systems/asian/README.md#devanagari-braille)** - Hindi, Marathi, Nepali (Devanagari script)
-- **[Mainland Chinese Mandarin Braille](./braille-systems/asian/README.md#mainland-chinese-mandarin-braille)** - Chinese semi-syllabary; largely reassigned from French-ordered
-- **[Taiwanese Mandarin Braille](./braille-systems/asian/README.md#taiwanese-mandarin-braille)** - Chinese semi-syllabary; largely reassigned from French-ordered
-- **[Two-cell Chinese Braille (Shuangpin)](./braille-systems/asian/README.md#two-cell-chinese-braille-shuangpin)** - Independent Chinese semi-syllabary system
-
-### Africa and Middle East Braille
-
-- **[Hebrew Braille](./braille-systems/african/README.md#hebrew-braille)** - Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel; covers Hebrew and Yiddish
-- **[Swahili Braille](./braille-systems/african/README.md#swahili-braille)** - Based on Latin alphabet (East Africa); based on English or French Braille depending on region
-- **[Hausa Braille](./braille-systems/african/README.md#hausa-braille)** - Adapted for Hausa alphabet
-- **[Amharic Braille (Ethiopian Braille / Ge'ez Script)](./braille-systems/african/README.md#amharic-braille-ethiopian-braille--geez-script)** - Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary
-- **[Yoruba Braille](./braille-systems/african/README.md#yoruba-braille)** - Includes tone markers
-- **[Zulu Braille](./braille-systems/african/README.md#zulu-braille)** - Adapted for Zulu alphabet
-- **[Xhosa Braille](./braille-systems/african/README.md#xhosa-braille)** - Adapted for Xhosa alphabet
-- **[Ghanaian Braille](./braille-systems/african/README.md#ghanaian-braille)** - Based on French-ordered Braille
-- **[Akan (Twi) Braille](./braille-systems/african/README.md#akan-twi-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
-- **[Ewe Braille](./braille-systems/african/README.md#ewe-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
-- **[Ga and Dagaare Braille](./braille-systems/african/README.md#ga-and-dagaare-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
-- **[Nigerian Braille](./braille-systems/african/README.md#nigerian-braille)** - Based on French-ordered Braille; includes Hausa, Igbo, and Yoruba
-- **[Igbo Braille](./braille-systems/african/README.md#igbo-braille)** - Part of Nigerian Braille system; based on English Braille with Igbo-specific extensions
-- **[South African Braille](./braille-systems/african/README.md#south-african-braille)** - Based on English Braille; includes Afrikaans, Sesotho, Tswana, Venda, Xhosa, and Zulu
-- **[Afrikaans Braille](./braille-systems/african/README.md#afrikaans-braille)** - Part of South African Braille system; based on English Braille
-- **[Sesotho and Tswana Braille](./braille-systems/african/README.md#sesotho-and-tswana-braille)** - Part of South African Braille system; based on English Braille
-- **[Venda Braille](./braille-systems/african/README.md#venda-braille)** - Part of South African Braille system; based on English Braille
-- **[Zambian Braille](./braille-systems/african/README.md#zambian-braille)** - Based on French-ordered Braille
-- **[Algerian Braille](./braille-systems/african/README.md#algerian-braille)** - Reordered system (obsolete)
-- **[Arabic Braille](./braille-systems/african/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; used across Middle East and North Africa
-
-### Americas Braille
-
-- **[Unified English Braille (UEB)](./braille-systems/americas/README.md#unified-english-braille-ueb)** - Current standard for English (US, Canada)
-- **[American Braille (AB) / Modified American Braille](./braille-systems/americas/README.md#american-braille-ab--modified-american-braille)** - Joel W. Smith's frequency-based dot assignment system; introduced at Perkins Institution in 1878 (USA, 1878-1918, legacy)
-- **[Spanish Braille (Latin American variants)](./braille-systems/americas/README.md#spanish-braille-latin-american-variants)** - Regional variations across Latin America
-- **[Portuguese Braille (Brazilian)](./braille-systems/americas/README.md#portuguese-braille-brazilian)** - PT-BR variant with slight differences from PT-PT
-- **[Inuktitut Braille](./braille-systems/americas/README.md#inuktitut-braille)** - Adapted for Inuktitut syllabics; reassigned vowels
-- **[Guarani Braille](./braille-systems/americas/README.md#guarani-braille)** - Based on French-ordered Braille
-- **[Hawaiian Braille](./braille-systems/americas/README.md#hawaiian-braille)** - Based on French-ordered Braille
-- **[Iñupiaq Braille](./braille-systems/americas/README.md#iñupiaq-braille)** - Based on French-ordered Braille
-- **[Navajo Braille](./braille-systems/americas/README.md#navajo-braille)** - Based on French-ordered Braille
-- **[Samoan Braille](./braille-systems/americas/README.md#samoan-braille)** - Based on French-ordered Braille
-- **[Māori Braille](./braille-systems/americas/README.md#māori-braille)** - Based on French-ordered Braille
 
 ### Specialized Braille
 
