@@ -7,13 +7,6 @@
 - **Key Features / Variants:** Single unified code for literary and technical material
 - **Status:** Current standard
 
-### American Braille (AB) / Modified American Braille
-- **Inventor/Developer:** Joel W. Smith
-- **Script / Language Covered:** US English (legacy)
-- **Date:** 1878-1918
-- **Key Features / Variants:** Joel Smith, a teacher at the Perkins Institution, introduced Modified American Braille in 1878. Frequency-based dot assignments. Still used in some legacy publications
-- **Status:** Legacy system
-
 ### French Braille
 - **Script / Language Covered:** French, Haitian Creole, many West-African languages
 - **Key Features / Variants:** Basis for many African Braille codes

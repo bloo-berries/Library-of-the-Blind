@@ -7,9 +7,11 @@
 - **Key Characteristics:** Single unified code for literary and technical material
 - **Status:** Current standard
 
-### American Braille (AB)
+### American Braille (AB) / Modified American Braille
+- **Inventor/Developer:** Joel W. Smith
 - **Languages Supported:** US English (legacy)
-- **Key Characteristics:** Still used in some legacy publications
+- **Date:** 1878-1918
+- **Key Characteristics:** Joel Smith, a teacher at the Perkins Institution, introduced Modified American Braille in 1878. Frequency-based dot assignments. Still used in some legacy publications
 - **Status:** Legacy system
 
 ## Latin America

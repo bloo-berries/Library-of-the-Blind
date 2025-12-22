@@ -23,7 +23,6 @@ A centralized, easily accessible reference documenting the most extensive collec
     - [Americas Braille](#americas-braille)
     - [Specialized Braille](#specialized-braille)
   - [Alternative Tactile Scripts](#alternative-tactile-scripts)
-    - [Alternative Tactile Scripts](#alternative-tactile-scripts)
     - [Pre-Braille Embossed Letter Systems](#pre-braille-embossed-letter-systems)
     - [Dot-Based Alternative Systems](#dot-based-alternative-systems)
     - [Modern Alternative Scripts](#modern-alternative-scripts)
@@ -51,7 +50,6 @@ A centralized, easily accessible reference documenting the most extensive collec
 ### European Braille
 
 - **[Unified English Braille (UEB)](./braille-systems/european/README.md#unified-english-braille-ueb)** - Single unified code for English (US, UK, Canada, Australia, NZ) covering literary and technical material; international standard adopted 2012
-- **[American Braille (AB) / Modified American Braille](./braille-systems/european/README.md#american-braille-ab--modified-american-braille)** - Joel W. Smith's frequency-based dot assignment system; introduced at Perkins Institution in 1878 (USA, 1878-1918, legacy)
 - **[French Braille](./braille-systems/european/README.md#french-braille)** - Basis for many African Braille codes; covers French, Haitian Creole, and many West-African languages
 - **[German Braille](./braille-systems/european/README.md#german-braille)** - Includes special signs for ß and umlauts; covers German and Luxembourgish
 - **[Spanish Braille](./braille-systems/european/README.md#spanish-braille)** - Uses "ñ" and accented vowels; covers Spanish (Spain and Latin America)
@@ -141,7 +139,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 ### Americas Braille
 
 - **[Unified English Braille (UEB)](./braille-systems/americas/README.md#unified-english-braille-ueb)** - Current standard for English (US, Canada)
-- **[American Braille (AB)](./braille-systems/americas/README.md#american-braille-ab)** - Legacy US English system
+- **[American Braille (AB) / Modified American Braille](./braille-systems/americas/README.md#american-braille-ab--modified-american-braille)** - Joel W. Smith's frequency-based dot assignment system; introduced at Perkins Institution in 1878 (USA, 1878-1918, legacy)
 - **[Spanish Braille (Latin American variants)](./braille-systems/americas/README.md#spanish-braille-latin-american-variants)** - Regional variations across Latin America
 - **[Portuguese Braille (Brazilian)](./braille-systems/americas/README.md#portuguese-braille-brazilian)** - PT-BR variant with slight differences from PT-PT
 - **[Inuktitut Braille](./braille-systems/americas/README.md#inuktitut-braille)** - Adapted for Inuktitut syllabics; reassigned vowels
