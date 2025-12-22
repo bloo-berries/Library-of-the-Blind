@@ -9,57 +9,57 @@ This category includes Braille systems from Africa and the Middle East. Many Afr
 ### Hebrew Braille
 - **Languages Supported:** Hebrew, Yiddish
 - **Key Characteristics:** Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel. Uses same cell patterns as English but mapped to Hebrew letters
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Swahili Braille
 - **Languages Supported:** Swahili (East Africa)
 - **Key Characteristics:** Based on Latin alphabet. Based on English or French Braille depending on region
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Hausa Braille
 - **Languages Supported:** Hausa
 - **Key Characteristics:** Adapted for Hausa alphabet
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Amharic Braille (Ethiopian Braille / Ge'ez Script)
 - **Languages Supported:** Amharic and other Ethiopian Semitic languages
 - **Key Characteristics:** Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary. Adapted for Ge'ez script
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Yoruba Braille
 - **Languages Supported:** Yoruba
 - **Key Characteristics:** Includes tone markers
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Zulu Braille
 - **Languages Supported:** Zulu
 - **Key Characteristics:** Adapted for Zulu alphabet
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Xhosa Braille
 - **Languages Supported:** Xhosa
 - **Key Characteristics:** Adapted for Xhosa alphabet
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Ghanaian Braille
 - **Languages Supported:** Ghanaian languages
 - **Key Characteristics:** Based on French-ordered Braille
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Nigerian Braille
 - **Languages Supported:** Nigerian languages
 - **Key Characteristics:** Based on French-ordered Braille
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### South African Braille
 - **Languages Supported:** South African languages
 - **Key Characteristics:** Based on English Braille
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Zambian Braille
 - **Languages Supported:** Zambian languages
 - **Key Characteristics:** Based on French-ordered Braille
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Algerian Braille
 - **Languages Supported:** Algerian Arabic (obsolete)

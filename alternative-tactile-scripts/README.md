@@ -178,7 +178,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** France
 - **Date:** 1824-present
 - **Description:** Louis Braille's first French alphabet using his new system. The system was published in 1829. It is a 6-dot cell system; now the international standard
-- **Status:** Active (international standard)
+<span style="color: green;">Active</span> (international standard)
 - **Key Features:**
   - 6-dot cell system
   - First French alphabet published in 1829
@@ -216,7 +216,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** UK
 - **Date:** 1845 (first book appeared in 1847)
 - **Description:** Dr. William Moon of England, who lost his sight at the tender age of twenty-one, devised, towards 1845, an alphabet formed of more or less arbitrary characters. Moon's books, though easy to read owing to their simple large type and boldness of relief, are very bulky and expensive. It is useful chiefly for adults whose finger-touch has been dulled by age or manual labour
-- **Status:** Active (though less common than Braille)
+<span style="color: green;">Active</span> (though less common than Braille)
 - **Key Features:**
   - Characters are simplified versions of print letters
   - Easy to read due to simple large type and boldness of relief
@@ -240,7 +240,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 ### ELIA Frames
 - **Origin / Users:** USA (2000s–present)
 - **Description:** Geometric shapes (circles, lines, curves) within a consistent frame; designed for late-blind adults
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Designed specifically for late-blind adults
   - Geometric shapes within consistent frames
@@ -249,7 +249,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 ### Fishburne Alphabet
 - **Origin / Users:** USA (2010s)
 - **Description:** Raised geometric symbols meant to be more intuitive than Braille
-- **Status:** Active (experimental)
+<span style="color: green;">Active</span> (experimental)
 - **Key Features:**
   - Geometric symbol-based system
   - Designed for intuitive recognition
@@ -269,7 +269,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** International
 - **Date:** 2006-2008
 - **Description:** The Fakoo alphabet was developed from 2006 to 2008 and beyond by Alexander Fakoó as script for the blind, which can also be read by the sighted. This should enable an improved exchange of information between blind and sighted people. The basis is a grid of 3 x 3 dots and a blank space from one dot to the next character. Basically, all Fakoo characters can be displayed or defined by two Braille characters next to each other. Being 3 dots high, the Fakoo Alphabet can be used with any blind writing technique
-- **Status:** Active (niche)
+<span style="color: green;">Active</span> (niche)
 - **Key Features:**
   - 3 x 3 dot grid system
   - Readable by both blind and sighted
@@ -281,7 +281,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** International
 - **Date:** 2008
 - **Description:** The Quadoo alphabet was developed by Alexander Fakoó in 2008 as an alternative version of the Moon alphabet. Quadoo is easy to read, since the characters can be assigned to Latin letters without any problems and without any confusion. It is also easy to write with a square stencil, since there are no arcs, circles or the like. Only the four sides and the two diagonals of a square are used to represent all characters. This means that the characters only consist of 1 to 6 lines and possibly additional dots at the corners to represent special characters. It was designed for handwritten notes by blind people and can also be used outdoors with materials like twigs, nails, or matches
-- **Status:** Active (niche)
+<span style="color: green;">Active</span> (niche)
 - **Key Features:**
   - Alternative to Moon alphabet
   - Square-based characters (sides and diagonals)
@@ -294,7 +294,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** International
 - **Date:** 2012
 - **Description:** Siekoo is a tactile script created by Alexander Fakoó that can be read by blind. Blind people could use the characters on electronic devices that have seven-segment displays with tactile elements. Special emphasis was placed on easy legibility. This system was designed specifically for electronic devices with seven-segment displays
-- **Status:** Active (niche)
+<span style="color: green;">Active</span> (niche)
 - **Key Features:**
   - Designed for seven-segment displays
   - Electronic device compatibility
@@ -313,7 +313,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 ### Pro-Tactile (PT)
 - **Origin / Users:** Developed by DeafBlind community (USA, Canada, Europe)
 - **Description:** A tactile-sign language that conveys grammatical information through pressure, movement, and location on the hand
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Not a writing system, but a communication modality
   - Developed by and for the DeafBlind community
@@ -327,7 +327,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### Lorm Alphabet
 - **Origin / Users:** Austria (1881–present); popular among DeafBlind in German-speaking countries
 - **Description:** Touch-based system using palm and finger locations to spell letters
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Uses specific locations on palm and fingers
   - Popular in German-speaking DeafBlind communities
@@ -336,7 +336,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### Malossi Alphabet
 - **Origin / Users:** Italy (20th century)
 - **Description:** Tapping/pinching specific finger joints to spell letters
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Uses finger joint locations
   - Tapping and pinching gestures
@@ -345,7 +345,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### Spartan Alphabet (Deafblind Manual) / Block Alphabet
 - **Origin / Users:** UK/USA (various)
 - **Description:** The Block Alphabet is a tactile communication method designed for individuals who are deafblind and who have prior experience with reading and writing in print. Capital letters are drawn on the palm. Block letters traced on palm
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Letters traced directly on palm
   - Block letter forms (capital letters)
@@ -355,7 +355,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### Visual Frame Sign Language (VFSL)
 - **Origin / Users:** International
 - **Description:** Visual Frame Sign Language (VFSL) is a communication method designed for deafblind individuals with residual vision. It involves signing within a defined visual frame, so typically an interpreter would imagine a small rectangle in front of their head and shoulders and keep their signs there throughout the conversation
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Designed for deafblind with residual vision
   - Signs kept within defined visual frame
@@ -367,7 +367,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 - **Origin:** Scotland (Edinburgh's Royal Blind School)
 - **Date:** Late 20th century
 - **Description:** The Canaan Barrie 'on body' signing approach was developed in order to make signing, which is a visual means of communication, both meaningful and relevant to the person with complex support needs through the use of touch and other available senses. The method includes signing 'in front', 'on body' and 'hands over.' Canaan Barrie signs are developed as a relationship between an adult and child develops. This means that each child's Canaan Barrie signs are slightly different as they are unique to them. Pioneered by a principal teacher of Edinburgh's Royal Blind School for children who have multiple disabilities as well as being visually impaired
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - On-body signing approach
   - Includes signing 'in front', 'on body', and 'hands over'
@@ -378,7 +378,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### TaSSeLS (Tactile Signing for Sensory Learners)
 - **Origin / Users:** International
 - **Description:** A system of touch cues or adapted signs to help understanding, anticipation, and to alert the child that something is going to happen. For children who have complex needs, often with visual impairment, and require additional sensory feedback to help their learning
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Touch cues and adapted signs
   - Helps understanding and anticipation
@@ -389,7 +389,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### Two-Hand Manual Alphabet (Tactile)
 - **Origin / Users:** UK
 - **Description:** British two-handed fingerspelling perceived tactilely
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Two-handed fingerspelling system
   - Perceived through touch
@@ -398,7 +398,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### Haptic Communication
 - **Origin / Users:** Scandinavia (2000s–present)
 - **Description:** Systematic touch signals on back/arm conveying environmental and emotional information
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Uses back and arm locations
   - Conveys environmental and emotional information
@@ -409,7 +409,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 - **Origin:** Finland/Scandinavia
 - **Date:** 1990s–present
 - **Description:** Social Haptic Communication is broadly defined as the interaction of two or more people in a social context where messages are conveyed using the sense of touch. These messages (or haptices) may contain information about emotion, facial expression, to map out the environment or a room layout and describing other visual or auditory information such as art or music. According to international guidelines, social-haptic signs are carried out in neutral zones on the body of the deafblind person: These include the back, arm, wrist, outer/inner palm and upper knee area. A standardized vocabulary of 139+ signals exists, documented by the Danish DeafBlind Association. This is an approach developed over nearly 30 years to improving communication with a person with sensory loss (primarily blind and deafblind) with friends, family and professionals
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Standardized vocabulary of 139+ signals
   - Used in neutral body zones (back, arm, wrist, palm, knee)
@@ -420,7 +420,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### POP (Print-On-Palm)
 - **Origin / Users:** International
 - **Description:** With POP, the index finger is used to print the message into the hand of the person who is deafblind. This can be used if the deaf-blind person is familiar with the printed alphabet
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Uses index finger to print on palm
   - Requires familiarity with printed alphabet
@@ -429,7 +429,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### Braille Signing / Palm Braille
 - **Origin / Users:** International
 - **Description:** Using six spots on the palm to represent the six dots of a braille cell. Alternatively, the signer may 'type' onto a table as if using a braille typewriter and the receiver will place their hands on top
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Six spots on palm represent Braille cell
   - Can be typed on table with hands on top
@@ -438,7 +438,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 ### Japanese Table-Typing System
 - **Origin / Users:** Japan
 - **Description:** In Japan, a system developed by a deafblind woman is in use to represent the five vowels and five major consonants of the Japanese language on the fingers, where the signer 'types' onto a table and the receiver places their hands on top to 'listen'
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Represents five vowels and five major consonants
   - Signer types on table, receiver places hands on top
@@ -449,7 +449,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 - **Origin:** USA
 - **Date:** Early 20th century
 - **Description:** The Tadoma method of communication was named for Tad Chapman and Oma Simpson, who were the first students with deafblindness to use it. With this method, sometimes referred to as "tactile lip-reading," the person who is deafblind places his or her hand on the speaker's jaw and lips, while also feeling the vibration of the vocal chords. Tactile perception of lip and facial movements
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 - **Key Features:**
   - Tactile method of speechreading
   - User places hand on speaker's jaw and lips
@@ -473,13 +473,13 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 - **Examples:** Tadoma, Finger-Spelling on the palm
 - **Community/Context:** Worldwide Deaf-Blind communities
 - **Description:** Direct tactile perception of hand shapes or facial movements
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Tactile Graphics Systems
 - **Examples:** Graphic Braille, Embossed Diagrams, 3-D Printed Models
 - **Community/Context:** Global
 - **Description:** Use raised lines, textures, or 3-D prints to convey maps, charts, anatomical diagrams, etc.
-- **Status:** Active
+- **Status:** <span style="color: green;">Active</span>
 
 ### Tactile Map Symbols (ISO 13125)
 - **Community/Context:** International cartography standard
@@ -492,7 +492,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 - **Origin / Users:** Andean Civilizations
 - **Date:** 2600 BCE–present
 - **Description:** It is generally thought that the system did not include phonetic symbols analogous to letters of the alphabet. However, Gary Urton has suggested that the quipus used a binary system which could record phonological or logographic data. Another theory is that this is at least partially a tactile writing system, as fibers used in Quipu can be differentiated by touch. Quipu could record dates, statistics, accounts, and even abstract ideas. Quipu are still used today across South America. According to Guaman Poma, quipucamayocs could "read" the quipus with their eyes closed. Recent research has found that some quipus are special. Because they're logosyllabic. Meaning the knots and the differences in fibers corresponded to phonetic sounds, which formed words
-- **Status:** Active (still used in South America)
+<span style="color: green;">Active</span> (still used in South America)
 - **Key Features:**
   - Knot-based recording system
   - Fibers can be differentiated by touch
