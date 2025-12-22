@@ -7,8 +7,8 @@ Many African Braille systems are based on French Braille, adapted for local lang
 ## Major African Braille Codes
 
 ### Swahili Braille
-- **Languages Supported:** Swahili
-- **Key Characteristics:** Based on English or French Braille depending on region
+- **Languages Supported:** Swahili (East Africa)
+- **Key Characteristics:** Based on Latin alphabet. Based on English or French Braille depending on region
 - **Status:** Active
 
 ### Hausa Braille
@@ -16,9 +16,9 @@ Many African Braille systems are based on French Braille, adapted for local lang
 - **Key Characteristics:** Adapted for Hausa alphabet
 - **Status:** Active
 
-### Amharic Braille
-- **Languages Supported:** Amharic
-- **Key Characteristics:** Adapted for Ge'ez script
+### Amharic Braille (Ethiopian Braille / Ge'ez Script)
+- **Languages Supported:** Amharic and other Ethiopian Semitic languages
+- **Key Characteristics:** Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary. Adapted for Ge'ez script
 - **Status:** Active
 
 ### Yoruba Braille

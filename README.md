@@ -4,13 +4,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0-1.0 License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](./LICENSE)
-[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-109-blue)](./README.md#braille-systems)
+[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-119-blue)](./README.md#braille-systems)
 
 A centralized, easily accessible reference documenting the most extensive collection of accessibility systems for blind and visually impaired communities worldwide. This library serves as a comprehensive catalog of Braille systems, alternative tactile scripts, audio technologies, and multimodal accessibility solutions.
 
-**Total Official Braille & Tactile Language Systems: 109** (98 distinct Braille codes + 11 major alternative tactile systems)
+**Total Official Braille & Tactile Language Systems: 119** (107 distinct Braille codes + 12 major alternative tactile systems)
 
-> **Note:** This count includes 98 distinct official Braille codes (literary, specialized, and regional variants) plus 11 major standardized alternative tactile language systems. The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22 Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally.
+> **Note:** This count includes 107 distinct official Braille codes (literary, specialized, and regional variants) plus 12 major standardized alternative tactile language systems. The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally.
 
 ## Contents
 
@@ -48,8 +48,8 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 ### European Braille
 
-- **[Unified English Braille (UEB)](./braille-systems/european/README.md#unified-english-braille-ueb)** - Single unified code for English (US, UK, Canada, Australia, NZ) covering literary and technical material
-- **[American Braille (AB)](./braille-systems/european/README.md#american-braille-ab)** - Legacy US English system still used in some publications
+- **[Unified English Braille (UEB)](./braille-systems/european/README.md#unified-english-braille-ueb)** - Single unified code for English (US, UK, Canada, Australia, NZ) covering literary and technical material; international standard adopted 2012
+- **[American Braille (AB) / Modified American Braille](./braille-systems/european/README.md#american-braille-ab--modified-american-braille)** - Joel W. Smith's frequency-based dot assignment system; introduced at Perkins Institution in 1878 (USA, 1878-1918, legacy)
 - **[French Braille](./braille-systems/european/README.md#french-braille)** - Basis for many African Braille codes; covers French, Haitian Creole, and many West-African languages
 - **[German Braille](./braille-systems/european/README.md#german-braille)** - Includes special signs for ß and umlauts; covers German and Luxembourgish
 - **[Spanish Braille](./braille-systems/european/README.md#spanish-braille)** - Uses "ñ" and accented vowels; covers Spanish (Spain and Latin America)
@@ -58,10 +58,10 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Dutch Braille](./braille-systems/european/README.md#dutch-braille)** - Uses "ij" digraph; covers Dutch and Flemish
 - **[Swedish/Finnish Braille](./braille-systems/european/README.md#swedishfinnish-braille)** - Separate codes for Å, Ä, Ö; covers Swedish, Finnish, and Sami languages
 - **[Greek Braille](./braille-systems/european/README.md#greek-braille)** - Based on International Braille with Greek letters
-- **[Russian Braille](./braille-systems/european/README.md#russian-braille)** - 33-cell alphabet; covers Russian, Belarusian, Ukrainian (Cyrillic)
+- **[Russian Braille](./braille-systems/european/README.md#russian-braille)** - Based on Cyrillic alphabet; some patterns borrowed from French Braille; 33-cell alphabet; covers Russian, Belarusian, Ukrainian (Cyrillic)
 - **[Polish Braille](./braille-systems/european/README.md#polish-braille)** - Handles diacritics (ą, ć, ę, ł, ń, ó, ś, ż, ź)
 - **[Czech/Slovak Braille](./braille-systems/european/README.md#czechslovak-braille)** - Similar to Polish but with own diacritic mapping
-- **[Hungarian Braille](./braille-systems/european/README.md#hungarian-braille)** - Includes ő, ú, í, é, á, ó, ö, ü
+- **[Hungarian Braille](./braille-systems/european/README.md#hungarian-braille)** - Uses physical symmetry of patterns iconically; includes ő, ú, í, é, á, ó, ö, ü
 - **[Romanian Braille](./braille-systems/european/README.md#romanian-braille)** - Includes special characters for Romanian diacritics
 - **[Turkish Braille](./braille-systems/european/README.md#turkish-braille)** - Adapted for Turkish alphabet
 - **[Albanian Braille](./braille-systems/european/README.md#albanian-braille)** - Based on French-ordered Braille
@@ -70,13 +70,13 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Estonian Braille](./braille-systems/european/README.md#estonian-braille)** - Nordic family Braille
 - **[Faroese Braille](./braille-systems/european/README.md#faroese-braille)** - Nordic family Braille
 - **[Icelandic Braille](./braille-systems/european/README.md#icelandic-braille)** - Nordic family Braille
-- **[Irish Braille](./braille-systems/european/README.md#irish-braille)** - Based on French-ordered Braille
+- **[Irish Braille](./braille-systems/european/README.md#irish-braille)** - Adapted for Gaelic orthography; based on French-ordered Braille
 - **[Latvian Braille](./braille-systems/european/README.md#latvian-braille)** - Based on French-ordered Braille
 - **[Lithuanian Braille](./braille-systems/european/README.md#lithuanian-braille)** - Based on French-ordered Braille
 - **[Maltese Braille](./braille-systems/european/README.md#maltese-braille)** - Based on French-ordered Braille
 - **[Norwegian Braille](./braille-systems/european/README.md#norwegian-braille)** - Nordic family Braille (Scandinavian)
 - **[Slovak Braille](./braille-systems/european/README.md#slovak-braille)** - Similar to Czech but with own diacritic mapping
-- **[Welsh Braille](./braille-systems/european/README.md#welsh-braille)** - Based on French-ordered Braille
+- **[Welsh Braille](./braille-systems/european/README.md#welsh-braille)** - Includes special characters for Welsh; based on French-ordered Braille
 - **[Yugoslav Braille](./braille-systems/european/README.md#yugoslav-braille)** - Former Yugoslav languages (Serbian, Croatian, Bosnian, etc.)
 - **[Danish Braille](./braille-systems/european/README.md#danish-braille)** - Nordic family Braille (Scandinavian)
 - **[Greenlandic Braille](./braille-systems/european/README.md#greenlandic-braille)** - Nordic family Braille (Scandinavian)
@@ -92,22 +92,26 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 ### Asian Braille
 
-- **[Arabic Braille](./braille-systems/asian/README.md#arabic-braille)** - Right-to-left orientation with contextual shaping; covers Arabic, Persian (Farsi), Urdu
-- **[Hebrew Braille](./braille-systems/asian/README.md#hebrew-braille)** - Uses same cell patterns as English but mapped to Hebrew letters; covers Hebrew and Yiddish
-- **[Japanese Tenji (Braille)](./braille-systems/asian/README.md#japanese-tenji-braille)** - Two-cell system for kanji radicals; covers Japanese kana and kanji
-- **[Korean Hangul Braille](./braille-systems/asian/README.md#korean-hangul-braille)** - 24-cell base that combines jamo
-- **[Chinese Braille](./braille-systems/asian/README.md#chinese-braille)** - Two-cell system representing phonetics; covers Mandarin (Pinyin-based) and Cantonese (Jyutping)
-- **[Indian Braille (Bharati Braille)](./braille-systems/asian/README.md#indian-braille-bharati-braille)** - Unified code across 22 Indian languages including Hindi, Bengali, Tamil, Telugu, Malayalam, Gujarati, Punjabi, Assamese, Oriya, Kannada, Sanskrit
-- **[Thai Braille](./braille-systems/asian/README.md#thai-braille)** - Adapted from English Braille with tone markers
-- **[Vietnamese Braille](./braille-systems/asian/README.md#vietnamese-braille)** - Uses diacritic cells for tonal marks
-- **[Malay/Indonesian Braille](./braille-systems/asian/README.md#malayindonesian-braille)** - Derived from English Braille with local letters
+- **[Arabic Braille](./braille-systems/asian/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; avoids reordering chaos (unlike obsolete Algerian Braille); covers Arabic, Persian (Farsi), Urdu (Pakistan)
+- **[Pakistani Urdu Braille](./braille-systems/asian/README.md#pakistani-urdu-braille)** - Entirely different alphabet than Indian Urdu Braille; commonalities due to common inheritance from English/International Braille
+- **[Hebrew Braille](./braille-systems/asian/README.md#hebrew-braille)** - Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel; covers Hebrew and Yiddish
+- **[Japanese Tenji (Braille) (点字)](./braille-systems/asian/README.md#japanese-tenji-braille-点字)** - Kuraji Ishikawa's system (1890); transcribes Japanese as written in hiragana/katakana; no provision for kanji
+- **[Korean Hangul Braille (한글 점자)](./braille-systems/asian/README.md#korean-hangul-braille-한글-점자)** - Rosetta Sherwood Hall (1894), Park Du-seong (1926); reflects Hangul patterns; differentiates initial consonants, vowels, and final consonants
+- **[Mainland Chinese Braille (现行盲文)](./braille-systems/asian/README.md#mainland-chinese-braille-现行盲文)** - Each syllable written with up to three Braille cells (initial, final, tone); tone generally omitted
+- **[Two-Cell Chinese Braille (汉语双拼盲文)](./braille-systems/asian/README.md#two-cell-chinese-braille-汉语双拼盲文)** - Encodes all syllable information (onset, rime, tone) in exactly two cells; approved 1988
+- **[Cantonese Braille (粵語點字)](./braille-systems/asian/README.md#cantonese-braille-粵語點字)** - Purely phonetic; each syllable divided into initial consonant, rime, and tone (Hong Kong and Macau)
+- **[Taiwanese Braille](./braille-systems/asian/README.md#taiwanese-braille)** - Based on Zhuyin (Bopomofo) phonetic system rather than Pinyin; differs significantly from mainland systems
+- **[Indian Braille (Bharati Braille) (भारती ब्रेल)](./braille-systems/asian/README.md#indian-braille-bharati-braille-भारती-ब्रेल)** - Unified code (1951); adopted by Sri Lanka, Nepal, Bangladesh; linearized alphasyllabary abugida (default vowel 'a' not written); covers Hindi, Bengali, Tamil, Telugu, Malayalam, Gujarati, Punjabi, Assamese, Odia, Kannada, Marathi, Nepali, Urdu (India), Sinhala, and others
+- **[Thai Braille](./braille-systems/asian/README.md#thai-braille)** - Adapted for Thai abugida; adapted from English Braille with tone markers
+- **[Vietnamese Braille](./braille-systems/asian/README.md#vietnamese-braille)** - Phonetically based on Quốc ngữ romanization; uses diacritic cells for tonal marks
+- **[Malay/Indonesian Braille](./braille-systems/asian/README.md#malayindonesian-braille)** - Based on Latin alphabet (Southeast Asia); derived from English Braille with local letters
 - **[Mongolian Braille](./braille-systems/asian/README.md#mongolian-braille)** - Based on Russian Braille; covers Mongolian (Cyrillic script)
 - **[Georgian Braille](./braille-systems/asian/README.md#georgian-braille)** - Unique mapping for Georgian script
 - **[Armenian Braille](./braille-systems/asian/README.md#armenian-braille)** - Distinct cell assignments for Armenian script
-- **[Tibetan Braille](./braille-systems/asian/README.md#tibetan-braille)** - Small community usage
-- **[Burmese Braille](./braille-systems/asian/README.md#burmese-braille)** - Adapted for Burmese script
+- **[Tibetan Braille](./braille-systems/asian/README.md#tibetan-braille)** - Represents Tibetan syllabic structure; developed mid-20th century for use in Tibet and India
+- **[Burmese Braille](./braille-systems/asian/README.md#burmese-braille)** - For Burmese script (Myanmar)
 - **[Dzongkha Braille (Bhutanese)](./braille-systems/asian/README.md#dzongkha-braille-bhutanese)** - Adapted for Dzongkha script
-- **[Khmer Braille](./braille-systems/asian/README.md#khmer-braille)** - Adapted for Khmer script
+- **[Khmer Braille](./braille-systems/asian/README.md#khmer-braille)** - For Cambodian script
 - **[Lao Braille](./braille-systems/asian/README.md#lao-braille)** - Uses Japanese vowels; adapted for Lao script
 - **[Sinhala Braille](./braille-systems/asian/README.md#sinhala-braille)** - Indian lineage family (Bharati Braille)
 - **[Odia Braille](./braille-systems/asian/README.md#odia-braille)** - Indian lineage family (Bharati Braille)
@@ -121,9 +125,9 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 ### African Braille
 
-- **[Swahili Braille](./braille-systems/african/README.md#swahili-braille)** - Based on English or French Braille depending on region
+- **[Swahili Braille](./braille-systems/african/README.md#swahili-braille)** - Based on Latin alphabet (East Africa); based on English or French Braille depending on region
 - **[Hausa Braille](./braille-systems/african/README.md#hausa-braille)** - Adapted for Hausa alphabet
-- **[Amharic Braille](./braille-systems/african/README.md#amharic-braille)** - Adapted for Ge'ez script
+- **[Amharic Braille (Ethiopian Braille / Ge'ez Script)](./braille-systems/african/README.md#amharic-braille-ethiopian-braille--geez-script)** - Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary
 - **[Yoruba Braille](./braille-systems/african/README.md#yoruba-braille)** - Includes tone markers
 - **[Zulu Braille](./braille-systems/african/README.md#zulu-braille)** - Adapted for Zulu alphabet
 - **[Xhosa Braille](./braille-systems/african/README.md#xhosa-braille)** - Adapted for Xhosa alphabet
@@ -148,13 +152,18 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 ### Specialized Braille
 
-- **[Braille Music Notation](./braille-systems/specialized/README.md#braille-music-notation)** - International standard for encoding musical symbols; separate from literary Braille
-- **[Braille Mathematics (Nemeth Code)](./braille-systems/specialized/README.md#braille-mathematics-nemeth-code)** - Specialized symbols for algebra, calculus, geometry; primarily used in United States
+- **[Braille Music Notation](./braille-systems/specialized/README.md#braille-music-notation)** - Louis Braille's original music notation (1829-present); international standard for encoding musical symbols; separate from literary Braille
+- **[New York Point Music](./braille-systems/specialized/README.md#new-york-point-music)** - Notes made by combining two 'primitives' (digits 1-7); now obsolete
+- **[Carnatic Music Braille](./braille-systems/specialized/README.md#carnatic-music-braille)** - Braille Code for Carnatic Music developed in India
+- **[Braille Mathematics (Nemeth Code)](./braille-systems/specialized/README.md#braille-mathematics-nemeth-code)** - Specialized symbols for algebra, calculus, geometry; primarily used in United States (1952-present)
 - **[Marburg Mathematical Notation](./braille-systems/specialized/README.md#marburg-mathematical-notation)** - European alternative to Nemeth Code for mathematical notation
-- **[Unified English Braille (UEB) Technical](./braille-systems/specialized/README.md#other-mathematical-braille-systems)** - Integrated technical/math symbols within UEB framework
+- **[Unified English Braille (UEB) Technical](./braille-systems/specialized/README.md#unified-english-braille-ueb-technical)** - Integrated technical/math symbols within UEB framework (2010s–present)
+- **[Advanced Braille Code for Mathematics and Science (India)](./braille-systems/specialized/README.md#advanced-braille-code-for-mathematics-and-science-india)** - Advanced Braille Code for Mathematics and Science developed in India
 - **[Computer Braille (CBC)](./braille-systems/specialized/README.md#computer-braille-computer-braille-code---cbc)** - Designed for representing computer syntax (brackets, punctuation) in Braille
-- **[8-Dot Braille](./braille-systems/specialized/README.md#8-dot-braille-computer-braille)** - Extended cell with two additional dots for encoding 256 characters; used for computing
-- **[Grade 3 Braille / Personal Shorthand](./braille-systems/specialized/README.md#grade-3-braille--personal-shorthand)** - Highly contracted personal abbreviation systems for speed
+- **[8-Dot Braille (Computer Braille)](./braille-systems/specialized/README.md#8-dot-braille-computer-braille)** - Extended cell with two additional dots for encoding 256 characters; used for computing (1970s–present)
+- **[Grade 1 Braille (Uncontracted)](./braille-systems/specialized/README.md#grade-1-braille-uncontracted)** - Letter-by-letter transcription; basic Braille system
+- **[Grade 2 Braille (Contracted)](./braille-systems/specialized/README.md#grade-2-braille-contracted)** - 180 different letter contractions (including 75 shortform words); reduces paper volume; most common for publications
+- **[Grade 3 Braille / Personal Shorthand](./braille-systems/specialized/README.md#grade-3-braille--personal-shorthand)** - Advanced, highly abbreviated extension beyond Grade 2; largely personal shorthand; now obsolete
 - **[Braille for Sign Languages](./braille-systems/specialized/README.md#braille-for-sign-languages)** - Represents manual signs in tactile form (e.g., American Sign Language Braille, British Sign Language Braille)
 - **[Esperanto Braille](./braille-systems/specialized/README.md#esperanto-braille)** - International Braille with ĉ, ĝ, ĥ, ĵ, ŝ, ŭ
 - **[Braille for Constructed Languages](./braille-systems/specialized/README.md#braille-for-constructed-languages)** - Custom mappings created by enthusiasts (e.g., Klingon Braille, Dothraki Braille)
@@ -180,13 +189,14 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 ### Dot-Based Alternative Systems
 
-- **[Night Writing (Sonography)](./alternative-tactile-scripts/README.md#night-writing-sonography)** - Charles Barbier's 12-dot military cipher; direct predecessor to Braille (France, 1815–1820s)
+- **[Night Writing (Sonography)](./alternative-tactile-scripts/README.md#night-writing-sonography)** - Charles Barbier's tactile "Ecriture Nocturne" code for military messages; 12-dot cells encoding phonetic sounds; direct predecessor to Braille (France, 1815–1820s)
+- **[Standard Braille (Louis Braille's Original System)](./alternative-tactile-scripts/README.md#standard-braille-louis-brailles-original-system)** - Louis Braille's 6-dot cell system; first French alphabet published in 1829; now the international standard (France, 1824-present)
 - **[Ballu's Decapoint](./alternative-tactile-scripts/README.md#ballus-decapoint)** - 10-dot system; experimental French alternative (France, 19th century)
 
 ### Modern Alternative Scripts
 
 - **[Moon Type](./alternative-tactile-scripts/README.md#moon-type)** - Simplified, raised-outline characters derived from Latin alphabet; easier for people with reduced tactile sensitivity (UK, USA, Canada, Australia, New Zealand)
-- **[New York Point](./alternative-tactile-scripts/README.md#new-york-point)** - Historical 19th-century U.S. system; two-column, 10-dot system used in early American blind schools (now obsolete)
+- **[New York Point](./alternative-tactile-scripts/README.md#new-york-point)** - William Bell Wait's braille-like system using one to four pairs of points; most common letters written with fewest points (USA, 1868-1916, now obsolete)
 - **[ELIA Frames](./alternative-tactile-scripts/README.md#elia-frames)** - Geometric shapes within consistent frames; designed for late-blind adults (USA, 2000s–present)
 - **[Fishburne Alphabet](./alternative-tactile-scripts/README.md#fishburne-alphabet)** - Raised geometric symbols meant to be more intuitive than Braille (USA, 2010s)
 - **[Tactile Calligraphy Systems](./alternative-tactile-scripts/README.md#tactile-calligraphy-systems)** - Experimental raised cursive or decorative scripts for aesthetic purposes (various, contemporary)
@@ -197,6 +207,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Malossi Alphabet](./alternative-tactile-scripts/README.md#malossi-alphabet)** - Tapping/pinching specific finger joints to spell letters (Italy, 20th century)
 - **[Spartan Alphabet (Deafblind Manual)](./alternative-tactile-scripts/README.md#spartan-alphabet-deafblind-manual)** - Block letters traced on palm (UK/USA, various)
 - **[Two-Hand Manual Alphabet (Tactile)](./alternative-tactile-scripts/README.md#two-hand-manual-alphabet-tactile)** - British two-handed fingerspelling perceived tactilely (UK)
+- **[Tadoma](./alternative-tactile-scripts/README.md#tadoma)** - Tactile perception of lip and facial movements (International)
 - **[Haptic Communication](./alternative-tactile-scripts/README.md#haptic-communication)** - Systematic touch signals on back/arm conveying environmental and emotional information (Scandinavia, 2000s–present)
 
 ### Other Tactile Communication Systems

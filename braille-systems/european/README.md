@@ -7,9 +7,11 @@
 - **Key Features / Variants:** Single unified code for literary and technical material
 - **Status:** Current standard
 
-### American Braille (AB)
+### American Braille (AB) / Modified American Braille
+- **Inventor/Developer:** Joel W. Smith
 - **Script / Language Covered:** US English (legacy)
-- **Key Features / Variants:** Still used in some legacy publications
+- **Date:** 1878-1918
+- **Key Features / Variants:** Joel Smith, a teacher at the Perkins Institution, introduced Modified American Braille in 1878. Frequency-based dot assignments. Still used in some legacy publications
 - **Status:** Legacy system
 
 ### French Braille
@@ -54,7 +56,7 @@
 
 ### Russian Braille
 - **Languages Supported:** Russian, Belarusian, Ukrainian (Cyrillic)
-- **Key Characteristics:** 33-cell alphabet
+- **Key Characteristics:** Based on Cyrillic alphabet; some patterns borrowed from French Braille. 33-cell alphabet
 - **Status:** Active
 
 ### Polish Braille
@@ -69,7 +71,7 @@
 
 ### Hungarian Braille
 - **Languages Supported:** Hungarian
-- **Key Characteristics:** Includes ő, ú, í, é, á, ó, ö, ü
+- **Key Characteristics:** Uses physical symmetry of patterns iconically. Includes ő, ú, í, é, á, ó, ö, ü
 - **Status:** Active
 
 ### Romanian Braille
@@ -114,7 +116,7 @@
 
 ### Irish Braille
 - **Languages Supported:** Irish (Gaeilge)
-- **Key Characteristics:** Based on French-ordered Braille
+- **Key Characteristics:** Adapted for Gaelic orthography. Based on French-ordered Braille
 - **Status:** Active
 
 ### Latvian Braille
@@ -144,7 +146,7 @@
 
 ### Welsh Braille
 - **Languages Supported:** Welsh
-- **Key Characteristics:** Based on French-ordered Braille
+- **Key Characteristics:** Includes special characters for Welsh. Based on French-ordered Braille
 - **Status:** Active
 
 ### Yugoslav Braille

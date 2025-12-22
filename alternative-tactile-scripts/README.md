@@ -131,18 +131,35 @@ Historical tactile reading systems that predate or competed with Braille, using 
 ## Dot-Based Alternative Systems
 
 ### Night Writing (Sonography)
-- **Origin / Users:** Charles Barbier (France, 1815–1820s)
-- **Description:** 12-dot military cipher adapted for blind readers; direct predecessor to Braille
+- **Inventor/Developer:** Charles Barbier
+- **Origin:** France
+- **Date:** 1815-1820s
+- **Description:** The writing system invented by Charles Barbier at age fifteen, evolved from the tactile "Ecriture Nocturne" (night writing) code invented for sending military messages that could be read on the battlefield at night, without light. It used 12-dot cells encoding phonetic sounds
 - **Status:** Historical (precursor to Braille)
 - **Key Features:**
   - 12-dot cell system
-  - Originally designed for military use
+  - Originally designed for military use (night reading on battlefield)
+  - Encoded phonetic sounds
   - Direct inspiration for Louis Braille's 6-dot system
   - Also known as Sonography
 
+### Standard Braille (Louis Braille's Original System)
+- **Inventor/Developer:** Louis Braille
+- **Origin:** France
+- **Date:** 1824-present
+- **Description:** Louis Braille's first French alphabet using his new system. The system was published in 1829. It is a 6-dot cell system; now the international standard
+- **Status:** Active (international standard)
+- **Key Features:**
+  - 6-dot cell system
+  - First French alphabet published in 1829
+  - Foundation for all modern Braille systems
+  - International standard
+
 ### Ballu's Decapoint
-- **Origin / Users:** France (19th century)
-- **Description:** 10-dot system; experimental French alternative
+- **Inventor/Developer:** Ballu
+- **Origin:** France
+- **Date:** 19th century
+- **Description:** 10-dot experimental system
 - **Status:** Historical/obsolete
 - **Key Features:**
   - 10-dot cell configuration
@@ -164,13 +181,17 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Used mainly in the UK, USA, Canada, Australia, New Zealand
 
 ### New York Point
-- **Origin / Users:** 19th-century U.S. system (now obsolete)
-- **Description:** Two-column, 10-dot system; historically used in early American blind schools
+- **Inventor/Developer:** William Bell Wait
+- **Origin:** USA
+- **Date:** 1868-1916
+- **Description:** New York Point is a braille-like system of tactile writing for the blind. The system used one to four pairs of points set side by side, each containing one or two dots. The most common letters are written with the fewest points. Now obsolete
 - **Status:** Historical/obsolete
 - **Key Features:**
+  - Used one to four pairs of points set side by side
+  - Each pair contained one or two dots
+  - Most common letters written with fewest points
   - Historical significance in American blind education
   - Replaced by standard Braille
-  - Important for understanding the evolution of tactile scripts
 
 ### ELIA Frames
 - **Origin / Users:** USA (2000s–present)
@@ -257,6 +278,16 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Uses back and arm locations
   - Conveys environmental and emotional information
   - Systematic touch signal patterns
+
+### Tadoma
+- **Origin / Users:** International
+- **Description:** Tactile perception of lip and facial movements
+- **Status:** Active
+- **Key Features:**
+  - Tactile method of speechreading
+  - User places hand on speaker's face
+  - Perceives lip and facial movements through touch
+  - Used by DeafBlind individuals
 
 ## Other Tactile Communication Systems
 

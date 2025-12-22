@@ -5,13 +5,33 @@ Specialized Braille codes designed for specific domains beyond literary text.
 ## Music Braille
 
 ### Braille Music Notation
+- **Inventor/Developer:** Louis Braille
 - **Origin / Users:** International
-- **Description:** Uses six-dot cells to encode musical symbols; separate from literary Braille
+- **Date:** 1829-present
+- **Description:** Louis Braille's original music notation. Uses six-dot cells to encode musical symbols; separate from literary Braille
 - **Status:** Active standard
 - **Key Features:**
   - Represents notes, rhythms, dynamics, and other musical elements
   - Requires specialized training
   - International standard maintained by various organizations
+
+### New York Point Music
+- **Origin / Users:** USA (obsolete)
+- **Description:** Notes are made by combining two 'primitives', which are the digits 1-7. This system is now obsolete
+- **Status:** Obsolete
+- **Key Features:**
+  - Used primitives (digits 1-7) combined in pairs
+  - Historical system
+  - Replaced by standard Braille Music Notation
+
+### Carnatic Music Braille
+- **Origin / Users:** India
+- **Description:** Braille Code for Carnatic Music developed in India
+- **Status:** Active
+- **Key Features:**
+  - Specialized for Carnatic (South Indian) music
+  - Developed in India
+  - Used for Indian classical music notation
 
 ## Mathematics Braille
 
@@ -33,10 +53,28 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Alternative to Nemeth Code
   - Used in many European countries
 
+### Unified English Braille (UEB) Technical
+- **Origin / Users:** International
+- **Date:** 2010s–present
+- **Description:** Integrated math/science symbols within Unified English Braille framework
+- **Status:** Active
+- **Key Features:**
+  - Integrated within UEB framework
+  - Used for mathematical and scientific notation
+  - International standard
+
+### Advanced Braille Code for Mathematics and Science (India)
+- **Origin / Users:** India
+- **Description:** Advanced Braille Code for Mathematics and Science developed by the Institute in India
+- **Status:** Active
+- **Key Features:**
+  - Developed in India
+  - Used for mathematics and science notation
+  - Indian standard for technical Braille
+
 ### Other Mathematical Braille Systems
 - **European Mathematical Braille:** Used in many European countries
 - **Japanese Mathematical Braille:** Adapted for Japanese mathematical notation
-- **Unified English Braille (UEB) Technical:** Integrated technical/math symbols within UEB framework (international, 2010s–present)
 
 ## Computer Braille
 
@@ -58,17 +96,39 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Can encode 256 characters
   - Used in computing and technical applications
 
-## Personal Shorthand Systems
+## Braille Grade Systems
+
+### Grade 1 Braille (Uncontracted)
+- **Origin / Users:** International
+- **Description:** Letter-by-letter transcription
+- **Status:** Active
+- **Key Features:**
+  - Basic Braille system
+  - Each letter transcribed individually
+  - No contractions or abbreviations
+  - Used for learning and simple texts
+
+### Grade 2 Braille (Contracted)
+- **Origin / Users:** International
+- **Description:** There are 180 different letter contractions used in contracted braille (including 75 shortform words). These "short cuts" are used to reduce the volume of paper needed for reproducing books in braille
+- **Status:** Active (most common)
+- **Key Features:**
+  - 180 different letter contractions
+  - Includes 75 shortform words
+  - Reduces paper volume significantly
+  - Standard for most Braille publications
 
 ### Grade 3 Braille / Personal Shorthand
 - **Origin / Users:** Various (20th century)
-- **Description:** Highly contracted personal abbreviation systems for speed
-- **Status:** Active (personal use)
+- **Description:** Grade 3 Braille represents an advanced, highly abbreviated extension of English Braille beyond Grade 2 contractions, employing single cells or short sequences to denote entire words, phrases, or common omissions. Largely personal shorthand; now obsolete
+- **Status:** Obsolete (personal use only)
 - **Key Features:**
-  - Highly contracted forms
+  - Advanced, highly abbreviated extension beyond Grade 2
+  - Single cells or short sequences for entire words/phrases
   - Personal abbreviation systems
   - Used for speed reading/writing
   - Not standardized (varies by user)
+  - Now largely obsolete
 
 ## Other Specialized Codes
 
