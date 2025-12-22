@@ -4,13 +4,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0-1.0 License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](./LICENSE)
-[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-54-blue)](./README.md#braille-systems)
+[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-58-blue)](./README.md#braille-systems)
 
 A centralized, easily accessible reference documenting the most extensive collection of accessibility systems for blind and visually impaired communities worldwide. This library serves as a comprehensive catalog of Braille systems, alternative tactile scripts, audio technologies, and multimodal accessibility solutions.
 
-**Total Official Braille & Tactile Language Systems: 54** (47 distinct Braille codes + 7 major alternative tactile systems)
+**Total Official Braille & Tactile Language Systems: 58** (47 distinct Braille codes + 11 major alternative tactile systems)
 
-> **Note:** This count includes 47 distinct official Braille codes (literary, specialized, and regional variants) plus 7 major standardized alternative tactile language systems. The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22 Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally.
+> **Note:** This count includes 47 distinct official Braille codes (literary, specialized, and regional variants) plus 11 major standardized alternative tactile language systems. The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22 Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally.
 
 ## Contents
 
