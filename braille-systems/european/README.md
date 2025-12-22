@@ -37,7 +37,7 @@
 - **Key Features / Variants:** Uses "ij" digraph
 - **Status:** Active
 
-### Swedish/Finnish Braille
+### [Swedish/Finnish Braille](https://en.wikipedia.org/wiki/Scandinavian_Braille)
 - **Script / Language Covered:** Swedish, Finnish, Sami languages
 - **Key Features / Variants:** Separate codes for Å, Ä, Ö
 - **Status:** Active
@@ -72,107 +72,107 @@
 - **Key Characteristics:** Includes special characters for Romanian diacritics
 - **Status:** Active
 
-### Albanian Braille
+### [Albanian Braille](https://en.wikipedia.org/wiki/Albanian_Braille)
 - **Languages Supported:** Albanian
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** Active
 
-### Catalan Braille
+### [Catalan Braille](https://en.wikipedia.org/wiki/Catalan_Braille)
 - **Languages Supported:** Catalan
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** Active
 
-### Estonian Braille
+### [Estonian Braille](https://en.wikipedia.org/wiki/Estonian_Braille)
 - **Languages Supported:** Estonian
 - **Key Characteristics:** Nordic family Braille
 - **Status:** Active
 
-### Faroese Braille
+### [Faroese Braille](https://en.wikipedia.org/wiki/Faroese_Braille)
 - **Languages Supported:** Faroese
 - **Key Characteristics:** Nordic family Braille
 - **Status:** Active
 
-### Icelandic Braille
+### [Icelandic Braille](https://en.wikipedia.org/wiki/Icelandic_Braille)
 - **Languages Supported:** Icelandic
 - **Key Characteristics:** Nordic family Braille
 - **Status:** Active
 
-### Irish Braille
+### [Irish Braille](https://en.wikipedia.org/wiki/Irish_Braille)
 - **Languages Supported:** Irish (Gaeilge)
 - **Key Characteristics:** Adapted for Gaelic orthography. Based on French-ordered Braille
 - **Status:** Active
 
-### Latvian Braille
+### [Latvian Braille](https://en.wikipedia.org/wiki/Latvian_Braille)
 - **Languages Supported:** Latvian
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** Active
 
-### Lithuanian Braille
+### [Lithuanian Braille](https://en.wikipedia.org/wiki/Lithuanian_Braille)
 - **Languages Supported:** Lithuanian
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** Active
 
-### Maltese Braille
+### [Maltese Braille](https://en.wikipedia.org/wiki/Maltese_Braille)
 - **Languages Supported:** Maltese
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** Active
 
-### Norwegian Braille
+### [Norwegian Braille](https://en.wikipedia.org/wiki/Scandinavian_Braille)
 - **Languages Supported:** Norwegian
 - **Key Characteristics:** Nordic family Braille (Scandinavian)
 - **Status:** Active
 
-### Slovak Braille
+### [Slovak Braille](https://en.wikipedia.org/wiki/Slovak_Braille)
 - **Languages Supported:** Slovak
 - **Key Characteristics:** Similar to Czech but with own diacritic mapping
 - **Status:** Active
 
-### Welsh Braille
+### [Welsh Braille](https://en.wikipedia.org/wiki/Welsh_Braille)
 - **Languages Supported:** Welsh
 - **Key Characteristics:** Includes special characters for Welsh. Based on French-ordered Braille
 - **Status:** Active
 
-### Yugoslav Braille
+### [Yugoslav Braille](https://en.wikipedia.org/wiki/Yugoslav_Braille)
 - **Languages Supported:** Former Yugoslav languages (Serbian, Croatian, Bosnian, etc.)
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** Active
 
-### Danish Braille
+### [Danish Braille](https://en.wikipedia.org/wiki/Scandinavian_Braille)
 - **Languages Supported:** Danish
 - **Key Characteristics:** Nordic family Braille (Scandinavian)
 - **Status:** Active
 
-### Greenlandic Braille
+### [Greenlandic Braille](https://en.wikipedia.org/wiki/Scandinavian_Braille)
 - **Languages Supported:** Greenlandic (Kalaallisut)
 - **Key Characteristics:** Nordic family Braille (Scandinavian)
 - **Status:** Active
 
-### Northern Sámi Braille
+### [Northern Sámi Braille](https://en.wikipedia.org/wiki/Northern_S%C3%A1mi_Braille)
 - **Languages Supported:** Northern Sámi
 - **Key Characteristics:** Nordic family Braille (Scandinavian)
 - **Status:** Active
 
-### Bulgarian Braille
+### [Bulgarian Braille](https://en.wikipedia.org/wiki/Bulgarian_Braille)
 - **Languages Supported:** Bulgarian
 - **Key Characteristics:** Russian lineage family (Cyrillic-mediated)
 - **Status:** Active
 
-### Tatar Braille
+### [Tatar Braille](https://en.wikipedia.org/wiki/Tatar_Braille)
 - **Languages Supported:** Tatar
 - **Key Characteristics:** Russian lineage family (Cyrillic-mediated)
 - **Status:** Active
 
-### Ukrainian Braille
+### [Ukrainian Braille](https://en.wikipedia.org/wiki/Ukrainian_Braille)
 - **Languages Supported:** Ukrainian
 - **Key Characteristics:** Russian lineage family (Cyrillic-mediated); 33-cell alphabet
 - **Status:** Active
 
-### Belarusian Braille
+### [Belarusian Braille](https://en.wikipedia.org/wiki/Belarusian_Braille)
 - **Languages Supported:** Belarusian
 - **Key Characteristics:** Russian lineage family (Cyrillic-mediated); 33-cell alphabet
 - **Status:** Active
 
-### Luxembourgish Braille (8-dot)
+### [Luxembourgish Braille](https://en.wikipedia.org/wiki/Luxembourgish_Braille)
 - **Languages Supported:** Luxembourgish
 - **Key Characteristics:** Extended to 8-dot system
 - **Status:** Active
