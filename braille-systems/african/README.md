@@ -6,7 +6,7 @@ This category includes Braille systems from Africa and the Middle East. Many Afr
 
 ## Major Africa and Middle East Braille Codes
 
-### Hebrew Braille
+### [Hebrew Braille](https://en.wikipedia.org/wiki/Hebrew_Braille)
 - **Languages Supported:** Hebrew, Yiddish
 - **Key Characteristics:** Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel. Uses same cell patterns as English but mapped to Hebrew letters
 - **Status:** <span style="color: green;">Active</span>
@@ -51,12 +51,12 @@ This category includes Braille systems from Africa and the Middle East. Many Afr
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** <span style="color: green;">Active</span>
 
-### South African Braille
+### [South African Braille](https://en.wikipedia.org/wiki/South_African_braille)
 - **Languages Supported:** South African languages
 - **Key Characteristics:** Based on English Braille
 - **Status:** <span style="color: green;">Active</span>
 
-### Zambian Braille
+### [Zambian Braille](https://en.wikipedia.org/wiki/Zambian_Braille)
 - **Languages Supported:** Zambian languages
 - **Key Characteristics:** Based on French-ordered Braille
 - **Status:** <span style="color: green;">Active</span>
