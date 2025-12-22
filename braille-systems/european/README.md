@@ -2,37 +2,37 @@
 
 ## Major European Braille Codes
 
-### Unified English Braille (UEB)
+### [Unified English Braille (UEB)](https://en.wikipedia.org/wiki/Unified_English_Braille)
 - **Script / Language Covered:** English (US, UK, Canada, Australia, NZ)
 - **Key Features / Variants:** Single unified code for literary and technical material
 - **Status:** Current standard
 
-### French Braille
+### [French Braille](https://en.wikipedia.org/wiki/French_Braille)
 - **Script / Language Covered:** French, Haitian Creole, many West-African languages
 - **Key Features / Variants:** Basis for many African Braille codes
 - **Status:** Active
 
-### German Braille
+### [German Braille](https://en.wikipedia.org/wiki/German_Braille)
 - **Script / Language Covered:** German, Luxembourgish
 - **Key Features / Variants:** Includes special signs for ß, umlauts
 - **Status:** Active
 
-### Spanish Braille
+### [Spanish Braille](https://en.wikipedia.org/wiki/Spanish_Braille)
 - **Script / Language Covered:** Spanish (Spain, Latin America)
 - **Key Features / Variants:** Uses "ñ" and accented vowels
 - **Status:** Active
 
-### Portuguese Braille
+### [Portuguese Braille](https://en.wikipedia.org/wiki/Portuguese_Braille)
 - **Script / Language Covered:** Portuguese (Portugal, Brazil)
 - **Key Features / Variants:** Slight differences between PT-BR and PT-PT
 - **Status:** Active
 
-### Italian Braille
+### [Italian Braille](https://en.wikipedia.org/wiki/Italian_Braille)
 - **Script / Language Covered:** Italian
 - **Key Features / Variants:** Includes "à, è, ì, ò, ù"
 - **Status:** Active
 
-### Dutch Braille
+### [Dutch Braille](https://en.wikipedia.org/wiki/Dutch_Braille)
 - **Script / Language Covered:** Dutch, Flemish
 - **Key Features / Variants:** Uses "ij" digraph
 - **Status:** Active
@@ -42,32 +42,32 @@
 - **Key Features / Variants:** Separate codes for Å, Ä, Ö
 - **Status:** Active
 
-### Greek Braille
+### [Greek Braille](https://en.wikipedia.org/wiki/Greek_Braille)
 - **Script / Language Covered:** Modern Greek
 - **Key Features / Variants:** Based on International Braille with Greek letters
 - **Status:** Active
 
-### Russian Braille
+### [Russian Braille](https://en.wikipedia.org/wiki/Russian_Braille)
 - **Languages Supported:** Russian, Belarusian, Ukrainian (Cyrillic)
 - **Key Characteristics:** Based on Cyrillic alphabet; some patterns borrowed from French Braille. 33-cell alphabet
 - **Status:** Active
 
-### Polish Braille
+### [Polish Braille](https://en.wikipedia.org/wiki/Polish_Braille)
 - **Languages Supported:** Polish
 - **Key Characteristics:** Handles diacritics (ą, ć, ę, ł, ń, ó, ś, ż, ź)
 - **Status:** Active
 
-### Czech/Slovak Braille
+### [Czech Braille](https://en.wikipedia.org/wiki/Czech_Braille)
 - **Languages Supported:** Czech, Slovak
 - **Key Characteristics:** Similar to Polish but with own diacritic mapping
 - **Status:** Active
 
-### Hungarian Braille
+### [Hungarian Braille](https://en.wikipedia.org/wiki/Hungarian_Braille)
 - **Languages Supported:** Hungarian
 - **Key Characteristics:** Uses physical symmetry of patterns iconically. Includes ő, ú, í, é, á, ó, ö, ü
 - **Status:** Active
 
-### Romanian Braille
+### [Romanian Braille](https://en.wikipedia.org/wiki/Romanian_Braille)
 - **Languages Supported:** Romanian
 - **Key Characteristics:** Includes special characters for Romanian diacritics
 - **Status:** Active
