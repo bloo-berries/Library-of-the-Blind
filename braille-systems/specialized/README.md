@@ -4,7 +4,7 @@ Specialized Braille codes designed for specific domains beyond literary text.
 
 ## Music Braille
 
-### Braille Music Notation
+### [Braille Music Notation](https://en.wikipedia.org/wiki/Braille_music)
 - **Inventor/Developer:** Louis Braille
 - **Origin / Users:** International
 - **Date:** 1829-present
@@ -21,10 +21,8 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Supports chords, intervals, and contrapuntal lines
   - Available from National Library Service for the Blind and Print Disabled (NLS) in the US and similar national libraries worldwide
   - Can be transcribed manually or using software like Goodfeel, BrailleMUSE, or Sao Mai Braille
-- **References:**
-  - [Braille Music (Wikipedia)](https://en.wikipedia.org/wiki/Braille_music)
 
-### New York Point Music
+### [New York Point Music](https://www.merriam-webster.com/dictionary/New%20York%20point)
 - **Inventor/Developer:** William Bell Wait (as part of New York Point system)
 - **Origin / Users:** USA (obsolete)
 - **Date:** 1868-1916 (obsolete)
@@ -35,10 +33,8 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Part of the New York Point system that used variable-width cells
   - Historical system that competed with standard Braille
   - Replaced by standard Braille Music Notation in the early 20th century
-- **References:**
-  - [New York Point (Merriam-Webster)](https://www.merriam-webster.com/dictionary/New%20York%20point)
 
-### Carnatic Music Braille
+### [Carnatic Music Braille](https://www.thehindu.com/features/metroplus/society/on-a-fresh-note/article5673410.ece)
 - **Origin / Users:** India
 - **Description:** Specialized Braille code developed in India for Carnatic (South Indian classical) music notation. This system adapts Braille to represent the unique elements of Carnatic music, including its complex rhythmic patterns (tala), melodic structures (raga), and traditional notation methods.
 - **Status:** <span style="color: green;">Active</span>
@@ -48,12 +44,10 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Adapted for Indian classical music notation conventions
   - Developed to make Carnatic music accessible to visually impaired musicians in India
   - Used alongside standard Indian Braille (Bharati Braille) for music education
-- **References:**
-  - [Carnatic Music Braille (The Hindu)](https://www.thehindu.com/features/metroplus/society/on-a-fresh-note/article5673410.ece)
 
 ## Mathematics Braille
 
-### Braille Mathematics (Nemeth Code)
+### [Braille Mathematics (Nemeth Code)](https://en.wikipedia.org/wiki/Nemeth_Braille)
 - **Inventor/Developer:** Abraham Nemeth
 - **Origin / Users:** United States
 - **Date:** 1952-present
@@ -67,10 +61,8 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Widely used in educational settings in the United States
   - Named after Abraham Nemeth, who developed it to pursue his own mathematical studies
   - Can be used alongside literary Braille with proper code switching
-- **References:**
-  - [Nemeth Braille (Wikipedia)](https://en.wikipedia.org/wiki/Nemeth_Braille)
 
-### Marburg Mathematical Notation
+### [Marburg Mathematical Notation](https://chezdom.net/mathematicalbraillecodes/)
 - **Origin / Users:** Germany/Europe
 - **Date:** Mid-20th century–present
 - **Description:** European standard for mathematical and scientific Braille notation, developed as an alternative to the Nemeth Code. The Marburg system was created at the University of Marburg in Germany and serves as the primary mathematical Braille notation system used throughout much of Europe. It provides comprehensive coverage of mathematical symbols and expressions while maintaining compatibility with European Braille conventions.
@@ -82,10 +74,8 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Comprehensive coverage of mathematical and scientific notation
   - Compatible with European Braille literary codes
   - Handles complex mathematical expressions, formulas, and scientific notation
-- **References:**
-  - [Mathematical Braille Codes (chezdom.net)](https://chezdom.net/mathematicalbraillecodes/)
 
-### Unified English Braille (UEB) Technical
+### [Unified English Braille (UEB) Technical](https://en.wikipedia.org/wiki/Unified_English_Braille)
 - **Origin / Users:** International
 - **Date:** 2010s–present
 - **Description:** Technical and mathematical notation system integrated within the Unified English Braille (UEB) framework. UEB Technical provides a unified approach to representing mathematical and scientific notation within the broader UEB system, allowing seamless integration of technical content with literary text. This system was developed as part of the international effort to unify English Braille codes.
@@ -98,10 +88,8 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Part of the broader UEB unification effort (adopted 2012)
   - Used alongside or as alternative to Nemeth Code in some contexts
   - Supports basic to advanced mathematical notation
-- **References:**
-  - [Unified English Braille (Wikipedia)](https://en.wikipedia.org/wiki/Unified_English_Braille)
 
-### Advanced Braille Code for Mathematics and Science (India)
+### [Advanced Braille Code for Mathematics and Science (India)](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Advanced Braille code for mathematics and science developed by the National Institute for the Empowerment of Persons with Visual Disabilities (NIEPVD) in India. This system provides comprehensive coverage of mathematical and scientific notation adapted for use with Indian Braille (Bharati Braille) and Indian educational contexts. The code supports the full range of mathematical operations and scientific notation needed for education from primary through higher levels.
 - **Status:** <span style="color: green;">Active</span>
@@ -113,8 +101,6 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Supports comprehensive mathematical and scientific notation
   - Used in Indian educational institutions
   - Part of India's broader Braille development initiatives
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
 ### Other Mathematical Braille Systems
 - **European Mathematical Braille:** Used in many European countries
@@ -124,82 +110,60 @@ Specialized Braille codes designed for specific domains beyond literary text.
 
 The following languages are part of the Bharati Braille system, a unified Braille code for Indian languages standardized by the National Institute for the Empowerment of Persons with Visual Disabilities (NIEPVD). All of these languages use the same basic Braille cell assignments but with language-specific adaptations for their respective scripts and orthographies.
 
-### Bangla Braille (Bengali Braille)
+### [Bangla Braille (Bengali Braille)](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India, Bangladesh
 - **Description:** Braille adaptation for the Bengali language, part of the Bharati Braille system. Used for Bengali (Bangla) written in the Bengali script.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Gujarati Braille
+### [Gujarati Braille](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Braille adaptation for the Gujarati language, part of the Bharati Braille system. Used for Gujarati written in the Gujarati script.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Hindi Braille
+### [Hindi Braille](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Braille adaptation for the Hindi language, part of the Bharati Braille system. Used for Hindi written in the Devanagari script. One of the most widely used Indian Braille codes.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Kannada Braille
+### [Kannada Braille](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Braille adaptation for the Kannada language, part of the Bharati Braille system. Used for Kannada written in the Kannada script.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Malayalam Braille
+### [Malayalam Braille](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Braille adaptation for the Malayalam language, part of the Bharati Braille system. Used for Malayalam written in the Malayalam script.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Marathi Braille
+### [Marathi Braille](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Braille adaptation for the Marathi language, part of the Bharati Braille system. Used for Marathi written in the Devanagari script.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Nepali Braille
+### [Nepali Braille](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India, Nepal
 - **Description:** Braille adaptation for the Nepali language, part of the Bharati Braille system. Used for Nepali written in the Devanagari script.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Odia Braille
+### [Odia Braille](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Braille adaptation for the Odia language, part of the Bharati Braille system. Used for Odia written in the Odia script.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Sanskrit Braille
+### [Sanskrit Braille](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Braille adaptation for the Sanskrit language, part of the Bharati Braille system. Used for Sanskrit written in the Devanagari script. Important for accessing classical Indian texts and religious literature.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Telugu Braille
+### [Telugu Braille](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Braille adaptation for the Telugu language, part of the Bharati Braille system. Used for Telugu written in the Telugu script.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
-### Urdu Braille (India)
+### [Urdu Braille (India)](https://niepvd.nic.in/braille-development/)
 - **Origin / Users:** India
 - **Description:** Braille adaptation for Urdu as used in India, part of the Bharati Braille system. Note: This differs from Pakistani Urdu Braille, which uses a different system. Indian Urdu Braille is adapted for Urdu written in the Devanagari script (as used in India) rather than the Perso-Arabic script.
 - **Status:** <span style="color: green;">Active</span>
-- **References:**
-  - [NIEPVD Braille Development](https://niepvd.nic.in/braille-development/)
 
 ## Computer Braille
 
@@ -257,7 +221,7 @@ The following languages are part of the Bharati Braille system, a unified Braill
 
 ## Accessibility Adaptations
 
-### Jumbo Braille (Enlarged Braille cells)
+### [Jumbo Braille (Enlarged Braille cells)](https://www.languagehumanities.org/what-is-jumbo-braille.htm)
 - **Origin / Users:** International
 - **Description:** Enlarged Braille cells designed for users with reduced tactile sensitivity. Jumbo Braille features larger cell dimensions, increased dot height, and greater spacing between cells compared to standard Braille. This system is a critical accessibility modality for individuals with conditions such as neuropathy, diabetes-related peripheral neuropathy, or other conditions affecting tactile discrimination. It enables continued Braille literacy for users who might otherwise lose the ability to read standard Braille.
 - **Status:** <span style="color: green;">Active</span>
@@ -270,8 +234,6 @@ The following languages are part of the Bharati Braille system, a unified Braill
   - Can be produced using specialized embossing equipment or 3D printing
   - Particularly important for elderly Braille readers and those with diabetic neuropathy
   - Maintains same cell structure and dot patterns as standard Braille, just enlarged
-- **References:**
-  - [Jumbo Braille (Language Humanities)](https://www.languagehumanities.org/what-is-jumbo-braille.htm)
 
 ## Other Specialized Codes
 
@@ -280,7 +242,7 @@ The following languages are part of the Bharati Braille system, a unified Braill
 - **Description:** Represents manual signs in tactile form
 - **Status:** <span style="color: green;">Active</span> in specific communities
 
-### Esperanto Braille
+### [Esperanto Braille](https://en.wikipedia.org/wiki/Esperanto_Braille)
 - **Languages Supported:** Esperanto
 - **Description:** Braille adaptation for Esperanto, the constructed international auxiliary language. Esperanto Braille extends International Braille to include the six special letters unique to Esperanto: ĉ, ĝ, ĥ, ĵ, ŝ, and ŭ. These letters are represented using specific Braille cell combinations that follow the logical patterns of Esperanto orthography.
 - **Status:** <span style="color: green;">Active</span> in Esperanto-speaking communities
@@ -290,10 +252,8 @@ The following languages are part of the Bharati Braille system, a unified Braill
   - Used by Esperanto-speaking blind and visually impaired communities worldwide
   - Maintains consistency with International Braille conventions
   - Supports Esperanto literature and educational materials
-- **References:**
-  - [Esperanto Braille (Wikipedia)](https://en.wikipedia.org/wiki/Esperanto_Braille)
 
-### Braille for Constructed Languages
+### [Braille for Constructed Languages](https://klingon.wiki/En/Braille)
 - **Examples:** Klingon Braille, Dothraki Braille
 - **Description:** Custom Braille mappings created by enthusiasts for constructed languages (conlangs). These systems adapt Braille to represent the unique orthographies and character sets of fictional or constructed languages, often created by fans of science fiction, fantasy, or linguistic communities.
 - **Status:** Community-driven
@@ -303,10 +263,8 @@ The following languages are part of the Bharati Braille system, a unified Braill
   - Examples include Klingon Braille (for the Klingon language from Star Trek)
   - Often developed for accessibility in fan communities
   - May include adaptations for unique character sets or writing systems
-- **References:**
-  - [Klingon Braille (Klingon Wiki)](https://klingon.wiki/En/Braille)
 
-### Gardner–Salinas Braille Codes (GS8/GS6)
+### [Gardner–Salinas Braille Codes (GS8/GS6)](https://en.wikipedia.org/wiki/Gardner%E2%80%93Salinas_braille_codes)
 - **Origin / Users:** International (science and technical notation)
 - **Description:** Specialized Braille codes for scientific and technical notation, developed to provide comprehensive coverage of scientific symbols, formulas, and technical expressions. The Gardner–Salinas system includes both 8-dot (GS8) and 6-dot (GS6) variants, allowing flexibility in implementation depending on available Braille display technology. GS8 provides more symbols due to the extended 8-dot cell, while GS6 maintains compatibility with standard 6-dot Braille displays.
 - **Status:** <span style="color: green;">Active</span>
@@ -318,10 +276,8 @@ The following languages are part of the Bharati Braille system, a unified Braill
   - Used alongside other specialized Braille codes (Nemeth, Marburg, etc.)
   - Particularly useful for chemistry, physics, and engineering notation
   - Named after developers Gardner and Salinas
-- **References:**
-  - [Gardner–Salinas Braille Codes (Wikipedia)](https://en.wikipedia.org/wiki/Gardner%E2%80%93Salinas_braille_codes)
 
-### Kanji Braille (8-dot)
+### [Kanji Braille (8-dot)](https://en.wikipedia.org/wiki/Braille_kanji)
 - **Origin / Users:** Japan
 - **Description:** Extended 8-dot Braille system developed for representing Kanji characters in Japanese. Standard Japanese Tenji (Braille) only handles hiragana and katakana, with no provision for the thousands of Kanji characters used in Japanese writing. Kanji Braille uses the extended 8-dot cell to provide a systematic way to represent Kanji characters in tactile form, complementing the standard Japanese Tenji system.
 - **Status:** <span style="color: green;">Active</span>
@@ -332,10 +288,8 @@ The following languages are part of the Bharati Braille system, a unified Braill
   - Provides systematic encoding for Kanji characters
   - Enables full Japanese text representation in Braille
   - Used in educational and literary contexts in Japan
-- **References:**
-  - [Braille Kanji (Wikipedia)](https://en.wikipedia.org/wiki/Braille_kanji)
 
-### IPA Braille (International Phonetic Alphabet)
+### [IPA Braille (International Phonetic Alphabet)](https://en.wikipedia.org/wiki/IPA_Braille)
 - **Origin / Users:** International
 - **Description:** Braille representation of the International Phonetic Alphabet (IPA), the standardized system for phonetic notation used in linguistics. IPA Braille provides tactile access to phonetic transcriptions, enabling blind and visually impaired linguists, language learners, and researchers to work with phonetic notation. The system is based on French-ordered Braille and provides comprehensive coverage of IPA symbols including vowels, consonants, diacritics, and suprasegmental features.
 - **Status:** <span style="color: green;">Active</span>
@@ -347,6 +301,4 @@ The following languages are part of the Bharati Braille system, a unified Braill
   - Used in language learning and teaching
   - Enables blind linguists to read and write phonetic transcriptions
   - Supports academic and professional linguistic work
-- **References:**
-  - [IPA Braille (Wikipedia)](https://en.wikipedia.org/wiki/IPA_Braille)
 
