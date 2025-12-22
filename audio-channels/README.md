@@ -9,27 +9,27 @@ Screen readers convert digital text and interface elements into synthesized spee
 ### Major Screen Reader Software
 
 #### English Screen Readers
-- **JAWS (Job Access With Speech)**
+- **[JAWS (Job Access With Speech)](https://en.wikipedia.org/wiki/JAWS_(screen_reader))**
   - Primary market: Windows
   - Languages: English (US, UK, and other variants)
   - Status: Commercial, widely used
 
-- **NVDA (NonVisual Desktop Access)**
+- **[NVDA (NonVisual Desktop Access)](https://en.wikipedia.org/wiki/NonVisual_Desktop_Access)**
   - Primary market: Windows
   - Languages: English and many others (open-source, community-translated)
   - Status: Free, open-source
 
-- **VoiceOver**
+- **[VoiceOver](https://en.wikipedia.org/wiki/VoiceOver)**
   - Primary market: Apple (macOS, iOS, iPadOS, watchOS, tvOS)
   - Languages: English and many others
   - Status: Built-in, free
 
-- **Narrator**
+- **[Narrator (Windows)](https://en.wikipedia.org/wiki/Narrator_(Windows))**
   - Primary market: Windows
   - Languages: English and many others
   - Status: Built-in, free
 
-- **Orca**
+- **[Orca](https://orca.gnome.org/)**
   - Primary market: Linux
   - Languages: English and many others
   - Status: Free, open-source
@@ -74,11 +74,11 @@ Spoken-word recordings of books and other written content.
 Synthetic speech systems that convert text to audio.
 
 ### Major TTS Engines
-- **eSpeak:** Open-source, supports many languages
-- **Festival:** Open-source, multiple languages
-- **Google Text-to-Speech:** Commercial, many languages
-- **Amazon Polly:** Commercial, many languages
-- **Microsoft Speech Platform:** Commercial, many languages
+- **[eSpeak](https://en.wikipedia.org/wiki/ESpeak):** Open-source, supports many languages
+- **[Festival](https://en.wikipedia.org/wiki/Festival_Speech_Synthesis_System):** Open-source, multiple languages
+- **[Google Text-to-Speech](https://en.wikipedia.org/wiki/Speech_Recognition_%26_Synthesis):** Commercial, many languages
+- **[Amazon Polly](https://en.wikipedia.org/wiki/Amazon_Polly):** Commercial, many languages
+- **[Microsoft Speech Platform](https://en.wikipedia.org/wiki/Microsoft_text-to-speech_voices):** Commercial, many languages
 - **Apple VoiceOver TTS:** Built-in, many languages
 
 ## Counting Methodology
