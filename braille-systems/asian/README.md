@@ -7,7 +7,7 @@
 - **Key Characteristics:** Modern Arabic Braille uses the French sorting order and is adapted for right-to-left reading conventions. This unification avoids the chaos of each nation reordering the braille code to match the sorting order of its print alphabet, as happened in Algerian Braille, where braille codes were numerically reassigned to match the order of the Arabic alphabet and bear little relation to the values used in other countries. Used across Middle East and North Africa. Right-to-left orientation, contextual shaping
 - **Status:** <span style="color: green;">Active</span>
 
-### Pakistani Urdu Braille
+### [Pakistani Urdu Braille](https://en.wikipedia.org/wiki/Urdu_Braille)
 - **Languages Supported:** Urdu (Pakistan)
 - **Key Characteristics:** Pakistan has not adopted Bharati braille, so the Urdu Braille of Pakistan is an entirely different alphabet than the Urdu Braille of India, with their commonalities largely due to their common inheritance from English or International Braille
 - **Status:** <span style="color: green;">Active</span>
@@ -110,7 +110,7 @@
 - **Key Characteristics:** For Burmese script
 - **Status:** <span style="color: green;">Active</span>
 
-### Dzongkha Braille (Bhutanese)
+### [Dzongkha Braille (Bhutanese)](https://en.wikipedia.org/wiki/Dzongkha_Braille)
 - **Languages Supported:** Dzongkha (Bhutanese)
 - **Key Characteristics:** Adapted for Dzongkha script
 - **Status:** <span style="color: green;">Active</span>
@@ -125,32 +125,32 @@
 - **Key Characteristics:** Uses Japanese vowels; adapted for Lao script
 - **Status:** <span style="color: green;">Active</span>
 
-### Sinhala Braille
+### [Sinhala Braille](https://en.wikipedia.org/wiki/Sinhala_Braille)
 - **Languages Supported:** Sinhala
 - **Key Characteristics:** Indian lineage family (Bharati Braille)
 - **Status:** <span style="color: green;">Active</span>
 
-### Odia Braille
+### [Odia Braille](https://en.wikipedia.org/wiki/Odia_Braille)
 - **Languages Supported:** Odia (Oriya)
 - **Key Characteristics:** Indian lineage family (Bharati Braille)
 - **Status:** <span style="color: green;">Active</span>
 
-### Marathi Braille
+### [Marathi Braille](https://en.wikipedia.org/wiki/Devanagari_Braille)
 - **Languages Supported:** Marathi
 - **Key Characteristics:** Indian lineage family (Bharati Braille - Devanagari script)
 - **Status:** <span style="color: green;">Active</span>
 
-### Nepali Braille
+### [Nepali Braille](https://en.wikipedia.org/wiki/Devanagari_Braille)
 - **Languages Supported:** Nepali
 - **Key Characteristics:** Indian lineage family (Bharati Braille - Devanagari script)
 - **Status:** <span style="color: green;">Active</span>
 
-### Bangla Braille (Bengali variant)
+### [Bangla Braille (Bengali variant)](https://en.wikipedia.org/wiki/Bengali_Braille)
 - **Languages Supported:** Bangla (Bengali variant)
 - **Key Characteristics:** Indian lineage family (Bharati Braille)
 - **Status:** <span style="color: green;">Active</span>
 
-### Devanagari Braille
+### [Devanagari Braille](https://en.wikipedia.org/wiki/Devanagari_Braille)
 - **Languages Supported:** Hindi, Marathi, Nepali (Devanagari script)
 - **Key Characteristics:** Indian lineage family (Bharati Braille)
 - **Status:** <span style="color: green;">Active</span>
