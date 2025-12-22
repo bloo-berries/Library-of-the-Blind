@@ -164,6 +164,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Grade 1 Braille (Uncontracted)](./braille-systems/specialized/README.md#grade-1-braille-uncontracted)** - Letter-by-letter transcription; basic Braille system
 - **[Grade 2 Braille (Contracted)](./braille-systems/specialized/README.md#grade-2-braille-contracted)** - 180 different letter contractions (including 75 shortform words); reduces paper volume; most common for publications
 - **[Grade 3 Braille / Personal Shorthand](./braille-systems/specialized/README.md#grade-3-braille--personal-shorthand)** - Advanced, highly abbreviated extension beyond Grade 2; largely personal shorthand; now obsolete
+- **[Jumbo Braille (Enlarged Braille cells)](./braille-systems/specialized/README.md#jumbo-braille-enlarged-braille-cells)** - Enlarged Braille cells for users with reduced tactile sensitivity (e.g., neuropathy, diabetes-related conditions); critical accessibility modality
 - **[Braille for Sign Languages](./braille-systems/specialized/README.md#braille-for-sign-languages)** - Represents manual signs in tactile form (e.g., American Sign Language Braille, British Sign Language Braille)
 - **[Esperanto Braille](./braille-systems/specialized/README.md#esperanto-braille)** - International Braille with ĉ, ĝ, ĥ, ĵ, ŝ, ŭ
 - **[Braille for Constructed Languages](./braille-systems/specialized/README.md#braille-for-constructed-languages)** - Custom mappings created by enthusiasts (e.g., Klingon Braille, Dothraki Braille)

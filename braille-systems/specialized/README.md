@@ -130,6 +130,20 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Not standardized (varies by user)
   - Now largely obsolete
 
+## Accessibility Adaptations
+
+### Jumbo Braille (Enlarged Braille cells)
+- **Origin / Users:** International
+- **Description:** Enlarged Braille cells designed for users with reduced tactile sensitivity. Critical accessibility modality for individuals with conditions such as neuropathy, diabetes-related peripheral neuropathy, or other conditions affecting tactile discrimination
+- **Status:** Active
+- **Key Features:**
+  - Larger cell size than standard Braille
+  - Increased dot height and spacing
+  - Easier to distinguish for users with reduced tactile sensitivity
+  - Used in educational and personal settings
+  - Essential for maintaining Braille literacy in users with declining tactile function
+  - Can be produced using specialized embossing equipment or 3D printing
+
 ## Other Specialized Codes
 
 ### Braille for Sign Languages
