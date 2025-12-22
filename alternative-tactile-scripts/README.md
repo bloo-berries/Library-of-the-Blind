@@ -17,22 +17,41 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Foundation for later embossed letter systems
   - Used raised italic letters
 
-### Boston Line Type (Howe's Line Letter)
-- **Origin / Users:** Perkins School for the Blind (USA, 1830s–1900s)
-- **Description:** Angular, simplified raised Roman capitals; standard at Perkins School
+### Snider's System
+- **Inventor/Developer:** Jacob Snider, Jr.
+- **Origin:** USA
+- **Date:** 1834
+- **Description:** Jacob Snider, Jr.'s system, using rounded letters similar to Haüy's system, which was used in a publication of the Gospel of Mark in 1834, the first embossed book in the United States
 - **Status:** Historical/obsolete
 - **Key Features:**
-  - Angular, simplified forms for easier tactile discrimination
+  - Used rounded letters similar to Haüy's system
+  - First embossed book in the United States (Gospel of Mark, 1834)
+  - Important milestone in American tactile reading history
+
+### Boston Line Type (Howe's Line Letter)
+- **Inventor/Developer:** Samuel Gridley Howe
+- **Origin:** USA
+- **Date:** 1835
+- **Description:** Samuel Gridley Howe's Boston Line using lowercase angular letters, influenced by Gall's system but more closely resembling standard Roman letters
+- **Status:** Historical/obsolete
+- **Key Features:**
+  - Used lowercase angular letters
+  - Influenced by Gall's system
+  - More closely resembled standard Roman letters
   - Standard at Perkins School for the Blind
   - Competed with Braille in early American blind education
 
 ### Philadelphia Line Type
-- **Origin / Users:** Pennsylvania Institution (USA, mid-19th century)
-- **Description:** Variant raised angular letters
+- **Inventor/Developer:** Julius Reinhold Friedlander
+- **Origin:** USA
+- **Date:** Mid-19th century
+- **Description:** Julius Reinhold Friedlander's Philadelphia Line, using all capital letters, similar to Alston's system, used at the Pennsylvania Institution for the Instruction of the Blind
 - **Status:** Historical/obsolete
 - **Key Features:**
+  - Used all capital letters
+  - Similar to Alston's system
+  - Used at the Pennsylvania Institution for the Instruction of the Blind
   - Regional variant of line type systems
-  - Used in Pennsylvania Institution
 
 ### Gall's Triangular Alphabet
 - **Inventor/Developer:** James Gall
