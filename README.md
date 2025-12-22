@@ -131,10 +131,18 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Zulu Braille](./braille-systems/african/README.md#zulu-braille)** - Adapted for Zulu alphabet
 - **[Xhosa Braille](./braille-systems/african/README.md#xhosa-braille)** - Adapted for Xhosa alphabet
 - **[Ghanaian Braille](./braille-systems/african/README.md#ghanaian-braille)** - Based on French-ordered Braille
-- **[Nigerian Braille](./braille-systems/african/README.md#nigerian-braille)** - Based on French-ordered Braille
-- **[South African Braille](./braille-systems/african/README.md#south-african-braille)** - Based on English Braille
+- **[Akan (Twi) Braille](./braille-systems/african/README.md#akan-twi-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
+- **[Ewe Braille](./braille-systems/african/README.md#ewe-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
+- **[Ga and Dagaare Braille](./braille-systems/african/README.md#ga-and-dagaare-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
+- **[Nigerian Braille](./braille-systems/african/README.md#nigerian-braille)** - Based on French-ordered Braille; includes Hausa, Igbo, and Yoruba
+- **[Igbo Braille](./braille-systems/african/README.md#igbo-braille)** - Part of Nigerian Braille system; based on English Braille with Igbo-specific extensions
+- **[South African Braille](./braille-systems/african/README.md#south-african-braille)** - Based on English Braille; includes Afrikaans, Sesotho, Tswana, Venda, Xhosa, and Zulu
+- **[Afrikaans Braille](./braille-systems/african/README.md#afrikaans-braille)** - Part of South African Braille system; based on English Braille
+- **[Sesotho and Tswana Braille](./braille-systems/african/README.md#sesotho-and-tswana-braille)** - Part of South African Braille system; based on English Braille
+- **[Venda Braille](./braille-systems/african/README.md#venda-braille)** - Part of South African Braille system; based on English Braille
 - **[Zambian Braille](./braille-systems/african/README.md#zambian-braille)** - Based on French-ordered Braille
 - **[Algerian Braille](./braille-systems/african/README.md#algerian-braille)** - Reordered system (obsolete)
+- **[Arabic Braille](./braille-systems/african/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; used across Middle East and North Africa
 
 ### Americas Braille
 
