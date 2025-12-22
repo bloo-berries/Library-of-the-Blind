@@ -22,6 +22,9 @@ A centralized, easily accessible reference documenting the most extensive collec
     - [Asian and Pacific Island Braille](#asian-and-pacific-island-braille)
     - [European Braille](#european-braille)
     - [Specialized Braille](#specialized-braille)
+      - [Music](#music)
+      - [Math and Science](#math-and-science)
+      - [Other Specialized Codes](#other-specialized-codes)
   - [Alternative Tactile Scripts](#alternative-tactile-scripts)
     - [Pre-Braille Embossed Letter Systems](#pre-braille-embossed-letter-systems)
     - [Dot-Based Alternative Systems](#dot-based-alternative-systems)
@@ -122,63 +125,71 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 ### European Braille
 
+- **[Albanian](./braille-systems/european/README.md#albanian-braille)** - Based on French-ordered Braille
+- **[Belarusian](./braille-systems/european/README.md#belarusian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
+- **[Bulgarian](./braille-systems/european/README.md#bulgarian-braille)** - Russian lineage family (Cyrillic-mediated)
+- **[Catalan](./braille-systems/european/README.md#catalan-braille)** - Based on French-ordered Braille
+- **[Czech/Slovak](./braille-systems/european/README.md#czechslovak-braille)** - Similar to Polish but with own diacritic mapping
+- **[Danish](./braille-systems/european/README.md#danish-braille)** - Nordic family Braille (Scandinavian)
+- **[Dutch](./braille-systems/european/README.md#dutch-braille)** - Uses "ij" digraph; covers Dutch and Flemish
+- **[Estonian](./braille-systems/european/README.md#estonian-braille)** - Nordic family Braille
+- **[Faroese](./braille-systems/european/README.md#faroese-braille)** - Nordic family Braille
+- **[French](./braille-systems/european/README.md#french-braille)** - Basis for many African Braille codes; covers French, Haitian Creole, and many West-African languages
+- **[German](./braille-systems/european/README.md#german-braille)** - Includes special signs for ß and umlauts; covers German and Luxembourgish
+- **[Greek](./braille-systems/european/README.md#greek-braille)** - Based on International Braille with Greek letters
+- **[Greenlandic](./braille-systems/european/README.md#greenlandic-braille)** - Nordic family Braille (Scandinavian)
+- **[Hungarian](./braille-systems/european/README.md#hungarian-braille)** - Uses physical symmetry of patterns iconically; includes ő, ú, í, é, á, ó, ö, ü
+- **[Icelandic](./braille-systems/european/README.md#icelandic-braille)** - Nordic family Braille
+- **[Irish](./braille-systems/european/README.md#irish-braille)** - Adapted for Gaelic orthography; based on French-ordered Braille
+- **[Italian](./braille-systems/european/README.md#italian-braille)** - Includes "à, è, ì, ò, ù"
+- **[Latvian](./braille-systems/european/README.md#latvian-braille)** - Based on French-ordered Braille
+- **[Lithuanian](./braille-systems/european/README.md#lithuanian-braille)** - Based on French-ordered Braille
+- **[Luxembourgish](./braille-systems/european/README.md#luxembourgish-braille)** - Extended to 8-dot system
+- **[Maltese](./braille-systems/european/README.md#maltese-braille)** - Based on French-ordered Braille
+- **[Northern Sámi](./braille-systems/european/README.md#northern-sámi-braille)** - Nordic family Braille (Scandinavian)
+- **[Norwegian](./braille-systems/european/README.md#norwegian-braille)** - Nordic family Braille (Scandinavian)
+- **[Polish](./braille-systems/european/README.md#polish-braille)** - Handles diacritics (ą, ć, ę, ł, ń, ó, ś, ż, ź)
+- **[Portuguese](./braille-systems/european/README.md#portuguese-braille)** - Slight differences between PT-BR and PT-PT variants
+- **[Romanian](./braille-systems/european/README.md#romanian-braille)** - Includes special characters for Romanian diacritics
+- **[Russian](./braille-systems/european/README.md#russian-braille)** - Based on Cyrillic alphabet; some patterns borrowed from French Braille; 33-cell alphabet; covers Russian, Belarusian, Ukrainian (Cyrillic)
+- **[Slovak](./braille-systems/european/README.md#slovak-braille)** - Similar to Czech but with own diacritic mapping
+- **[Spanish](./braille-systems/european/README.md#spanish-braille)** - Uses "ñ" and accented vowels; covers Spanish (Spain and Latin America)
+- **[Swedish/Finnish](./braille-systems/european/README.md#swedishfinnish-braille)** - Separate codes for Å, Ä, Ö; covers Swedish, Finnish, and Sami languages
+- **[Tatar](./braille-systems/european/README.md#tatar-braille)** - Russian lineage family (Cyrillic-mediated)
+- **[Ukrainian](./braille-systems/european/README.md#ukrainian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
 - **[Unified English Braille (UEB)](./braille-systems/european/README.md#unified-english-braille-ueb)** - Single unified code for English (US, UK, Canada, Australia, NZ) covering literary and technical material; international standard adopted 2012
-- **[French Braille](./braille-systems/european/README.md#french-braille)** - Basis for many African Braille codes; covers French, Haitian Creole, and many West-African languages
-- **[German Braille](./braille-systems/european/README.md#german-braille)** - Includes special signs for ß and umlauts; covers German and Luxembourgish
-- **[Spanish Braille](./braille-systems/european/README.md#spanish-braille)** - Uses "ñ" and accented vowels; covers Spanish (Spain and Latin America)
-- **[Portuguese Braille](./braille-systems/european/README.md#portuguese-braille)** - Slight differences between PT-BR and PT-PT variants
-- **[Italian Braille](./braille-systems/european/README.md#italian-braille)** - Includes "à, è, ì, ò, ù"
-- **[Dutch Braille](./braille-systems/european/README.md#dutch-braille)** - Uses "ij" digraph; covers Dutch and Flemish
-- **[Swedish/Finnish Braille](./braille-systems/european/README.md#swedishfinnish-braille)** - Separate codes for Å, Ä, Ö; covers Swedish, Finnish, and Sami languages
-- **[Greek Braille](./braille-systems/european/README.md#greek-braille)** - Based on International Braille with Greek letters
-- **[Russian Braille](./braille-systems/european/README.md#russian-braille)** - Based on Cyrillic alphabet; some patterns borrowed from French Braille; 33-cell alphabet; covers Russian, Belarusian, Ukrainian (Cyrillic)
-- **[Polish Braille](./braille-systems/european/README.md#polish-braille)** - Handles diacritics (ą, ć, ę, ł, ń, ó, ś, ż, ź)
-- **[Czech/Slovak Braille](./braille-systems/european/README.md#czechslovak-braille)** - Similar to Polish but with own diacritic mapping
-- **[Hungarian Braille](./braille-systems/european/README.md#hungarian-braille)** - Uses physical symmetry of patterns iconically; includes ő, ú, í, é, á, ó, ö, ü
-- **[Romanian Braille](./braille-systems/european/README.md#romanian-braille)** - Includes special characters for Romanian diacritics
-- **[Albanian Braille](./braille-systems/european/README.md#albanian-braille)** - Based on French-ordered Braille
-- **[Catalan Braille](./braille-systems/european/README.md#catalan-braille)** - Based on French-ordered Braille
-- **[Estonian Braille](./braille-systems/european/README.md#estonian-braille)** - Nordic family Braille
-- **[Faroese Braille](./braille-systems/european/README.md#faroese-braille)** - Nordic family Braille
-- **[Icelandic Braille](./braille-systems/european/README.md#icelandic-braille)** - Nordic family Braille
-- **[Irish Braille](./braille-systems/european/README.md#irish-braille)** - Adapted for Gaelic orthography; based on French-ordered Braille
-- **[Latvian Braille](./braille-systems/european/README.md#latvian-braille)** - Based on French-ordered Braille
-- **[Lithuanian Braille](./braille-systems/european/README.md#lithuanian-braille)** - Based on French-ordered Braille
-- **[Maltese Braille](./braille-systems/european/README.md#maltese-braille)** - Based on French-ordered Braille
-- **[Norwegian Braille](./braille-systems/european/README.md#norwegian-braille)** - Nordic family Braille (Scandinavian)
-- **[Slovak Braille](./braille-systems/european/README.md#slovak-braille)** - Similar to Czech but with own diacritic mapping
-- **[Welsh Braille](./braille-systems/european/README.md#welsh-braille)** - Includes special characters for Welsh; based on French-ordered Braille
-- **[Yugoslav Braille](./braille-systems/european/README.md#yugoslav-braille)** - Former Yugoslav languages (Serbian, Croatian, Bosnian, etc.)
-- **[Danish Braille](./braille-systems/european/README.md#danish-braille)** - Nordic family Braille (Scandinavian)
-- **[Greenlandic Braille](./braille-systems/european/README.md#greenlandic-braille)** - Nordic family Braille (Scandinavian)
-- **[Northern Sámi Braille](./braille-systems/european/README.md#northern-sámi-braille)** - Nordic family Braille (Scandinavian)
-- **[Bulgarian Braille](./braille-systems/european/README.md#bulgarian-braille)** - Russian lineage family (Cyrillic-mediated)
-- **[Tatar Braille](./braille-systems/european/README.md#tatar-braille)** - Russian lineage family (Cyrillic-mediated)
-- **[Ukrainian Braille](./braille-systems/european/README.md#ukrainian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
-- **[Belarusian Braille](./braille-systems/european/README.md#belarusian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
-- **[Luxembourgish Braille](./braille-systems/european/README.md#luxembourgish-braille)** - Extended to 8-dot system
+- **[Welsh](./braille-systems/european/README.md#welsh-braille)** - Includes special characters for Welsh; based on French-ordered Braille
+- **[Yugoslav](./braille-systems/european/README.md#yugoslav-braille)** - Former Yugoslav languages (Serbian, Croatian, Bosnian, etc.)
 
 ### Specialized Braille
 
+#### Music
+
 - **[Braille Music Notation](./braille-systems/specialized/README.md#braille-music-notation)** - Louis Braille's original music notation (1829-present); international standard for encoding musical symbols; separate from literary Braille
-- **[New York Point Music](./braille-systems/specialized/README.md#new-york-point-music)** - Notes made by combining two 'primitives' (digits 1-7); now obsolete
 - **[Carnatic Music Braille](./braille-systems/specialized/README.md#carnatic-music-braille)** - Braille Code for Carnatic Music developed in India
+- **[New York Point Music](./braille-systems/specialized/README.md#new-york-point-music)** - Notes made by combining two 'primitives' (digits 1-7); now obsolete
+
+#### Math and Science
+
+- **[8-Dot Braille (Computer Braille)](./braille-systems/specialized/README.md#8-dot-braille-computer-braille)** - Extended cell with two additional dots for encoding 256 characters; used for computing (1970s–present)
+- **[Advanced Braille Code for Mathematics and Science (India)](./braille-systems/specialized/README.md#advanced-braille-code-for-mathematics-and-science-india)** - Advanced Braille Code for Mathematics and Science developed in India
 - **[Braille Mathematics (Nemeth Code)](./braille-systems/specialized/README.md#braille-mathematics-nemeth-code)** - Specialized symbols for algebra, calculus, geometry; primarily used in United States (1952-present)
+- **[Computer Braille (CBC)](./braille-systems/specialized/README.md#computer-braille-computer-braille-code---cbc)** - Designed for representing computer syntax (brackets, punctuation) in Braille
+- **[Gardner–Salinas Braille Codes (GS8/GS6)](./braille-systems/specialized/README.md#gardnersalinas-braille-codes-gs8gs6)** - Specialized codes for scientific and technical notation; includes 8-dot (GS8) and 6-dot (GS6) variants
 - **[Marburg Mathematical Notation](./braille-systems/specialized/README.md#marburg-mathematical-notation)** - European alternative to Nemeth Code for mathematical notation
 - **[Unified English Braille (UEB) Technical](./braille-systems/specialized/README.md#unified-english-braille-ueb-technical)** - Integrated technical/math symbols within UEB framework (2010s–present)
-- **[Advanced Braille Code for Mathematics and Science (India)](./braille-systems/specialized/README.md#advanced-braille-code-for-mathematics-and-science-india)** - Advanced Braille Code for Mathematics and Science developed in India
-- **[Computer Braille (CBC)](./braille-systems/specialized/README.md#computer-braille-computer-braille-code---cbc)** - Designed for representing computer syntax (brackets, punctuation) in Braille
-- **[8-Dot Braille (Computer Braille)](./braille-systems/specialized/README.md#8-dot-braille-computer-braille)** - Extended cell with two additional dots for encoding 256 characters; used for computing (1970s–present)
+
+#### Other Specialized Codes
+
+- **[Braille for Constructed Languages](./braille-systems/specialized/README.md#braille-for-constructed-languages)** - Custom mappings created by enthusiasts (e.g., Klingon Braille, Dothraki Braille)
+- **[Braille for Sign Languages](./braille-systems/specialized/README.md#braille-for-sign-languages)** - Represents manual signs in tactile form (e.g., American Sign Language Braille, British Sign Language Braille)
+- **[Esperanto Braille](./braille-systems/specialized/README.md#esperanto-braille)** - International Braille with ĉ, ĝ, ĥ, ĵ, ŝ, ŭ
 - **[Grade 1 Braille (Uncontracted)](./braille-systems/specialized/README.md#grade-1-braille-uncontracted)** - Letter-by-letter transcription; basic Braille system
 - **[Grade 2 Braille (Contracted)](./braille-systems/specialized/README.md#grade-2-braille-contracted)** - 180 different letter contractions (including 75 shortform words); reduces paper volume; most common for publications
 - **[Grade 3 Braille / Personal Shorthand](./braille-systems/specialized/README.md#grade-3-braille--personal-shorthand)** - Advanced, highly abbreviated extension beyond Grade 2; largely personal shorthand; now obsolete
-- **[Jumbo Braille (Enlarged Braille cells)](./braille-systems/specialized/README.md#jumbo-braille-enlarged-braille-cells)** - Enlarged Braille cells for users with reduced tactile sensitivity (e.g., neuropathy, diabetes-related conditions); critical accessibility modality
-- **[Braille for Sign Languages](./braille-systems/specialized/README.md#braille-for-sign-languages)** - Represents manual signs in tactile form (e.g., American Sign Language Braille, British Sign Language Braille)
-- **[Esperanto Braille](./braille-systems/specialized/README.md#esperanto-braille)** - International Braille with ĉ, ĝ, ĥ, ĵ, ŝ, ŭ
-- **[Braille for Constructed Languages](./braille-systems/specialized/README.md#braille-for-constructed-languages)** - Custom mappings created by enthusiasts (e.g., Klingon Braille, Dothraki Braille)
-- **[Gardner–Salinas Braille Codes (GS8/GS6)](./braille-systems/specialized/README.md#gardnersalinas-braille-codes-gs8gs6)** - Specialized codes for scientific and technical notation; includes 8-dot (GS8) and 6-dot (GS6) variants
-- **[Kanji Braille (8-dot)](./braille-systems/specialized/README.md#kanji-braille-8-dot)** - 8-dot Braille system for representing Kanji characters
 - **[IPA Braille (International Phonetic Alphabet)](./braille-systems/specialized/README.md#ipa-braille-international-phonetic-alphabet)** - Braille representation of the International Phonetic Alphabet
+- **[Jumbo Braille (Enlarged Braille cells)](./braille-systems/specialized/README.md#jumbo-braille-enlarged-braille-cells)** - Enlarged Braille cells for users with reduced tactile sensitivity (e.g., neuropathy, diabetes-related conditions); critical accessibility modality
+- **[Kanji Braille (8-dot)](./braille-systems/specialized/README.md#kanji-braille-8-dot)** - 8-dot Braille system for representing Kanji characters
 
 ## Alternative Tactile Scripts
 
