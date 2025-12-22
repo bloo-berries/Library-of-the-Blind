@@ -67,3 +67,68 @@
 - **Key Characteristics:** Small community usage
 - **Status:** Active
 
+### Burmese Braille
+- **Languages Supported:** Burmese
+- **Key Characteristics:** Adapted for Burmese script
+- **Status:** Active
+
+### Dzongkha Braille (Bhutanese)
+- **Languages Supported:** Dzongkha (Bhutanese)
+- **Key Characteristics:** Adapted for Dzongkha script
+- **Status:** Active
+
+### Khmer Braille
+- **Languages Supported:** Khmer
+- **Key Characteristics:** Adapted for Khmer script
+- **Status:** Active
+
+### Lao Braille
+- **Languages Supported:** Lao
+- **Key Characteristics:** Uses Japanese vowels; adapted for Lao script
+- **Status:** Active
+
+### Sinhala Braille
+- **Languages Supported:** Sinhala
+- **Key Characteristics:** Indian lineage family (Bharati Braille)
+- **Status:** Active
+
+### Odia Braille
+- **Languages Supported:** Odia (Oriya)
+- **Key Characteristics:** Indian lineage family (Bharati Braille)
+- **Status:** Active
+
+### Marathi Braille
+- **Languages Supported:** Marathi
+- **Key Characteristics:** Indian lineage family (Bharati Braille - Devanagari script)
+- **Status:** Active
+
+### Nepali Braille
+- **Languages Supported:** Nepali
+- **Key Characteristics:** Indian lineage family (Bharati Braille - Devanagari script)
+- **Status:** Active
+
+### Bangla Braille (Bengali variant)
+- **Languages Supported:** Bangla (Bengali variant)
+- **Key Characteristics:** Indian lineage family (Bharati Braille)
+- **Status:** Active
+
+### Devanagari Braille
+- **Languages Supported:** Hindi, Marathi, Nepali (Devanagari script)
+- **Key Characteristics:** Indian lineage family (Bharati Braille)
+- **Status:** Active
+
+### Mainland Chinese Mandarin Braille
+- **Languages Supported:** Mainland Chinese Mandarin
+- **Key Characteristics:** Chinese semi-syllabary; largely reassigned from French-ordered
+- **Status:** Active
+
+### Taiwanese Mandarin Braille
+- **Languages Supported:** Taiwanese Mandarin
+- **Key Characteristics:** Chinese semi-syllabary; largely reassigned from French-ordered
+- **Status:** Active
+
+### Two-cell Chinese Braille (Shuangpin)
+- **Languages Supported:** Chinese (Mandarin)
+- **Key Characteristics:** Independent Chinese semi-syllabary system
+- **Status:** Active
+

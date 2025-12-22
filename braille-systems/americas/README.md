@@ -28,7 +28,37 @@
 
 ### Inuktitut Braille
 - **Languages Supported:** Inuktitut
-- **Key Characteristics:** Adapted for Inuktitut syllabics
+- **Key Characteristics:** Adapted for Inuktitut syllabics; reassigned vowels
+- **Status:** Active
+
+### Guarani Braille
+- **Languages Supported:** Guarani
+- **Key Characteristics:** Based on French-ordered Braille
+- **Status:** Active
+
+### Hawaiian Braille
+- **Languages Supported:** Hawaiian
+- **Key Characteristics:** Based on French-ordered Braille
+- **Status:** Active
+
+### Iñupiaq Braille
+- **Languages Supported:** Iñupiaq
+- **Key Characteristics:** Based on French-ordered Braille
+- **Status:** Active
+
+### Navajo Braille
+- **Languages Supported:** Navajo
+- **Key Characteristics:** Based on French-ordered Braille
+- **Status:** Active
+
+### Samoan Braille
+- **Languages Supported:** Samoan
+- **Key Characteristics:** Based on French-ordered Braille
+- **Status:** Active
+
+### Māori Braille
+- **Languages Supported:** Māori
+- **Key Characteristics:** Based on French-ordered Braille
 - **Status:** Active
 
 ## Notes

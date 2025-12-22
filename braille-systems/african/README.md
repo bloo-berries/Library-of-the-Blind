@@ -36,6 +36,26 @@ Many African Braille systems are based on French Braille, adapted for local lang
 - **Key Characteristics:** Adapted for Xhosa alphabet
 - **Status:** Active
 
+### Ghanaian Braille
+- **Languages Supported:** Ghanaian languages
+- **Key Characteristics:** Based on French-ordered Braille
+- **Status:** Active
+
+### Nigerian Braille
+- **Languages Supported:** Nigerian languages
+- **Key Characteristics:** Based on French-ordered Braille
+- **Status:** Active
+
+### South African Braille
+- **Languages Supported:** South African languages
+- **Key Characteristics:** Based on English Braille
+- **Status:** Active
+
+### Zambian Braille
+- **Languages Supported:** Zambian languages
+- **Key Characteristics:** Based on French-ordered Braille
+- **Status:** Active
+
 ## Regional Notes
 
 - Many West African languages use adaptations of French Braille

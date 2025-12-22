@@ -87,3 +87,30 @@ Specialized Braille codes designed for specific domains beyond literary text.
 - **Description:** Custom mappings created by enthusiasts
 - **Status:** Community-driven
 
+### Gardner–Salinas Braille Codes (GS8/GS6)
+- **Origin / Users:** International (science and technical notation)
+- **Description:** Specialized Braille codes for scientific and technical notation; includes 8-dot (GS8) and 6-dot (GS6) variants
+- **Status:** Active
+- **Key Features:**
+  - Used for scientific notation
+  - Includes 8-dot variant (GS8) and 6-dot variant (GS6)
+  - Used alongside other specialized Braille codes
+
+### Kanji Braille (8-dot)
+- **Origin / Users:** Japan
+- **Description:** 8-dot Braille system for representing Kanji characters
+- **Status:** Active
+- **Key Features:**
+  - Extended 8-dot cell system
+  - Used for Japanese Kanji representation
+  - Complements standard Japanese Tenji
+
+### IPA Braille (International Phonetic Alphabet)
+- **Origin / Users:** International
+- **Description:** Braille representation of the International Phonetic Alphabet
+- **Status:** Active
+- **Key Features:**
+  - Used for phonetic transcription
+  - Based on French-ordered Braille
+  - Essential for linguistic study and language learning
+
