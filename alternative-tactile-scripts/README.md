@@ -7,7 +7,9 @@ Some blind users prefer or require scripts that differ from traditional Braille.
 Historical tactile reading systems that predate or competed with Braille, using raised letter forms.
 
 ### Haüy's Embossed Roman Letters
-- **Origin / Users:** Valentin Haüy (Paris, 1784)
+- **Inventor/Developer:** Valentin Haüy
+- **Origin:** France
+- **Date:** 1784
 - **Description:** Raised italic letters pressed into paper; first systematic tactile reading system
 - **Status:** Historical
 - **Key Features:**
@@ -32,45 +34,73 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Regional variant of line type systems
   - Used in Pennsylvania Institution
 
-### Gall's Triangular Type
-- **Origin / Users:** Scotland (1831)
-- **Description:** Raised letters using triangular/angular forms; designed for easier tactile discrimination
+### Gall's Triangular Alphabet
+- **Inventor/Developer:** James Gall
+- **Origin:** Scotland
+- **Date:** 1826
+- **Description:** James Gall's 'triangular alphabet', using both capital and lower-case, which was used in 1826 in the first embossed books published in English
 - **Status:** Historical/obsolete
 - **Key Features:**
   - Triangular/angular letter forms
+  - Used both capital and lower-case letters
+  - First embossed books published in English (1826)
   - Designed specifically for tactile reading
 
 ### Alston Type
-- **Origin / Users:** UK (early 19th century)
-- **Description:** Lowercase raised Roman letters
+- **Inventor/Developer:** John Alston
+- **Origin:** UK
+- **Date:** 1830s
+- **Description:** John Alston, Hon. Treasurer of Glasgow Asylum, printed several books in embossed Roman capitals. His works included the whole Bible in 1840
 - **Status:** Historical/obsolete
 - **Key Features:**
-  - Focus on lowercase letters
+  - Used embossed Roman capitals
+  - Printed whole Bible in 1840
   - British variant of embossed letter systems
 
 ### Frere's Type
-- **Origin / Users:** UK (1830s–1840s)
-- **Description:** Arbitrary symbols unrelated to print letters
+- **Inventor/Developer:** James Hatley Frere
+- **Origin:** UK
+- **Date:** 1830s–1840s
+- **Description:** James Hatley Frere's system, similar to Lucas's in that it was based on shorthand, but written in a boustrophedon manner
 - **Status:** Historical/obsolete
 - **Key Features:**
-  - Non-alphabetic symbol system
+  - Based on shorthand principles (similar to Lucas)
+  - Written in boustrophedon manner (alternating direction)
   - Unique approach to tactile reading
 
 ### Lucas Type
-- **Origin / Users:** UK (1830s)
-- **Description:** Shorthand-inspired raised characters; phonetic basis
+- **Inventor/Developer:** Thomas Lucas
+- **Origin:** UK
+- **Date:** 1837
+- **Description:** Thomas Lucas's system, based on shorthand and phonetic principles. Lucas invented a stenographic system formed of arbitrary characters and of numerous contractions
 - **Status:** Historical/obsolete
 - **Key Features:**
   - Based on shorthand principles
   - Phonetic approach to tactile reading
+  - Stenographic system with arbitrary characters
+  - Used numerous contractions
 
 ### Klein's Stachel-Schrift (Pin Script)
-- **Origin / Users:** Vienna, Austria (early 19th century)
-- **Description:** Raised Roman letters formed by pin pricks
+- **Inventor/Developer:** Johann Wilhelm Klein
+- **Origin:** Austria
+- **Date:** Early 19th century
+- **Description:** 'Pin Script' using raised Roman letters formed by pin pricks; used in Vienna
 - **Status:** Historical/obsolete
 - **Key Features:**
   - Created using pin pricks
+  - Used raised Roman letters
   - Used in Vienna
+
+### Guillié Script
+- **Inventor/Developer:** Sébastien Guillié
+- **Origin:** France
+- **Date:** 1820s
+- **Description:** An improvement on Haüy's embossed script by Sébastien Guillié, the Director of the school
+- **Status:** Historical/obsolete
+- **Key Features:**
+  - Improvement on Haüy's embossed script
+  - Developed by school director Sébastien Guillié
+  - French variant of embossed letter systems
 
 ### Hebold Type
 - **Origin / Users:** Germany (19th century)
@@ -102,13 +132,17 @@ Historical tactile reading systems that predate or competed with Braille, using 
 ## Modern Scripts
 
 ### Moon Type
-- **Origin / Users:** Invented by William Moon (1849) - used mainly in the UK, USA, Canada, Australia, New Zealand
-- **Description:** Simplified, raised-outline characters derived from the Latin alphabet; easier for people with reduced tactile sensitivity
+- **Inventor/Developer:** Dr. William Moon (1818-1894)
+- **Origin:** UK
+- **Date:** 1845 (first book appeared in 1847)
+- **Description:** Dr. William Moon of England, who lost his sight at the tender age of twenty-one, devised, towards 1845, an alphabet formed of more or less arbitrary characters. Moon's books, though easy to read owing to their simple large type and boldness of relief, are very bulky and expensive. It is useful chiefly for adults whose finger-touch has been dulled by age or manual labour
 - **Status:** Active (though less common than Braille)
 - **Key Features:**
   - Characters are simplified versions of print letters
-  - Easier to learn for those who lose sight later in life
-  - Particularly useful for people with reduced tactile sensitivity
+  - Easy to read due to simple large type and boldness of relief
+  - Books are bulky and expensive
+  - Particularly useful for adults whose finger-touch has been dulled by age or manual labour
+  - Used mainly in the UK, USA, Canada, Australia, New Zealand
 
 ### New York Point
 - **Origin / Users:** 19th-century U.S. system (now obsolete)

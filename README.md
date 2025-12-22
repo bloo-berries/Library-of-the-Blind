@@ -166,14 +166,15 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 ### Pre-Braille Embossed Letter Systems
 
-- **[Haüy's Embossed Roman Letters](./alternative-tactile-scripts/README.md#haüys-embossed-roman-letters)** - Valentin Haüy's raised italic letters; first systematic tactile reading system (Paris, 1784)
+- **[Haüy's Embossed Roman Letters](./alternative-tactile-scripts/README.md#haüys-embossed-roman-letters)** - Valentin Haüy's raised italic letters; first systematic tactile reading system (France, 1784)
+- **[Guillié Script](./alternative-tactile-scripts/README.md#guillié-script)** - Improvement on Haüy's embossed script by Sébastien Guillié, Director of the school (France, 1820s)
+- **[Gall's Triangular Alphabet](./alternative-tactile-scripts/README.md#galls-triangular-alphabet)** - James Gall's triangular alphabet using both capital and lower-case; first embossed books published in English (Scotland, 1826)
 - **[Boston Line Type (Howe's Line Letter)](./alternative-tactile-scripts/README.md#boston-line-type-howes-line-letter)** - Angular, simplified raised Roman capitals; standard at Perkins School for the Blind (USA, 1830s–1900s)
 - **[Philadelphia Line Type](./alternative-tactile-scripts/README.md#philadelphia-line-type)** - Variant raised angular letters used at Pennsylvania Institution (USA, mid-19th century)
-- **[Gall's Triangular Type](./alternative-tactile-scripts/README.md#galls-triangular-type)** - Raised letters using triangular/angular forms; designed for easier tactile discrimination (Scotland, 1831)
-- **[Alston Type](./alternative-tactile-scripts/README.md#alston-type)** - Lowercase raised Roman letters (UK, early 19th century)
-- **[Frere's Type](./alternative-tactile-scripts/README.md#freres-type)** - Arbitrary symbols unrelated to print letters (UK, 1830s–1840s)
-- **[Lucas Type](./alternative-tactile-scripts/README.md#lucas-type)** - Shorthand-inspired raised characters; phonetic basis (UK, 1830s)
-- **[Klein's Stachel-Schrift (Pin Script)](./alternative-tactile-scripts/README.md#kleins-stachel-schrift-pin-script)** - Raised Roman letters formed by pin pricks; used in Vienna (Austria, early 19th century)
+- **[Alston Type](./alternative-tactile-scripts/README.md#alston-type)** - John Alston's embossed Roman capitals; printed whole Bible in 1840 (UK, 1830s)
+- **[Lucas Type](./alternative-tactile-scripts/README.md#lucas-type)** - Thomas Lucas's stenographic system based on shorthand with arbitrary characters and contractions (UK, 1837)
+- **[Frere's Type](./alternative-tactile-scripts/README.md#freres-type)** - James Hatley Frere's system based on shorthand, written in boustrophedon manner (UK, 1830s–1840s)
+- **[Klein's Stachel-Schrift (Pin Script)](./alternative-tactile-scripts/README.md#kleins-stachel-schrift-pin-script)** - Johann Wilhelm Klein's 'Pin Script' using raised Roman letters formed by pin pricks (Austria, early 19th century)
 - **[Hebold Type](./alternative-tactile-scripts/README.md#hebold-type)** - German raised letter variant (Germany, 19th century)
 
 ### Dot-Based Alternative Systems
