@@ -178,7 +178,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** France
 - **Date:** 1824-present
 - **Description:** Louis Braille's first French alphabet using his new system. The system was published in 1829. It is a 6-dot cell system; now the international standard
-<span style="color: green;">Active</span> (international standard)
+- **Status:** <span style="color: green;">Active</span> (international standard)
 - **Key Features:**
   - 6-dot cell system
   - First French alphabet published in 1829
@@ -216,7 +216,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** UK
 - **Date:** 1845 (first book appeared in 1847)
 - **Description:** Dr. William Moon of England, who lost his sight at the tender age of twenty-one, devised, towards 1845, an alphabet formed of more or less arbitrary characters. Moon's books, though easy to read owing to their simple large type and boldness of relief, are very bulky and expensive. It is useful chiefly for adults whose finger-touch has been dulled by age or manual labour
-<span style="color: green;">Active</span> (though less common than Braille)
+- **Status:** <span style="color: green;">Active</span> (though less common than Braille)
 - **Key Features:**
   - Characters are simplified versions of print letters
   - Easy to read due to simple large type and boldness of relief
@@ -249,7 +249,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 ### Fishburne Alphabet
 - **Origin / Users:** USA (2010s)
 - **Description:** Raised geometric symbols meant to be more intuitive than Braille
-<span style="color: green;">Active</span> (experimental)
+- **Status:** <span style="color: green;">Active</span> (experimental)
 - **Key Features:**
   - Geometric symbol-based system
   - Designed for intuitive recognition
@@ -269,7 +269,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** International
 - **Date:** 2006-2008
 - **Description:** The Fakoo alphabet was developed from 2006 to 2008 and beyond by Alexander Fakoó as script for the blind, which can also be read by the sighted. This should enable an improved exchange of information between blind and sighted people. The basis is a grid of 3 x 3 dots and a blank space from one dot to the next character. Basically, all Fakoo characters can be displayed or defined by two Braille characters next to each other. Being 3 dots high, the Fakoo Alphabet can be used with any blind writing technique
-<span style="color: green;">Active</span> (niche)
+- **Status:** <span style="color: green;">Active</span> (niche)
 - **Key Features:**
   - 3 x 3 dot grid system
   - Readable by both blind and sighted
@@ -281,7 +281,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** International
 - **Date:** 2008
 - **Description:** The Quadoo alphabet was developed by Alexander Fakoó in 2008 as an alternative version of the Moon alphabet. Quadoo is easy to read, since the characters can be assigned to Latin letters without any problems and without any confusion. It is also easy to write with a square stencil, since there are no arcs, circles or the like. Only the four sides and the two diagonals of a square are used to represent all characters. This means that the characters only consist of 1 to 6 lines and possibly additional dots at the corners to represent special characters. It was designed for handwritten notes by blind people and can also be used outdoors with materials like twigs, nails, or matches
-<span style="color: green;">Active</span> (niche)
+- **Status:** <span style="color: green;">Active</span> (niche)
 - **Key Features:**
   - Alternative to Moon alphabet
   - Square-based characters (sides and diagonals)
@@ -294,7 +294,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Origin:** International
 - **Date:** 2012
 - **Description:** Siekoo is a tactile script created by Alexander Fakoó that can be read by blind. Blind people could use the characters on electronic devices that have seven-segment displays with tactile elements. Special emphasis was placed on easy legibility. This system was designed specifically for electronic devices with seven-segment displays
-<span style="color: green;">Active</span> (niche)
+- **Status:** <span style="color: green;">Active</span> (niche)
 - **Key Features:**
   - Designed for seven-segment displays
   - Electronic device compatibility
@@ -492,7 +492,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 - **Origin / Users:** Andean Civilizations
 - **Date:** 2600 BCE–present
 - **Description:** It is generally thought that the system did not include phonetic symbols analogous to letters of the alphabet. However, Gary Urton has suggested that the quipus used a binary system which could record phonological or logographic data. Another theory is that this is at least partially a tactile writing system, as fibers used in Quipu can be differentiated by touch. Quipu could record dates, statistics, accounts, and even abstract ideas. Quipu are still used today across South America. According to Guaman Poma, quipucamayocs could "read" the quipus with their eyes closed. Recent research has found that some quipus are special. Because they're logosyllabic. Meaning the knots and the differences in fibers corresponded to phonetic sounds, which formed words
-<span style="color: green;">Active</span> (still used in South America)
+- **Status:** <span style="color: green;">Active</span> (still used in South America)
 - **Key Features:**
   - Knot-based recording system
   - Fibers can be differentiated by touch

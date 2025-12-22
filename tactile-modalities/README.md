@@ -91,7 +91,7 @@ Advanced tactile technologies that use alternative methods to convey information
 ### Vibrotactile Alphabets
 - **Origin / Users:** Various (1960s–present)
 - **Description:** Patterns of vibration on skin representing letters; used in wearable devices
-<span style="color: green;">Active</span> (research and development)
+- **Status:** <span style="color: green;">Active</span> (research and development)
 - **Key Features:**
   - Uses vibration patterns on skin
   - Can be integrated into wearable devices
