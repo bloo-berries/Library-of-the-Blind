@@ -60,7 +60,7 @@
 - **Key Characteristics:** Phonetically based on Quốc ngữ romanization. Uses diacritic cells for tonal marks
 - **Status:** Active
 
-### Malay/Indonesian Braille
+### [Malay/Indonesian Braille](https://en.wikipedia.org/wiki/Malay_Braille)
 - **Languages Supported:** Malay, Indonesian (Southeast Asia)
 - **Key Characteristics:** Based on Latin alphabet. Derived from English Braille with local letters
 - **Status:** Active
@@ -155,17 +155,17 @@
 - **Key Characteristics:** Indian lineage family (Bharati Braille)
 - **Status:** Active
 
-### Mainland Chinese Mandarin Braille
+### [Mainland Chinese Mandarin Braille](https://en.wikipedia.org/wiki/Chinese_Braille)
 - **Languages Supported:** Mainland Chinese Mandarin
 - **Key Characteristics:** Chinese semi-syllabary; largely reassigned from French-ordered
 - **Status:** Active
 
-### Taiwanese Mandarin Braille
+### [Taiwanese Mandarin Braille](https://en.wikipedia.org/wiki/Taiwanese_Braille)
 - **Languages Supported:** Taiwanese Mandarin
 - **Key Characteristics:** Chinese semi-syllabary; largely reassigned from French-ordered
 - **Status:** Active
 
-### Two-cell Chinese Braille (Shuangpin)
+### [Two-cell Chinese Braille (Shuangpin)](https://en.wikipedia.org/wiki/Two-cell_Chinese_Braille)
 - **Languages Supported:** Chinese (Mandarin)
 - **Key Characteristics:** Independent Chinese semi-syllabary system
 - **Status:** Active
