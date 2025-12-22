@@ -17,7 +17,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - [Library of the Blind](#library-of-the-blind)
   - [Contents](#contents)
   - [Braille Systems](#braille-systems)
-    - [Africa and Middle East Braille](#africa-and-middle-east-braille)
+    - [Africa and Middle East](#africa-and-middle-east)
     - [Americas Braille](#americas-braille)
     - [Asian Braille](#asian-braille)
     - [European Braille](#european-braille)
@@ -47,28 +47,28 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 ## Braille Systems
 
-### Africa and Middle East Braille
+### Africa and Middle East
 
-- **[Hebrew Braille](./braille-systems/african/README.md#hebrew-braille)** - Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel; covers Hebrew and Yiddish
-- **[Swahili Braille](./braille-systems/african/README.md#swahili-braille)** - Based on Latin alphabet (East Africa); based on English or French Braille depending on region
-- **[Hausa Braille](./braille-systems/african/README.md#hausa-braille)** - Adapted for Hausa alphabet
-- **[Amharic Braille (Ethiopian Braille / Ge'ez Script)](./braille-systems/african/README.md#amharic-braille-ethiopian-braille--geez-script)** - Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary
-- **[Yoruba Braille](./braille-systems/african/README.md#yoruba-braille)** - Includes tone markers
-- **[Zulu Braille](./braille-systems/african/README.md#zulu-braille)** - Adapted for Zulu alphabet
-- **[Xhosa Braille](./braille-systems/african/README.md#xhosa-braille)** - Adapted for Xhosa alphabet
-- **[Ghanaian Braille](./braille-systems/african/README.md#ghanaian-braille)** - Based on French-ordered Braille
-- **[Akan (Twi) Braille](./braille-systems/african/README.md#akan-twi-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
-- **[Ewe Braille](./braille-systems/african/README.md#ewe-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
-- **[Ga and Dagaare Braille](./braille-systems/african/README.md#ga-and-dagaare-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
-- **[Nigerian Braille](./braille-systems/african/README.md#nigerian-braille)** - Based on French-ordered Braille; includes Hausa, Igbo, and Yoruba
-- **[Igbo Braille](./braille-systems/african/README.md#igbo-braille)** - Part of Nigerian Braille system; based on English Braille with Igbo-specific extensions
-- **[South African Braille](./braille-systems/african/README.md#south-african-braille)** - Based on English Braille; includes Afrikaans, Sesotho, Tswana, Venda, Xhosa, and Zulu
-- **[Afrikaans Braille](./braille-systems/african/README.md#afrikaans-braille)** - Part of South African Braille system; based on English Braille
-- **[Sesotho and Tswana Braille](./braille-systems/african/README.md#sesotho-and-tswana-braille)** - Part of South African Braille system; based on English Braille
-- **[Venda Braille](./braille-systems/african/README.md#venda-braille)** - Part of South African Braille system; based on English Braille
-- **[Zambian Braille](./braille-systems/african/README.md#zambian-braille)** - Based on French-ordered Braille
-- **[Algerian Braille](./braille-systems/african/README.md#algerian-braille)** - Reordered system (obsolete)
-- **[Arabic Braille](./braille-systems/african/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; used across Middle East and North Africa
+- **[Hebrew](./braille-systems/african/README.md#hebrew-braille)** - Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel; covers Hebrew and Yiddish
+- **[Swahili](./braille-systems/african/README.md#swahili-braille)** - Based on Latin alphabet (East Africa); based on English or French Braille depending on region
+- **[Hausa](./braille-systems/african/README.md#hausa-braille)** - Adapted for Hausa alphabet
+- **[Amharic (Ethiopian / Ge'ez Script)](./braille-systems/african/README.md#amharic-braille-ethiopian-braille--geez-script)** - Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary
+- **[Yoruba](./braille-systems/african/README.md#yoruba-braille)** - Includes tone markers
+- **[Zulu](./braille-systems/african/README.md#zulu-braille)** - Adapted for Zulu alphabet
+- **[Xhosa](./braille-systems/african/README.md#xhosa-braille)** - Adapted for Xhosa alphabet
+- **[Ghanaian](./braille-systems/african/README.md#ghanaian-braille)** - Based on French-ordered Braille
+- **[Akan (Twi)](./braille-systems/african/README.md#akan-twi-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
+- **[Ewe](./braille-systems/african/README.md#ewe-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
+- **[Ga and Dagaare](./braille-systems/african/README.md#ga-and-dagaare-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
+- **[Nigerian](./braille-systems/african/README.md#nigerian-braille)** - Based on French-ordered Braille; includes Hausa, Igbo, and Yoruba
+- **[Igbo](./braille-systems/african/README.md#igbo-braille)** - Part of Nigerian Braille system; based on English Braille with Igbo-specific extensions
+- **[South African](./braille-systems/african/README.md#south-african-braille)** - Based on English Braille; includes Afrikaans, Sesotho, Tswana, Venda, Xhosa, and Zulu
+- **[Afrikaans](./braille-systems/african/README.md#afrikaans-braille)** - Part of South African Braille system; based on English Braille
+- **[Sesotho and Tswana](./braille-systems/african/README.md#sesotho-and-tswana-braille)** - Part of South African Braille system; based on English Braille
+- **[Venda](./braille-systems/african/README.md#venda-braille)** - Part of South African Braille system; based on English Braille
+- **[Zambian](./braille-systems/african/README.md#zambian-braille)** - Based on French-ordered Braille
+- **[Algerian](./braille-systems/african/README.md#algerian-braille)** - Reordered system (obsolete)
+- **[Arabic](./braille-systems/african/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; used across Middle East and North Africa
 
 ### Americas Braille
 
