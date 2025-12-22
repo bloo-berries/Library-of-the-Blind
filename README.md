@@ -4,13 +4,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0-1.0 License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](./LICENSE)
-[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-119-blue)](./README.md#braille-systems)
+[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-156-blue)](./README.md#braille-systems)
 
 A centralized, easily accessible reference documenting the most extensive collection of accessibility systems for blind and visually impaired communities worldwide. This library serves as a comprehensive catalog of Braille systems, alternative tactile scripts, audio technologies, and multimodal accessibility solutions.
 
-**Total Official Braille & Tactile Language Systems: 119** (107 distinct Braille codes + 12 major alternative tactile systems)
+**Total Braille & Tactile Language Systems: 156** (107 distinct Braille codes + 49 alternative tactile systems including historical, modern, and niche systems)
 
-> **Note:** This count includes 107 distinct official Braille codes (literary, specialized, and regional variants) plus 12 major standardized alternative tactile language systems. The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally.
+> **Note:** This count includes 107 distinct official Braille codes (literary, specialized, and regional variants) plus 49 alternative tactile systems (including historical systems like Quipu, Pre-Braille embossed letters, modern alternatives like Fakoo/Quadoo/Siekoo, and specialized DeafBlind communication methods). The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally. See also: [Wikipedia - Tactile Alphabet](https://en.wikipedia.org/wiki/Tactile_alphabet).
 
 ## Contents
 
@@ -23,10 +23,12 @@ A centralized, easily accessible reference documenting the most extensive collec
     - [Americas Braille](#americas-braille)
     - [Specialized Braille](#specialized-braille)
   - [Alternative Tactile Scripts](#alternative-tactile-scripts)
+    - [Alternative Tactile Scripts](#alternative-tactile-scripts)
     - [Pre-Braille Embossed Letter Systems](#pre-braille-embossed-letter-systems)
     - [Dot-Based Alternative Systems](#dot-based-alternative-systems)
     - [Modern Alternative Scripts](#modern-alternative-scripts)
     - [Finger-Spelling and Manual Alphabets](#finger-spelling-and-manual-alphabets)
+    - [Ancient and Historical Tactile Systems](#ancient-and-historical-tactile-systems)
     - [Other Tactile Communication Systems](#other-tactile-communication-systems)
   - [Audio Communication Channels](#audio-communication-channels)
     - [Screen Readers](#screen-readers)
@@ -186,12 +188,17 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Frere's Type](./alternative-tactile-scripts/README.md#freres-type)** - James Hatley Frere's system based on shorthand, written in boustrophedon manner (UK, 1830s–1840s)
 - **[Klein's Stachel-Schrift (Pin Script)](./alternative-tactile-scripts/README.md#kleins-stachel-schrift-pin-script)** - Johann Wilhelm Klein's 'Pin Script' using raised Roman letters formed by pin pricks (Austria, early 19th century)
 - **[Hebold Type](./alternative-tactile-scripts/README.md#hebold-type)** - German raised letter variant (Germany, 19th century)
+- **[Edmund Frye's System](./alternative-tactile-scripts/README.md#edmund-fryes-system)** - System using capital letters only (19th century)
+- **[William Chapin's Combined System](./alternative-tactile-scripts/README.md#william-chapins-combined-system)** - Combined Boston Line lowercase with Philadelphia Line capitals (USA, 1868)
+- **[Terzi's System](./alternative-tactile-scripts/README.md#terzis-system)** - One of the earliest attempts at tactile writing (18th century)
 
 ### Dot-Based Alternative Systems
 
 - **[Night Writing (Sonography)](./alternative-tactile-scripts/README.md#night-writing-sonography)** - Charles Barbier's tactile "Ecriture Nocturne" code for military messages; 12-dot cells encoding phonetic sounds; direct predecessor to Braille (France, 1815–1820s)
 - **[Standard Braille (Louis Braille's Original System)](./alternative-tactile-scripts/README.md#standard-braille-louis-brailles-original-system)** - Louis Braille's 6-dot cell system; first French alphabet published in 1829; now the international standard (France, 1824-present)
-- **[Ballu's Decapoint](./alternative-tactile-scripts/README.md#ballus-decapoint)** - 10-dot system; experimental French alternative (France, 19th century)
+- **[Raphigraphy / Decapoint (Louis Braille's System)](./alternative-tactile-scripts/README.md#raphigraphy--decapoint-louis-brailles-system)** - Louis Braille's tactile Latin script readable by both blind and sighted; first digital font (1839); required Raphigraph apparatus
+- **[Ballu's Decapoint / Ballu Writing](./alternative-tactile-scripts/README.md#ballus-decapoint--ballu-writing)** - 10-dot writing system used in Spain; written on special dot-board (Spain, 19th century)
+- **[Father Lana's Code](./alternative-tactile-scripts/README.md#father-lanas-code)** - Nine dots arranged in 3×3 matrix (1617); proto-dot matrix system that may have influenced later tactile writing
 
 ### Modern Alternative Scripts
 
@@ -200,20 +207,38 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[ELIA Frames](./alternative-tactile-scripts/README.md#elia-frames)** - Geometric shapes within consistent frames; designed for late-blind adults (USA, 2000s–present)
 - **[Fishburne Alphabet](./alternative-tactile-scripts/README.md#fishburne-alphabet)** - Raised geometric symbols meant to be more intuitive than Braille (USA, 2010s)
 - **[Tactile Calligraphy Systems](./alternative-tactile-scripts/README.md#tactile-calligraphy-systems)** - Experimental raised cursive or decorative scripts for aesthetic purposes (various, contemporary)
+- **[Fakoo](./alternative-tactile-scripts/README.md#fakoo)** - Alexander Fakoó's 3×3 dot grid system readable by both blind and sighted (2006-2008)
+- **[Quadoo](./alternative-tactile-scripts/README.md#quadoo)** - Alexander Fakoó's square-based alternative to Moon alphabet; can be written with twigs, nails, or matches (2008)
+- **[Siekoo](./alternative-tactile-scripts/README.md#siekoo)** - Alexander Fakoó's tactile script for electronic devices with seven-segment displays (2012)
+- **[Vibratese](./alternative-tactile-scripts/README.md#vibratese)** - System based on arbitrary symbols using vibration patterns (experimental/obsolete)
 
 ### Finger-Spelling and Manual Alphabets
 
 - **[Lorm Alphabet](./alternative-tactile-scripts/README.md#lorm-alphabet)** - Touch-based system using palm and finger locations; popular among DeafBlind in German-speaking countries (Austria, 1881–present)
 - **[Malossi Alphabet](./alternative-tactile-scripts/README.md#malossi-alphabet)** - Tapping/pinching specific finger joints to spell letters (Italy, 20th century)
-- **[Spartan Alphabet (Deafblind Manual)](./alternative-tactile-scripts/README.md#spartan-alphabet-deafblind-manual)** - Block letters traced on palm (UK/USA, various)
+- **[Spartan Alphabet (Deafblind Manual) / Block Alphabet](./alternative-tactile-scripts/README.md#spartan-alphabet-deafblind-manual--block-alphabet)** - Capital letters drawn on palm; for individuals with prior print experience (UK/USA, various)
 - **[Two-Hand Manual Alphabet (Tactile)](./alternative-tactile-scripts/README.md#two-hand-manual-alphabet-tactile)** - British two-handed fingerspelling perceived tactilely (UK)
-- **[Tadoma](./alternative-tactile-scripts/README.md#tadoma)** - Tactile perception of lip and facial movements (International)
+- **[POP (Print-On-Palm)](./alternative-tactile-scripts/README.md#pop-print-on-palm)** - Index finger used to print message into hand; requires familiarity with printed alphabet (International)
+- **[Braille Signing / Palm Braille](./alternative-tactile-scripts/README.md#braille-signing--palm-braille)** - Six spots on palm represent Braille cell; can be typed on table (International)
+- **[Japanese Table-Typing System](./alternative-tactile-scripts/README.md#japanese-table-typing-system)** - Represents five vowels and five major consonants; signer types on table, receiver places hands on top (Japan)
+- **[Tadoma](./alternative-tactile-scripts/README.md#tadoma)** - Named for Tad Chapman and Oma Simpson; tactile lip-reading with hand on jaw/lips feeling vocal chord vibrations (USA, early 20th century)
 - **[Haptic Communication](./alternative-tactile-scripts/README.md#haptic-communication)** - Systematic touch signals on back/arm conveying environmental and emotional information (Scandinavia, 2000s–present)
+- **[Social Haptic Communication](./alternative-tactile-scripts/README.md#social-haptic-communication)** - Dr. Riitta Lahtinen and Russ Palmer's system with 139+ standardized signals; conveys emotion, environment, visual/auditory information (Finland/Scandinavia, 1990s–present)
+- **[Canaan Barrie On-Body Signing](./alternative-tactile-scripts/README.md#canaan-barrie-on-body-signing)** - Mary Lee and Lindi MacWilliam's on-body signing for children with multiple disabilities; includes 'in front', 'on body', 'hands over' (Scotland)
+- **[TaSSeLS (Tactile Signing for Sensory Learners)](./alternative-tactile-scripts/README.md#tassels-tactile-signing-for-sensory-learners)** - Touch cues and adapted signs for understanding, anticipation, and alerts; for children with complex needs (International)
+- **[Visual Frame Sign Language (VFSL)](./alternative-tactile-scripts/README.md#visual-frame-sign-language-vfsl)** - Signing within defined visual frame for deafblind with residual vision (International)
+- **[Square Hand](./alternative-tactile-scripts/README.md#square-hand)** - Writing using pencil, tactile guides, continuous style keeping pencil on page (Historical)
+
+### Ancient and Historical Tactile Systems
+
+- **[Quipu / Khipu](./alternative-tactile-scripts/README.md#quipu--khipu)** - Andean knot-based recording system; fibers differentiated by touch; can record dates, statistics, accounts; some are logosyllabic (2600 BCE–present, still used in South America)
+- **[Babington's Arthrologie](./alternative-tactile-scripts/README.md#babingtons-arthrologie)** - Early finger-joint alphabet system; 17th-century English system predating modern DeafBlind communication
+- **[Father Lana's Code](./alternative-tactile-scripts/README.md#father-lanas-code)** - Nine dots in 3×3 matrix (1617); proto-dot matrix system that may have influenced Charles Barbier
 
 ### Other Tactile Communication Systems
 
 - **[Pro-Tactile (PT)](./alternative-tactile-scripts/README.md#pro-tactile-pt)** - Tactile-sign language developed by DeafBlind community; conveys grammatical information through pressure, movement, and location on the hand (USA, Canada, Europe)
-- **[Tactile Sign Language](./alternative-tactile-scripts/README.md#tactile-sign-language)** - Direct tactile perception of hand shapes or facial movements (e.g., Tadoma, Finger-Spelling on the palm)
+- **[Tactile Sign Language](./alternative-tactile-scripts/README.md#tactile-sign-language)** - Direct tactile perception of hand shapes or facial movements (e.g., Finger-Spelling on the palm)
 - **[Tactile Graphics Systems](./alternative-tactile-scripts/README.md#tactile-graphics-systems)** - Use raised lines, textures, or 3-D prints to convey maps, charts, anatomical diagrams (e.g., Graphic Braille, Embossed Diagrams, 3-D Printed Models)
 - **[Tactile Map Symbols (ISO 13125)](./alternative-tactile-scripts/README.md#tactile-map-symbols-iso-13125)** - International cartography standard with standardized tactile symbols for roads, water bodies, elevation
 

@@ -99,16 +99,17 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Stenographic system with arbitrary characters
   - Used numerous contractions
 
-### Klein's Stachel-Schrift (Pin Script)
+### Klein's Stachel-Schrift (Pin Script) / Sting Writing
 - **Inventor/Developer:** Johann Wilhelm Klein
 - **Origin:** Austria
-- **Date:** Early 19th century
-- **Description:** 'Pin Script' using raised Roman letters formed by pin pricks; used in Vienna
+- **Date:** 1807
+- **Description:** The Sting Writing system, invented by the German Johann Wilhelm Klein in 1807, was also just as hard to read, although the Latin letters are displayed as dots. 'Pin Script' using raised Roman letters formed by pin pricks; used in Vienna
 - **Status:** Historical/obsolete
 - **Key Features:**
   - Created using pin pricks
-  - Used raised Roman letters
+  - Used raised Roman letters displayed as dots
   - Used in Vienna
+  - Also known as Sting Writing
 
 ### Guillié Script
 - **Inventor/Developer:** Sébastien Guillié
@@ -127,6 +128,35 @@ Historical tactile reading systems that predate or competed with Braille, using 
 - **Status:** Historical/obsolete
 - **Key Features:**
   - German variant of embossed letter systems
+
+### Edmund Frye's System
+- **Inventor/Developer:** Edmund Frye
+- **Origin:** Unknown
+- **Date:** 19th century
+- **Description:** System using capital letters only
+- **Status:** Historical/obsolete
+- **Key Features:**
+  - Capital letters only
+  - Historical embossed letter system
+
+### William Chapin's Combined System
+- **Inventor/Developer:** William Chapin
+- **Origin:** USA (Pennsylvania Institution)
+- **Date:** 1868
+- **Description:** Combining the lowercase letters of the Boston Line with the capitals of the Philadelphia Line, forming the "combined system" (used by 1868 in books printed by N. B. Kneass, Jr.)
+- **Status:** Historical/obsolete
+- **Key Features:**
+  - Combined Boston Line lowercase with Philadelphia Line capitals
+  - Used at Pennsylvania Institution
+  - Historical American system
+
+### Terzi's System
+- **Origin / Users:** 18th century
+- **Description:** One of the earliest attempts at tactile writing, referenced in historical records
+- **Status:** Historical/obsolete
+- **Key Features:**
+  - Early tactile writing attempt
+  - Historical significance
 
 ## Dot-Based Alternative Systems
 
@@ -155,14 +185,28 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Foundation for all modern Braille systems
   - International standard
 
-### Ballu's Decapoint
-- **Inventor/Developer:** Ballu
+### Raphigraphy / Decapoint (Louis Braille's System)
+- **Inventor/Developer:** Louis Braille
 - **Origin:** France
+- **Date:** 1839
+- **Description:** Decapoint, or raphigraphy, was a tactile form of the Latin script invented by Louis Braille as a system that could be used by both the blind and sighted. Letters retained their linear form, and so were legible without training to the sighted, but the lines were composed of embossed dots like those used in braille. Each letter contained ten dots in the height and different dots in the width to produce the graphic form of print. The Raphigraphy from 1839 was the first digital font in the world. The Raphigraph apparatus was built in 1841 by Pierre-François-Victor Foucault
+- **Status:** Historical/obsolete
+- **Key Features:**
+  - 10-dot height system
+  - Legible to both blind and sighted
+  - First digital font in the world
+  - Required special Raphigraph apparatus for writing
+
+### Ballu's Decapoint / Ballu Writing
+- **Inventor/Developer:** Ballu
+- **Origin:** Spain
 - **Date:** 19th century
-- **Description:** 10-dot experimental system
+- **Description:** In Spain, a 10-dot writing was used under the name Ballu Writing, which was written on a special dot-board
 - **Status:** Historical/obsolete
 - **Key Features:**
   - 10-dot cell configuration
+  - Used in Spain
+  - Written on special dot-board
   - Experimental alternative to 6-dot Braille
 
 ## Modern Scripts
@@ -220,6 +264,52 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Experimental raised cursive forms
   - Decorative tactile scripts
 
+### Fakoo
+- **Inventor/Developer:** Alexander Fakoó
+- **Origin:** International
+- **Date:** 2006-2008
+- **Description:** The Fakoo alphabet was developed from 2006 to 2008 and beyond by Alexander Fakoó as script for the blind, which can also be read by the sighted. This should enable an improved exchange of information between blind and sighted people. The basis is a grid of 3 x 3 dots and a blank space from one dot to the next character. Basically, all Fakoo characters can be displayed or defined by two Braille characters next to each other. Being 3 dots high, the Fakoo Alphabet can be used with any blind writing technique
+- **Status:** Active (niche)
+- **Key Features:**
+  - 3 x 3 dot grid system
+  - Readable by both blind and sighted
+  - Can be defined by two Braille characters
+  - 3 dots high (compatible with blind writing techniques)
+
+### Quadoo
+- **Inventor/Developer:** Alexander Fakoó
+- **Origin:** International
+- **Date:** 2008
+- **Description:** The Quadoo alphabet was developed by Alexander Fakoó in 2008 as an alternative version of the Moon alphabet. Quadoo is easy to read, since the characters can be assigned to Latin letters without any problems and without any confusion. It is also easy to write with a square stencil, since there are no arcs, circles or the like. Only the four sides and the two diagonals of a square are used to represent all characters. This means that the characters only consist of 1 to 6 lines and possibly additional dots at the corners to represent special characters. It was designed for handwritten notes by blind people and can also be used outdoors with materials like twigs, nails, or matches
+- **Status:** Active (niche)
+- **Key Features:**
+  - Alternative to Moon alphabet
+  - Square-based characters (sides and diagonals)
+  - Easy to write with square stencil
+  - Can be written with twigs, nails, or matches
+  - Designed for handwritten notes
+
+### Siekoo
+- **Inventor/Developer:** Alexander Fakoó
+- **Origin:** International
+- **Date:** 2012
+- **Description:** Siekoo is a tactile script created by Alexander Fakoó that can be read by blind. Blind people could use the characters on electronic devices that have seven-segment displays with tactile elements. Special emphasis was placed on easy legibility. This system was designed specifically for electronic devices with seven-segment displays
+- **Status:** Active (niche)
+- **Key Features:**
+  - Designed for seven-segment displays
+  - Electronic device compatibility
+  - Emphasis on easy legibility
+  - Tactile elements for electronic displays
+
+### Vibratese
+- **Origin / Users:** Various
+- **Description:** System based on arbitrary symbols using vibration patterns
+- **Status:** Experimental/obsolete
+- **Key Features:**
+  - Uses vibration patterns
+  - Based on arbitrary symbols
+  - Experimental communication method
+
 ### Pro-Tactile (PT)
 - **Origin / Users:** Developed by DeafBlind community (USA, Canada, Europe)
 - **Description:** A tactile-sign language that conveys grammatical information through pressure, movement, and location on the hand
@@ -252,14 +342,49 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Tapping and pinching gestures
   - Italian tactile communication system
 
-### Spartan Alphabet (Deafblind Manual)
+### Spartan Alphabet (Deafblind Manual) / Block Alphabet
 - **Origin / Users:** UK/USA (various)
-- **Description:** Block letters traced on palm
+- **Description:** The Block Alphabet is a tactile communication method designed for individuals who are deafblind and who have prior experience with reading and writing in print. Capital letters are drawn on the palm. Block letters traced on palm
 - **Status:** Active
 - **Key Features:**
   - Letters traced directly on palm
-  - Block letter forms
+  - Block letter forms (capital letters)
+  - Requires prior experience with print
   - Used in DeafBlind communities
+
+### Visual Frame Sign Language (VFSL)
+- **Origin / Users:** International
+- **Description:** Visual Frame Sign Language (VFSL) is a communication method designed for deafblind individuals with residual vision. It involves signing within a defined visual frame, so typically an interpreter would imagine a small rectangle in front of their head and shoulders and keep their signs there throughout the conversation
+- **Status:** Active
+- **Key Features:**
+  - Designed for deafblind with residual vision
+  - Signs kept within defined visual frame
+  - Rectangle frame in front of head and shoulders
+  - Adapts visual sign language for limited vision
+
+### Canaan Barrie On-Body Signing
+- **Inventor/Developer:** Mary Lee and Lindi MacWilliam
+- **Origin:** Scotland (Edinburgh's Royal Blind School)
+- **Date:** Late 20th century
+- **Description:** The Canaan Barrie 'on body' signing approach was developed in order to make signing, which is a visual means of communication, both meaningful and relevant to the person with complex support needs through the use of touch and other available senses. The method includes signing 'in front', 'on body' and 'hands over.' Canaan Barrie signs are developed as a relationship between an adult and child develops. This means that each child's Canaan Barrie signs are slightly different as they are unique to them. Pioneered by a principal teacher of Edinburgh's Royal Blind School for children who have multiple disabilities as well as being visually impaired
+- **Status:** Active
+- **Key Features:**
+  - On-body signing approach
+  - Includes signing 'in front', 'on body', and 'hands over'
+  - Individualized signs for each child
+  - Designed for children with multiple disabilities and visual impairment
+  - Developed in Scotland
+
+### TaSSeLS (Tactile Signing for Sensory Learners)
+- **Origin / Users:** International
+- **Description:** A system of touch cues or adapted signs to help understanding, anticipation, and to alert the child that something is going to happen. For children who have complex needs, often with visual impairment, and require additional sensory feedback to help their learning
+- **Status:** Active
+- **Key Features:**
+  - Touch cues and adapted signs
+  - Helps understanding and anticipation
+  - Alerts child to upcoming events
+  - For children with complex needs and visual impairment
+  - Provides additional sensory feedback
 
 ### Two-Hand Manual Alphabet (Tactile)
 - **Origin / Users:** UK
@@ -279,15 +404,68 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Conveys environmental and emotional information
   - Systematic touch signal patterns
 
-### Tadoma
+### Social Haptic Communication
+- **Inventor/Developer:** Dr. Riitta Lahtinen and Russ Palmer
+- **Origin:** Finland/Scandinavia
+- **Date:** 1990s–present
+- **Description:** Social Haptic Communication is broadly defined as the interaction of two or more people in a social context where messages are conveyed using the sense of touch. These messages (or haptices) may contain information about emotion, facial expression, to map out the environment or a room layout and describing other visual or auditory information such as art or music. According to international guidelines, social-haptic signs are carried out in neutral zones on the body of the deafblind person: These include the back, arm, wrist, outer/inner palm and upper knee area. A standardized vocabulary of 139+ signals exists, documented by the Danish DeafBlind Association. This is an approach developed over nearly 30 years to improving communication with a person with sensory loss (primarily blind and deafblind) with friends, family and professionals
+- **Status:** Active
+- **Key Features:**
+  - Standardized vocabulary of 139+ signals
+  - Used in neutral body zones (back, arm, wrist, palm, knee)
+  - Conveys emotion, facial expression, environment, visual/auditory information
+  - Developed over 30 years
+  - Documented by Danish DeafBlind Association
+
+### POP (Print-On-Palm)
 - **Origin / Users:** International
-- **Description:** Tactile perception of lip and facial movements
+- **Description:** With POP, the index finger is used to print the message into the hand of the person who is deafblind. This can be used if the deaf-blind person is familiar with the printed alphabet
+- **Status:** Active
+- **Key Features:**
+  - Uses index finger to print on palm
+  - Requires familiarity with printed alphabet
+  - Simple tactile communication method
+
+### Braille Signing / Palm Braille
+- **Origin / Users:** International
+- **Description:** Using six spots on the palm to represent the six dots of a braille cell. Alternatively, the signer may 'type' onto a table as if using a braille typewriter and the receiver will place their hands on top
+- **Status:** Active
+- **Key Features:**
+  - Six spots on palm represent Braille cell
+  - Can be typed on table with hands on top
+  - Direct Braille-to-tactile communication
+
+### Japanese Table-Typing System
+- **Origin / Users:** Japan
+- **Description:** In Japan, a system developed by a deafblind woman is in use to represent the five vowels and five major consonants of the Japanese language on the fingers, where the signer 'types' onto a table and the receiver places their hands on top to 'listen'
+- **Status:** Active
+- **Key Features:**
+  - Represents five vowels and five major consonants
+  - Signer types on table, receiver places hands on top
+  - Developed by deafblind woman in Japan
+
+### Tadoma
+- **Inventor/Developer:** Named for Tad Chapman and Oma Simpson
+- **Origin:** USA
+- **Date:** Early 20th century
+- **Description:** The Tadoma method of communication was named for Tad Chapman and Oma Simpson, who were the first students with deafblindness to use it. With this method, sometimes referred to as "tactile lip-reading," the person who is deafblind places his or her hand on the speaker's jaw and lips, while also feeling the vibration of the vocal chords. Tactile perception of lip and facial movements
 - **Status:** Active
 - **Key Features:**
   - Tactile method of speechreading
-  - User places hand on speaker's face
+  - User places hand on speaker's jaw and lips
+  - Feels vibration of vocal chords
   - Perceives lip and facial movements through touch
   - Used by DeafBlind individuals
+  - Named for first students to use it
+
+### Square Hand
+- **Origin / Users:** Historical
+- **Description:** Square hand was a form of writing by the blind using a pencil, tactile guides on a board, and a style of writing that involves keeping the pencil on the page from letter to letter
+- **Status:** Historical/obsolete
+- **Key Features:**
+  - Used pencil and tactile guides
+  - Continuous writing style (pencil stays on page)
+  - Historical tactile writing method
 
 ## Other Tactile Communication Systems
 
@@ -308,10 +486,50 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 - **Description:** Standardized tactile symbols for roads, water bodies, elevation, etc.
 - **Status:** International standard
 
+## Ancient and Historical Tactile Systems
+
+### Quipu / Khipu
+- **Origin / Users:** Andean Civilizations
+- **Date:** 2600 BCE–present
+- **Description:** It is generally thought that the system did not include phonetic symbols analogous to letters of the alphabet. However, Gary Urton has suggested that the quipus used a binary system which could record phonological or logographic data. Another theory is that this is at least partially a tactile writing system, as fibers used in Quipu can be differentiated by touch. Quipu could record dates, statistics, accounts, and even abstract ideas. Quipu are still used today across South America. According to Guaman Poma, quipucamayocs could "read" the quipus with their eyes closed. Recent research has found that some quipus are special. Because they're logosyllabic. Meaning the knots and the differences in fibers corresponded to phonetic sounds, which formed words
+- **Status:** Active (still used in South America)
+- **Key Features:**
+  - Knot-based recording system
+  - Fibers can be differentiated by touch
+  - Can record dates, statistics, accounts, abstract ideas
+  - Some quipus are logosyllabic (phonetic sounds form words)
+  - Can be read with eyes closed
+  - One of the oldest tactile communication systems
+
+### Babington's Arthrologie
+- **Origin / Users:** 17th Century England
+- **Date:** 17th century
+- **Description:** "A pregnant example of the officious nature of the Touch in supplying the defect or temporall incapacity of the other senses we have in one Master Babington of Burntwood in the County of Essex, an ingenious gentleman, who through some sicknesse becoming deaf, doth notwithstanding feele words, and as if he had an eye in his finger, sees signes in the darke; whose Wife discourseth very perfectly with him by a strange way of Arthrologie or Alphabet contrived on the joynts of his Fingers." This 17th-century account describes an early finger-joint alphabet system predating modern DeafBlind communication methods
+- **Status:** Historical
+- **Key Features:**
+  - Early finger-joint alphabet system
+  - Predates modern DeafBlind communication
+  - 17th-century English system
+  - Historical significance
+
+### Father Lana's Code
+- **Inventor/Developer:** Father Lana
+- **Origin:** Italy
+- **Date:** 1617
+- **Description:** Barbier might have derived his idea from Father Lana's code of nine dots arranged in 3×3 matrix formulated in 1617. This proto-dot matrix system may have influenced later tactile writing development
+- **Status:** Historical
+- **Key Features:**
+  - Nine dots arranged in 3×3 matrix
+  - Proto-dot matrix system
+  - May have influenced Charles Barbier and later Braille
+  - Early 17th-century system
+
 ## Notes
 
 - These systems serve different needs and communities
 - Some are historical (like New York Point) but important for understanding the evolution of accessibility
 - Pro-Tactile is particularly important for the DeafBlind community
 - Moon Type remains in use, especially for those who lose sight later in life
+- Many niche systems exist for specific populations (late-blind adults, children with multiple disabilities, DeafBlind individuals)
+- Regional variation is significant (Lorm in German-speaking countries, Canaan Barrie in Scotland, Social Haptics in Scandinavia)
 
