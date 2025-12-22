@@ -6,7 +6,7 @@ Some blind users prefer or require scripts that differ from traditional Braille.
 
 Historical tactile reading systems that predate or competed with Braille, using raised letter forms.
 
-### Haüy's Embossed Roman Letters
+### [Haüy's Embossed Roman Letters](https://aphmuseum.org/record/letter-embossed-with-roman-letters-in-raised-dots/)
 - **Inventor/Developer:** Valentin Haüy
 - **Origin:** France
 - **Date:** 1784
@@ -17,7 +17,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Foundation for later embossed letter systems
   - Used raised italic letters
 
-### Snider's System
+### [Snider's System](https://www.latimes.com/local/obituaries/la-me-harold-snider27-2009jul27-story.html)
 - **Inventor/Developer:** Jacob Snider, Jr.
 - **Origin:** USA
 - **Date:** 1834
@@ -28,7 +28,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - First embossed book in the United States (Gospel of Mark, 1834)
   - Important milestone in American tactile reading history
 
-### Boston Line Type (Howe's Line Letter)
+### [Boston Line Type (Howe's Line Letter)](https://en.wikipedia.org/wiki/Boston_line_letter)
 - **Inventor/Developer:** Samuel Gridley Howe
 - **Origin:** USA
 - **Date:** 1835
@@ -41,7 +41,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Standard at Perkins School for the Blind
   - Competed with Braille in early American blind education
 
-### Philadelphia Line Type
+### [Philadelphia Line Type](https://aphmuseum.org/record/kneass-philadelphia-magazine-for-the-blind-kneass-combined-letter-4/)
 - **Inventor/Developer:** Julius Reinhold Friedlander
 - **Origin:** USA
 - **Date:** Mid-19th century
@@ -53,7 +53,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Used at the Pennsylvania Institution for the Instruction of the Blind
   - Regional variant of line type systems
 
-### Gall's Triangular Alphabet
+### [Gall's Triangular Alphabet](https://www.europeana.eu/en/stories/before-braille-raised-type-in-europe)
 - **Inventor/Developer:** James Gall
 - **Origin:** Scotland
 - **Date:** 1826
@@ -65,7 +65,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - First embossed books published in English (1826)
   - Designed specifically for tactile reading
 
-### Alston Type
+### [Alston Type](https://www.nyise.org/apps/pages/index.jsp?uREC_ID=438103&type=d&pREC_ID=948713)
 - **Inventor/Developer:** John Alston
 - **Origin:** UK
 - **Date:** 1830s
@@ -76,7 +76,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Printed whole Bible in 1840
   - British variant of embossed letter systems
 
-### Frere's Type
+### [Frere's Type](https://collection.sciencemuseumgroup.org.uk/people/cp47078)
 - **Inventor/Developer:** James Hatley Frere
 - **Origin:** UK
 - **Date:** 1830s–1840s
@@ -87,7 +87,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Written in boustrophedon manner (alternating direction)
   - Unique approach to tactile reading
 
-### Lucas Type
+### [Lucas Type](https://www.nyise.org/apps/pages/index.jsp?uREC_ID=438103&type=d&pREC_ID=948713)
 - **Inventor/Developer:** Thomas Lucas
 - **Origin:** UK
 - **Date:** 1837
