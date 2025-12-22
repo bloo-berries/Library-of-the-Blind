@@ -83,7 +83,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Tatar Braille](./braille-systems/european/README.md#tatar-braille)** - Russian lineage family (Cyrillic-mediated)
 - **[Ukrainian Braille](./braille-systems/european/README.md#ukrainian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
 - **[Belarusian Braille](./braille-systems/european/README.md#belarusian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
-- **[Luxembourgish Braille (8-dot)](./braille-systems/european/README.md#luxembourgish-braille-8-dot)** - Extended to 8-dot system
+- **[Luxembourgish Braille](./braille-systems/european/README.md#luxembourgish-braille)** - Extended to 8-dot system
 
 ### Asian Braille
 
