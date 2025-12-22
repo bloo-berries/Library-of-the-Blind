@@ -19,7 +19,7 @@ A centralized, easily accessible reference documenting the most extensive collec
   - [Braille Systems](#braille-systems)
     - [European Braille](#european-braille)
     - [Asian Braille](#asian-braille)
-    - [African Braille](#african-braille)
+    - [Africa and Middle East Braille](#africa-and-middle-east-braille)
     - [Americas Braille](#americas-braille)
     - [Specialized Braille](#specialized-braille)
   - [Alternative Tactile Scripts](#alternative-tactile-scripts)
@@ -89,7 +89,6 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 - **[Arabic Braille](./braille-systems/asian/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; avoids reordering chaos (unlike obsolete Algerian Braille); covers Arabic, Persian (Farsi), Urdu (Pakistan)
 - **[Pakistani Urdu Braille](./braille-systems/asian/README.md#pakistani-urdu-braille)** - Entirely different alphabet than Indian Urdu Braille; commonalities due to common inheritance from English/International Braille
-- **[Hebrew Braille](./braille-systems/asian/README.md#hebrew-braille)** - Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel; covers Hebrew and Yiddish
 - **[Japanese Tenji (Braille) (点字)](./braille-systems/asian/README.md#japanese-tenji-braille-点字)** - Kuraji Ishikawa's system (1890); transcribes Japanese as written in hiragana/katakana; no provision for kanji
 - **[Korean Hangul Braille (한글 점자)](./braille-systems/asian/README.md#korean-hangul-braille-한글-점자)** - Rosetta Sherwood Hall (1894), Park Du-seong (1926); reflects Hangul patterns; differentiates initial consonants, vowels, and final consonants
 - **[Mainland Chinese Braille (现行盲文)](./braille-systems/asian/README.md#mainland-chinese-braille-现行盲文)** - Each syllable written with up to three Braille cells (initial, final, tone); tone generally omitted
@@ -122,8 +121,9 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Taiwanese Mandarin Braille](./braille-systems/asian/README.md#taiwanese-mandarin-braille)** - Chinese semi-syllabary; largely reassigned from French-ordered
 - **[Two-cell Chinese Braille (Shuangpin)](./braille-systems/asian/README.md#two-cell-chinese-braille-shuangpin)** - Independent Chinese semi-syllabary system
 
-### African Braille
+### Africa and Middle East Braille
 
+- **[Hebrew Braille](./braille-systems/african/README.md#hebrew-braille)** - Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel; covers Hebrew and Yiddish
 - **[Swahili Braille](./braille-systems/african/README.md#swahili-braille)** - Based on Latin alphabet (East Africa); based on English or French Braille depending on region
 - **[Hausa Braille](./braille-systems/african/README.md#hausa-braille)** - Adapted for Hausa alphabet
 - **[Amharic Braille (Ethiopian Braille / Ge'ez Script)](./braille-systems/african/README.md#amharic-braille-ethiopian-braille--geez-script)** - Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary

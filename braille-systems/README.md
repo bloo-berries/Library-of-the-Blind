@@ -6,7 +6,7 @@ Braille is the most universal tactile script, but many regions have adapted it t
 
 - [European Braille Systems](./european/) - Braille codes for European languages
 - [Asian Braille Systems](./asian/) - Braille codes for Asian languages and scripts
-- [African Braille Systems](./african/) - Braille codes for African languages
+- [Africa and Middle East Braille Systems](./african/) - Braille codes for African and Middle Eastern languages
 - [Americas Braille Systems](./americas/) - Braille codes for North and South American languages
 - [Specialized Braille Systems](./specialized/) - Music, Mathematics, Computer Braille, and other specialized codes
 

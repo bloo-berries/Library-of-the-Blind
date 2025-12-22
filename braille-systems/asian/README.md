@@ -12,11 +12,6 @@
 - **Key Characteristics:** Pakistan has not adopted Bharati braille, so the Urdu Braille of Pakistan is an entirely different alphabet than the Urdu Braille of India, with their commonalities largely due to their common inheritance from English or International Braille
 - **Status:** Active
 
-### Hebrew Braille
-- **Languages Supported:** Hebrew, Yiddish
-- **Key Characteristics:** Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel. Uses same cell patterns as English but mapped to Hebrew letters
-- **Status:** Active
-
 ### Japanese Tenji (Braille) (点字)
 - **Inventor/Developer:** Kuraji Ishikawa (developed in 1890)
 - **Languages Supported:** Japanese kana (hiragana/katakana) and kanji (via "kanji Braille")

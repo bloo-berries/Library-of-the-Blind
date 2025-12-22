@@ -1,10 +1,15 @@
-# African Braille Systems
+# Africa and Middle East Braille Systems
 
 ## Overview
 
-Many African Braille systems are based on French Braille, adapted for local languages and scripts.
+This category includes Braille systems from Africa and the Middle East. Many African Braille systems are based on French Braille, adapted for local languages and scripts.
 
-## Major African Braille Codes
+## Major Africa and Middle East Braille Codes
+
+### Hebrew Braille
+- **Languages Supported:** Hebrew, Yiddish
+- **Key Characteristics:** Adapted for Hebrew alphabet with distinct vowel markings (niqqud); used primarily in Israel. Uses same cell patterns as English but mapped to Hebrew letters
+- **Status:** Active
 
 ### Swahili Braille
 - **Languages Supported:** Swahili (East Africa)
