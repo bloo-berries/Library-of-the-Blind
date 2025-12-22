@@ -9,19 +9,29 @@ A centralized, easily accessible reference documenting the most extensive collec
 
 ## Contents
 
-- [Braille Systems](#braille-systems)
-  - [European Braille](#european-braille)
-  - [Asian Braille](#asian-braille)
-  - [African Braille](#african-braille)
-  - [Americas Braille](#americas-braille)
-  - [Specialized Braille](#specialized-braille)
-- [Alternative Tactile Scripts](#alternative-tactile-scripts)
-- [Audio Communication Channels](#audio-communication-channels)
-- [Tactile and Haptic Modalities](#tactile-and-haptic-modalities)
-- [Multimodal Systems](#multimodal-systems)
-- [Regional Accessibility Infrastructure](#regional-accessibility-infrastructure)
-- [Resources](#resources)
-- [Contributing](#contributing)
+- [Library of the Blind](#library-of-the-blind)
+  - [Contents](#contents)
+  - [Braille Systems](#braille-systems)
+    - [European Braille](#european-braille)
+    - [Asian Braille](#asian-braille)
+    - [African Braille](#african-braille)
+    - [Americas Braille](#americas-braille)
+    - [Specialized Braille](#specialized-braille)
+  - [Alternative Tactile Scripts](#alternative-tactile-scripts)
+  - [Audio Communication Channels](#audio-communication-channels)
+    - [Screen Readers](#screen-readers)
+    - [Audio Descriptions](#audio-descriptions)
+    - [Text-to-Speech (TTS) Systems](#text-to-speech-tts-systems)
+  - [Tactile and Haptic Modalities](#tactile-and-haptic-modalities)
+    - [Refreshable Braille Displays](#refreshable-braille-displays)
+    - [Talking-Touch Devices](#talking-touch-devices)
+    - [3D Printed Models](#3d-printed-models)
+    - [Tactile Graphics](#tactile-graphics)
+  - [Multimodal Systems](#multimodal-systems)
+  - [Regional Accessibility Infrastructure](#regional-accessibility-infrastructure)
+  - [Resources](#resources)
+  - [Contributing](#contributing)
+  - [License](#license)
 
 ## Braille Systems
 
@@ -115,17 +125,6 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **German Audio Descriptions** - Available in Germany and Austria
 - **Japanese Audio Descriptions** - Available in Japan
 - **Multi-language Audio Descriptions** - Available in many other languages worldwide
-
-### Audiobooks
-
-- **English Audiobooks** - Extensive library (Audible, LibriVox, etc.)
-- **French Audiobooks** - Large library (Audible France, etc.)
-- **Spanish Audiobooks** - Growing library
-- **German Audiobooks** - Large library
-- **Japanese Audiobooks** - Growing library
-- **Mandarin Chinese Audiobooks** - Growing library
-- **Arabic Audiobooks** - Growing library
-- **Multi-language Audiobooks** - Available in many other languages
 
 ### Text-to-Speech (TTS) Systems
 
