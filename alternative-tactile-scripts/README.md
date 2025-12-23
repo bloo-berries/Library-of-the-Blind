@@ -99,7 +99,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Stenographic system with arbitrary characters
   - Used numerous contractions
 
-### Klein's Stachel-Schrift (Pin Script) / Sting Writing
+### [Klein's Stachel-Schrift (Pin Script) / Sting Writing](https://graphicarts.princeton.edu/2020/07/22/johann-wilhelm-kleins-1807-printing-device-for-the-blind/)
 - **Inventor/Developer:** Johann Wilhelm Klein
 - **Origin:** Austria
 - **Date:** 1807
@@ -111,7 +111,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Used in Vienna
   - Also known as Sting Writing
 
-### Guillié Script
+### [Guillié Script](https://bpa.org.in/how-tactile-writing-began/)
 - **Inventor/Developer:** Sébastien Guillié
 - **Origin:** France
 - **Date:** 1820s
@@ -122,14 +122,14 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Developed by school director Sébastien Guillié
   - French variant of embossed letter systems
 
-### Hebold Type
+### [Hebold Type](https://fakoo.de/en/blind/relief-alphabets.html?he)
 - **Origin / Users:** Germany (19th century)
 - **Description:** German raised letter variant
 - **Status:** Historical/obsolete
 - **Key Features:**
   - German variant of embossed letter systems
 
-### Edmund Frye's System
+### [Edmund Frye's System](https://en.wikipedia.org/wiki/Tactile_alphabet)
 - **Inventor/Developer:** Edmund Frye
 - **Origin:** Unknown
 - **Date:** 19th century
@@ -139,7 +139,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Capital letters only
   - Historical embossed letter system
 
-### William Chapin's Combined System
+### [William Chapin's Combined System](https://en.wikipedia.org/wiki/Tactile_alphabet)
 - **Inventor/Developer:** William Chapin
 - **Origin:** USA (Pennsylvania Institution)
 - **Date:** 1868
@@ -150,7 +150,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Used at Pennsylvania Institution
   - Historical American system
 
-### Terzi's System
+### [Terzi's System](https://braille-genesis.rarebook-ubfc.fr/index.php/francesco-lana-de-terzi/)
 - **Origin / Users:** 18th century
 - **Description:** One of the earliest attempts at tactile writing, referenced in historical records
 - **Status:** Historical/obsolete
@@ -160,7 +160,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 
 ## Dot-Based Alternative Systems
 
-### Night Writing (Sonography)
+### [Night Writing (Sonography)](https://en.wikipedia.org/wiki/Night_writing)
 - **Inventor/Developer:** Charles Barbier
 - **Origin:** France
 - **Date:** 1815-1820s
@@ -173,7 +173,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Direct inspiration for Louis Braille's 6-dot system
   - Also known as Sonography
 
-### Standard Braille (Louis Braille's Original System)
+### [Standard Braille (Louis Braille's Original System)](https://en.wikipedia.org/wiki/Braille)
 - **Inventor/Developer:** Louis Braille
 - **Origin:** France
 - **Date:** 1824-present
@@ -185,7 +185,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Foundation for all modern Braille systems
   - International standard
 
-### Raphigraphy / Decapoint (Louis Braille's System)
+### [Raphigraphy / Decapoint (Louis Braille's System)](https://en.wikipedia.org/wiki/Decapoint)
 - **Inventor/Developer:** Louis Braille
 - **Origin:** France
 - **Date:** 1839
@@ -197,7 +197,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - First digital font in the world
   - Required special Raphigraph apparatus for writing
 
-### Ballu's Decapoint / Ballu Writing
+### [Ballu's Decapoint / Ballu Writing](https://fakoo.de/en/raphigraphy.html)
 - **Inventor/Developer:** Ballu
 - **Origin:** Spain
 - **Date:** 19th century
@@ -211,7 +211,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 
 ## Modern Scripts
 
-### Moon Type
+### [Moon Type](https://en.wikipedia.org/wiki/Moon_type)
 - **Inventor/Developer:** Dr. William Moon (1818-1894)
 - **Origin:** UK
 - **Date:** 1845 (first book appeared in 1847)
@@ -224,7 +224,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Particularly useful for adults whose finger-touch has been dulled by age or manual labour
   - Used mainly in the UK, USA, Canada, Australia, New Zealand
 
-### New York Point
+### [New York Point](https://en.wikipedia.org/wiki/New_York_Point)
 - **Inventor/Developer:** William Bell Wait
 - **Origin:** USA
 - **Date:** 1868-1916
@@ -237,7 +237,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Historical significance in American blind education
   - Replaced by standard Braille
 
-### ELIA Frames
+### [ELIA Frames](https://www.elialife.com/elia-frames)
 - **Origin / Users:** USA (2000s–present)
 - **Description:** Geometric shapes (circles, lines, curves) within a consistent frame; designed for late-blind adults
 - **Status:** <span style="color: green;">Active</span>
@@ -246,7 +246,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Geometric shapes within consistent frames
   - More intuitive than Braille for some users
 
-### Fishburne Alphabet
+### [Fishburne Alphabet](https://journals.sagepub.com/doi/abs/10.1177/0145482X8808200409)
 - **Origin / Users:** USA (2010s)
 - **Description:** Raised geometric symbols meant to be more intuitive than Braille
 - **Status:** <span style="color: green;">Active</span> (experimental)
@@ -255,7 +255,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Designed for intuitive recognition
   - Modern alternative to traditional systems
 
-### Tactile Calligraphy Systems
+### [Tactile Calligraphy Systems](https://en.wikipedia.org/wiki/Tactile_alphabet)
 - **Origin / Users:** Various (contemporary)
 - **Description:** Experimental raised cursive or decorative scripts for aesthetic purposes
 - **Status:** Experimental/artistic
@@ -264,7 +264,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Experimental raised cursive forms
   - Decorative tactile scripts
 
-### Fakoo
+### [Fakoo](https://en.wikipedia.org/wiki/Fakoo)
 - **Inventor/Developer:** Alexander Fakoó
 - **Origin:** International
 - **Date:** 2006-2008
@@ -276,7 +276,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Can be defined by two Braille characters
   - 3 dots high (compatible with blind writing techniques)
 
-### Quadoo
+### [Quadoo](https://fakoo.de/en/quadoo.html)
 - **Inventor/Developer:** Alexander Fakoó
 - **Origin:** International
 - **Date:** 2008
@@ -289,7 +289,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Can be written with twigs, nails, or matches
   - Designed for handwritten notes
 
-### Siekoo
+### [Siekoo](https://fakoo.de/en/siekoo.html)
 - **Inventor/Developer:** Alexander Fakoó
 - **Origin:** International
 - **Date:** 2012
@@ -301,7 +301,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Emphasis on easy legibility
   - Tactile elements for electronic displays
 
-### Vibratese
+### [Vibratese](https://en.wikipedia.org/wiki/Vibratese)
 - **Origin / Users:** Various
 - **Description:** System based on arbitrary symbols using vibration patterns
 - **Status:** Experimental/obsolete
@@ -310,7 +310,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Based on arbitrary symbols
   - Experimental communication method
 
-### Pro-Tactile (PT)
+### [Pro-Tactile (PT)](https://en.wikipedia.org/wiki/Protactile)
 - **Origin / Users:** Developed by DeafBlind community (USA, Canada, Europe)
 - **Description:** A tactile-sign language that conveys grammatical information through pressure, movement, and location on the hand
 - **Status:** <span style="color: green;">Active</span>
@@ -324,7 +324,7 @@ Historical tactile reading systems that predate or competed with Braille, using 
 
 Tactile communication systems that use touch to perceive manual alphabets and finger-spelling.
 
-### Lorm Alphabet
+### [Lorm Alphabet](https://fakoo.de/en/lorm.html)
 - **Origin / Users:** Austria (1881–present); popular among DeafBlind in German-speaking countries
 - **Description:** Touch-based system using palm and finger locations to spell letters
 - **Status:** <span style="color: green;">Active</span>
@@ -333,7 +333,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Popular in German-speaking DeafBlind communities
   - Systematic touch-based spelling
 
-### Malossi Alphabet
+### [Malossi Alphabet](https://dl.acm.org/doi/10.1145/1385569.1385655)
 - **Origin / Users:** Italy (20th century)
 - **Description:** Tapping/pinching specific finger joints to spell letters
 - **Status:** <span style="color: green;">Active</span>
@@ -342,7 +342,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Tapping and pinching gestures
   - Italian tactile communication system
 
-### Spartan Alphabet (Deafblind Manual) / Block Alphabet
+### [Spartan Alphabet (Deafblind Manual) / Block Alphabet](https://www.deafblindinformation.org.au/living-with-deafblindness/deafblind-communication/block-alphabet/)
 - **Origin / Users:** UK/USA (various)
 - **Description:** The Block Alphabet is a tactile communication method designed for individuals who are deafblind and who have prior experience with reading and writing in print. Capital letters are drawn on the palm. Block letters traced on palm
 - **Status:** <span style="color: green;">Active</span>
@@ -352,7 +352,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Requires prior experience with print
   - Used in DeafBlind communities
 
-### Visual Frame Sign Language (VFSL)
+### [Visual Frame Sign Language (VFSL)](https://deafblind.com/card.html)
 - **Origin / Users:** International
 - **Description:** Visual Frame Sign Language (VFSL) is a communication method designed for deafblind individuals with residual vision. It involves signing within a defined visual frame, so typically an interpreter would imagine a small rectangle in front of their head and shoulders and keep their signs there throughout the conversation
 - **Status:** <span style="color: green;">Active</span>
@@ -362,7 +362,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Rectangle frame in front of head and shoulders
   - Adapts visual sign language for limited vision
 
-### Canaan Barrie On-Body Signing
+### [Canaan Barrie On-Body Signing](https://sightscotland.org.uk/articles/information-and-advice/introduction-canaan-barrie-body-sign-system)
 - **Inventor/Developer:** Mary Lee and Lindi MacWilliam
 - **Origin:** Scotland (Edinburgh's Royal Blind School)
 - **Date:** Late 20th century
@@ -375,7 +375,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Designed for children with multiple disabilities and visual impairment
   - Developed in Scotland
 
-### TaSSeLS (Tactile Signing for Sensory Learners)
+### [TaSSeLS (Tactile Signing for Sensory Learners)](https://pavpub.com/learning-disability/communication/tassels-tactile-signing-for-sensory-learners-2nd-edition)
 - **Origin / Users:** International
 - **Description:** A system of touch cues or adapted signs to help understanding, anticipation, and to alert the child that something is going to happen. For children who have complex needs, often with visual impairment, and require additional sensory feedback to help their learning
 - **Status:** <span style="color: green;">Active</span>
@@ -386,7 +386,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - For children with complex needs and visual impairment
   - Provides additional sensory feedback
 
-### Two-Hand Manual Alphabet (Tactile)
+### [Two-Hand Manual Alphabet (Tactile)](https://en.wikipedia.org/wiki/Two-handed_manual_alphabets)
 - **Origin / Users:** UK
 - **Description:** British two-handed fingerspelling perceived tactilely
 - **Status:** <span style="color: green;">Active</span>
@@ -395,7 +395,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Perceived through touch
   - British variant
 
-### Haptic Communication
+### [Haptic Communication](https://www.helenkeller.org/resources/haptic-communication-facilitate-braille-instruction-deafblind-adults/)
 - **Origin / Users:** Scandinavia (2000s–present)
 - **Description:** Systematic touch signals on back/arm conveying environmental and emotional information
 - **Status:** <span style="color: green;">Active</span>
@@ -404,7 +404,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Conveys environmental and emotional information
   - Systematic touch signal patterns
 
-### Social Haptic Communication
+### [Social Haptic Communication](https://www.russpalmer.com/social-haptic-communication)
 - **Inventor/Developer:** Dr. Riitta Lahtinen and Russ Palmer
 - **Origin:** Finland/Scandinavia
 - **Date:** 1990s–present
@@ -417,7 +417,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Developed over 30 years
   - Documented by Danish DeafBlind Association
 
-### POP (Print-On-Palm)
+### [POP (Print-On-Palm)](https://www.helenkeller.org/resources/print-on-palm-pop/)
 - **Origin / Users:** International
 - **Description:** With POP, the index finger is used to print the message into the hand of the person who is deafblind. This can be used if the deaf-blind person is familiar with the printed alphabet
 - **Status:** <span style="color: green;">Active</span>
@@ -426,7 +426,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Requires familiarity with printed alphabet
   - Simple tactile communication method
 
-### Braille Signing / Palm Braille
+### [Braille Signing / Palm Braille](https://en.wikipedia.org/wiki/Tactile_signing)
 - **Origin / Users:** International
 - **Description:** Using six spots on the palm to represent the six dots of a braille cell. Alternatively, the signer may 'type' onto a table as if using a braille typewriter and the receiver will place their hands on top
 - **Status:** <span style="color: green;">Active</span>
@@ -435,7 +435,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Can be typed on table with hands on top
   - Direct Braille-to-tactile communication
 
-### Japanese Table-Typing System
+### [Japanese Table-Typing System](https://en.wikipedia.org/wiki/Satoshi_Fukushima)
 - **Origin / Users:** Japan
 - **Description:** In Japan, a system developed by a deafblind woman is in use to represent the five vowels and five major consonants of the Japanese language on the fingers, where the signer 'types' onto a table and the receiver places their hands on top to 'listen'
 - **Status:** <span style="color: green;">Active</span>
@@ -444,7 +444,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Signer types on table, receiver places hands on top
   - Developed by deafblind woman in Japan
 
-### Tadoma
+### [Tadoma](https://en.wikipedia.org/wiki/Tadoma)
 - **Inventor/Developer:** Named for Tad Chapman and Oma Simpson
 - **Origin:** USA
 - **Date:** Early 20th century
@@ -458,7 +458,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Used by DeafBlind individuals
   - Named for first students to use it
 
-### Square Hand
+### [Square Hand](https://deafblind.com/card.html)
 - **Origin / Users:** Historical
 - **Description:** Square hand was a form of writing by the blind using a pencil, tactile guides on a board, and a style of writing that involves keeping the pencil on the page from letter to letter
 - **Status:** Historical/obsolete
@@ -481,7 +481,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 - **Description:** Use raised lines, textures, or 3-D prints to convey maps, charts, anatomical diagrams, etc.
 - **Status:** <span style="color: green;">Active</span>
 
-### Tactile Map Symbols (ISO 13125)
+### [Tactile Map Symbols (ISO 13125)](https://www.tactilegraphics.org/labels-keys.html)
 - **Community/Context:** International cartography standard
 - **Description:** Standardized tactile symbols for roads, water bodies, elevation, etc.
 - **Status:** International standard
