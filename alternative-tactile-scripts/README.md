@@ -237,6 +237,23 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Historical significance in American blind education
   - Replaced by standard Braille
 
+### [Nyctography](https://en.wikipedia.org/wiki/Nyctography)
+- **Inventor/Developer:** Lewis Carroll (Charles Lutwidge Dodgson)
+- **Origin:** UK
+- **Date:** 1891
+- **Description:** Nyctography is a form of substitution cipher writing created by Lewis Carroll in 1891. It is written with a nyctograph (a device invented by Carroll) and uses a system of dots and strokes all based on a dot placed in the upper left corner. Using the Nyctograph, one could quickly jot down ideas or notes without the aid of light. Carroll invented the Nyctograph and Nyctography as he was often awakened during the night with thoughts that needed to be written down at once, and didn't want to go through the lengthy process of lighting a lamp only to have to then extinguish it. The device consisted of a gridded card with sixteen square holes, each a quarter inch wide, and a system of symbols representing an alphabet of Carroll's design, which could then be transcribed the following day. Each character had a large dot or circle in the upper-left corner, and the system included 26 letters plus additional characters for 'and', 'the', digits, letters, and dates. Carroll initially named it "typhlograph" (from typhlos, "blind") but changed it to "Nyctograph" (from nyctos, "night") at the suggestion of one of his brother-students.
+- **Status:** Historical
+- **Key Features:**
+  - Square-based alphabet using dots at corners and lines along sides
+  - Designed for writing in complete darkness
+  - Used a gridded card with sixteen square holes (quarter inch each)
+  - Each character has a large dot in the upper-left (N.W.) corner for orientation
+  - Includes 26 letters plus special characters for common words and functions
+  - Originally named "typhlograph" (for blind) but renamed to "nyctograph" (for night)
+  - Designed to enable quick note-taking without lighting a lamp
+  - Could be transcribed the following day
+  - Historical significance as a creative solution for nighttime writing
+
 ### [ELIA Frames](https://www.elialife.com/elia-frames)
 - **Origin / Users:** USA (2000s–present)
 - **Description:** Geometric shapes (circles, lines, curves) within a consistent frame; designed for late-blind adults

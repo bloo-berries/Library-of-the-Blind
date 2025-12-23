@@ -102,6 +102,77 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Used in Indian educational institutions
   - Part of India's broader Braille development initiatives
 
+### [Woluwe Code](https://chezdom.net/mathematicalbraillecodes/)
+- **Origin / Users:** Belgium (Dutch-speaking region)
+- **Date:** 1960s–present
+- **Description:** Mathematical Braille notation system developed in the 1960s for the Dutch-speaking part of Belgium. The Woluwe code is based on the Marburg code and was developed at the Royal Institute for Deaf and Blind people (Koninklijk Instituut Woluwe) in Sint-Lambrechts-Woluwe, a suburb of Brussels. The system provides mathematical notation adapted for Dutch-speaking Belgian users and is documented in the "Handleiding Braillesymbolen wiskunde" (Manual for mathematics Braille) edited by Gilbert Notaert, Marc Suij and Emmanuel Vandekerkhove, published in 1984.
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Based on Marburg Mathematical Notation
+  - Developed specifically for Dutch-speaking Belgian users
+  - Used at the Royal Institute for Deaf and Blind people in Woluwe
+  - Documented in official manual published in 1984
+  - Regional variant of European mathematical Braille notation
+
+### [HRTeX (Human Readable TeX)](https://chezdom.net/mathematicalbraillecodes/)
+- **Origin / Users:** Austria (Johannes Kepler Universität Linz)
+- **Date:** Late 20th century–present
+- **Description:** HRTeX (Human Readable TeX) is a mathematical notation code developed at the Johannes Kepler Universität Linz, Austria, with the intention to supply teaching materials in a way more easily readable than TeX or LaTeX. HRTeX is derived from TeX, although not compatible with it. The system uses abbreviated symbols (e.g., Greek letters use first two characters: "al" instead of "alpha", "be" instead of "beta"), writes standard functions in uppercase (e.g., SIN instead of sin, LOG instead of log), and uses alternative notation for fractions with double slashes (e.g., {a+b // c+d} instead of frac{a+b}{c+d}).
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Developed at Johannes Kepler Universität Linz, Austria
+  - More human-readable than standard TeX/LaTeX
+  - Abbreviated symbols for Greek letters (first two characters)
+  - Standard functions written in uppercase
+  - Alternative fraction notation using double slashes (//)
+  - Designed for teaching materials
+  - Not compatible with standard TeX/LaTeX
+
+### [AMS (ASCII Maths Notation)](https://chezdom.net/mathematicalbraillecodes/)
+- **Inventor/Developer:** Mr. Schönberg
+- **Origin / Users:** Germany, Austria, Eastern Europe (University of Karlsruhe)
+- **Date:** 1993–present
+- **Description:** The ASCII Maths Notation (AMS) was developed in 1993 at the University of Karlsruhe by Mr. Schönberg. It uses exclusively the 128 characters of the 7-bit standard ASCII, which makes it platform independent. AMS is used in Germany, Austria, and some Eastern European states for representing mathematical notation in a text-based format that can be easily processed by computers and screen readers.
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Uses only 7-bit standard ASCII (128 characters)
+  - Platform independent
+  - Developed at University of Karlsruhe (1993)
+  - Used in Germany, Austria, and Eastern European states
+  - Text-based mathematical notation format
+  - Compatible with computer systems and screen readers
+  - Documented in "ASCII-Mathematikschrift AMS – Anleitung zur Umsetzung mathematischer Formeln" (November 2001)
+
+### [Lambda (Linear Access to Mathematics for Braille Device and Audio Synthesis)](https://chezdom.net/mathematicalbraillecodes/)
+- **Origin / Users:** International
+- **Date:** Late 20th century–present
+- **Description:** Lambda is a mathematical reading and writing system designed for blind students. The software was developed in a project of the same name, whose meaning is in full: "Linear Access to Mathematics for Braille Device and Audio Synthesis." Lambda provides a comprehensive system for representing mathematical notation in formats accessible to both Braille displays and audio synthesis systems, enabling blind students to access mathematical content through multiple modalities.
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Designed specifically for blind students
+  - Supports both Braille device output and audio synthesis
+  - Linear access to mathematical notation
+  - Multimodal approach (tactile and auditory)
+  - Comprehensive mathematical notation system
+  - Software-based implementation
+  - Enables access to mathematical content through multiple sensory channels
+
+### [Saunderson's Palpable Arithmetic](https://en.wikipedia.org/wiki/Nicholas_Saunderson)
+- **Inventor/Developer:** Nicholas Saunderson
+- **Origin / Users:** England (Cambridge University)
+- **Date:** Early 18th century (1711-1739)
+- **Description:** A calculating machine or abacus devised by Nicholas Saunderson (1682-1739), a blind English mathematician who served as Lucasian Professor of Mathematics at Cambridge University. Saunderson lost his sight to smallpox as a child but became one of the most accomplished mathematicians of his era. His "palpable arithmetic" system allowed him to perform arithmetical and algebraic operations by the sense of touch. The system was described in his posthumously published work "Elements of Algebra" (1740) and was used at the Royal Military Academy at Woolwich. Saunderson could carry out mentally long and intricate mathematical calculations and was known for his acute senses of hearing and touch. He was a contemporary and friend of Isaac Newton, Edmond Halley, Abraham De Moivre, and Roger Cotes.
+- **Status:** Historical
+- **Key Features:**
+  - Tactile calculating device/abacus for performing arithmetic and algebra
+  - Designed specifically for use by touch
+  - Enabled a blind mathematician to perform complex calculations
+  - Described in "Elements of Algebra" (1740)
+  - Used in educational settings (Royal Military Academy at Woolwich)
+  - Historical significance as an early tactile mathematical tool
+  - Developed by one of the most accomplished blind mathematicians in history
+  - Part of the legacy of Nicholas Saunderson, Lucasian Professor of Mathematics
+
 ### Other Mathematical Braille Systems
 - **European Mathematical Braille:** Used in many European countries
 - **Japanese Mathematical Braille:** Adapted for Japanese mathematical notation

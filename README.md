@@ -178,6 +178,11 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Gardner–Salinas Braille Codes (GS8/GS6)](./braille-systems/specialized/README.md#gardnersalinas-braille-codes-gs8gs6)** - Specialized codes for scientific and technical notation; includes 8-dot (GS8) and 6-dot (GS6) variants
 - **[Marburg Mathematical Notation](./braille-systems/specialized/README.md#marburg-mathematical-notation)** - European alternative to Nemeth Code for mathematical notation
 - **[Unified English Braille (UEB) Technical](./braille-systems/specialized/README.md#unified-english-braille-ueb-technical)** - Integrated technical/math symbols within UEB framework (2010s–present)
+- **[Woluwe Code](./braille-systems/specialized/README.md#woluwe-code)** - Mathematical Braille notation based on Marburg code; developed for Dutch-speaking Belgium (1960s–present)
+- **[HRTeX (Human Readable TeX)](./braille-systems/specialized/README.md#hrtex-human-readable-tex)** - Mathematical notation code developed at Johannes Kepler Universität Linz, Austria; more readable than TeX/LaTeX
+- **[AMS (ASCII Maths Notation)](./braille-systems/specialized/README.md#ams-ascii-maths-notation)** - Platform-independent mathematical notation using 7-bit ASCII; used in Germany, Austria, and Eastern Europe (1993–present)
+- **[Lambda](./braille-systems/specialized/README.md#lambda-linear-access-to-mathematics-for-braille-device-and-audio-synthesis)** - Mathematical reading and writing system for Braille devices and audio synthesis; designed for blind students
+- **[Saunderson's Palpable Arithmetic](./braille-systems/specialized/README.md#saundersons-palpable-arithmetic)** - Nicholas Saunderson's tactile calculating device/abacus for performing arithmetic and algebra by touch; developed by blind Lucasian Professor of Mathematics (England, early 18th century)
 
 #### Other Specialized Codes
 
@@ -225,6 +230,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Fishburne Alphabet](./alternative-tactile-scripts/README.md#fishburne-alphabet)** - Raised geometric symbols meant to be more intuitive than Braille (USA, 2010s)
 - **[Moon Type](./alternative-tactile-scripts/README.md#moon-type)** - Simplified, raised-outline characters derived from Latin alphabet; easier for people with reduced tactile sensitivity (UK, USA, Canada, Australia, New Zealand)
 - **[New York Point](./alternative-tactile-scripts/README.md#new-york-point)** - William Bell Wait's braille-like system using one to four pairs of points; most common letters written with fewest points (USA, 1868-1916, now obsolete)
+- **[Nyctography](./alternative-tactile-scripts/README.md#nyctography)** - Lewis Carroll's square-based alphabet for writing in darkness; invented by Lewis Carroll in 1891 (UK, historical)
 - **[Quadoo](./alternative-tactile-scripts/README.md#quadoo)** - Alexander Fakoó's square-based alternative to Moon alphabet; can be written with twigs, nails, or matches (2008)
 - **[Siekoo](./alternative-tactile-scripts/README.md#siekoo)** - Alexander Fakoó's tactile script for electronic devices with seven-segment displays (2012)
 - **[Tactile Calligraphy Systems](./alternative-tactile-scripts/README.md#tactile-calligraphy-systems)** - Experimental raised cursive or decorative scripts for aesthetic purposes (various, contemporary)
