@@ -488,7 +488,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 
 ## Ancient and Historical Tactile Systems
 
-### Didymus the Blind's Carved Wooden Letters
+### [Didymus the Blind's Carved Wooden Letters](https://en.wikipedia.org/wiki/Didymus_the_Blind)
 - **Inventor/Developer:** [Didymus the Blind](https://en.wikipedia.org/wiki/Didymus_the_Blind)
 - **Origin:** Alexandria, Egypt
 - **Date:** 4th Century CE (c. 313-398 CE)
@@ -501,7 +501,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Predates Braille by approximately 1,500 years
   - Used by one of the most learned theologians of the 4th century
 
-### Japanese Anma/Amma Tradition
+### [Japanese Anma/Amma Tradition](https://en.wikipedia.org/wiki/Anma)
 - **Origin:** Japan
 - **Date:** 1600s–Present
 - **Description:** [Anma](https://en.wikipedia.org/wiki/Anma) is a practice of traditional Japanese massage. During the Tokugawa period, edicts were passed which made the practice of anma solely the preserve of the blind—sighted people were prohibited from practicing the art. Blind practitioners dominated anma due to the tactile nature of the techniques, which relied on heightened sensitivity to bodily cues rather than sight. In contemporary Japan, anma continues to underpin vocational training and employment for the visually impaired, with specialized curricula integrated into schools for the blind since the Meiji era's establishment of such institutions in the 1870s. This represents a unique case where tactile expertise became legally exclusive to blind practitioners, transforming heightened tactile sensitivity into professional advantage and creating an entire occupational identity around blindness.
@@ -514,7 +514,7 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Creates professional advantage from tactile sensitivity
   - Unique occupational identity around blindness
 
-### Quipu / Khipu
+### [Quipu / Khipu](https://en.wikipedia.org/wiki/Quipu)
 - **Origin / Users:** Andean Civilizations
 - **Date:** 2600 BCE–present
 - **Description:** It is generally thought that the system did not include phonetic symbols analogous to letters of the alphabet. However, Gary Urton has suggested that the quipus used a binary system which could record phonological or logographic data. Another theory is that this is at least partially a tactile writing system, as fibers used in Quipu can be differentiated by touch. Quipu could record dates, statistics, accounts, and even abstract ideas. Quipu are still used today across South America. According to Guaman Poma, quipucamayocs could "read" the quipus with their eyes closed. Recent research has found that some quipus are special. Because they're logosyllabic. Meaning the knots and the differences in fibers corresponded to phonetic sounds, which formed words
