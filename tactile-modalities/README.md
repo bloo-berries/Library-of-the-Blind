@@ -17,10 +17,10 @@ Electronic devices that dynamically display Braille characters using pins that r
 - **And many more languages...**
 
 ### Major Manufacturers
-- **Freedom Scientific:** Focus 40, Focus 80, etc.
-- **HumanWare:** BrailleNote Touch, BrailleSense
-- **APH (American Printing House):** Various models
-- **Orbit Research:** Orbit Reader, various models
+- **[Freedom Scientific](https://en.wikipedia.org/wiki/Freedom_Scientific):** Focus 40, Focus 80, etc.
+- **[HumanWare](https://en.wikipedia.org/wiki/BrailleNote):** BrailleNote Touch, BrailleSense
+- **[APH (American Printing House)](https://en.wikipedia.org/wiki/American_Printing_House_for_the_Blind):** Various models
+- **[Orbit Research](https://www.orbitresearch.com/products/braille-displays/):** Orbit Reader, various models
 - **And many others...**
 
 ## Talking-Touch Devices
@@ -28,7 +28,7 @@ Electronic devices that dynamically display Braille characters using pins that r
 Portable computing devices that combine Braille display and speech output.
 
 ### Examples
-- **BrailleSense:** Portable device with combined Braille display and speech
+- **[BrailleSense](https://irie-at.com/product/braillesense-6/):** Portable device with combined Braille display and speech
 - **BrailleNote Touch:** Portable computing with combined Braille display and speech
 - **Key Features:**
   - Integrated TTS + Braille refreshable display
@@ -72,7 +72,7 @@ Raised-line diagrams, maps, and illustrations that can be felt.
 - **Art:** Tactile art reproductions
 
 ### Standards
-- **ISO 13125:** Tactile map symbols (standardized symbols for roads, water, elevation, etc.)
+- **[ISO 13125](https://www.tandfonline.com/doi/full/10.1080/00087041.2022.2097760):** Tactile map symbols (standardized symbols for roads, water, elevation, etc.)
 - **Various national standards:** For tactile graphics production
 
 ## Embossed Diagrams
