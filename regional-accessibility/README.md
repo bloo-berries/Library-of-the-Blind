@@ -140,3 +140,4 @@ Accessibility technologies, standards, and infrastructure organized by geographi
 - International collaboration is increasing
 - Technology adoption varies by economic factors
 
+

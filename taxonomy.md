@@ -44,3 +44,4 @@ This document outlines the taxonomy and counting methodology for the Library of 
 - Regional variants of the same base system (e.g., Portuguese Braille PT-BR vs PT-PT) may be counted separately if they have significant differences.
 - Historical systems (e.g., New York Point) are included for completeness and historical reference.
 
+
