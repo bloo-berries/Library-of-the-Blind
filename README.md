@@ -94,6 +94,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Cantonese Braille (粵語點字)](./braille-systems/asian/README.md#cantonese-braille-粵語點字)** - Purely phonetic; each syllable divided into initial consonant, rime, and tone (Hong Kong and Macau)
 - **[Dzongkha Braille (Bhutanese)](./braille-systems/asian/README.md#dzongkha-braille-bhutanese)** - Adapted for Dzongkha script
 - **[Georgian Braille](./braille-systems/asian/README.md#georgian-braille)** - Unique mapping for Georgian script
+- **[Hmong Braille (RPA)](./braille-systems/asian/README.md#hmong-braille-rpa)** - Basic DBT template for Hmong (RPA) language; usually produced in uncontracted braille; uses Romanized Popular Alphabet (RPA)
 - **[Indian Braille (Bharati Braille) (भारती ब्रेल)](./braille-systems/asian/README.md#indian-braille-bharati-braille-भारती-ब्रेल)** - Unified code (1951); adopted by Sri Lanka, Nepal, Bangladesh; linearized alphasyllabary abugida (default vowel 'a' not written); covers Hindi, Bengali, Tamil, Telugu, Malayalam, Gujarati, Punjabi, Assamese, Odia, Kannada, Marathi, Nepali, Urdu (India), Sinhala, and others
   - **[Bangla (Bengali variant)](./braille-systems/asian/README.md#bangla-braille-bengali-variant)** - Indian lineage family (Bharati Braille)
   - **[Devanagari](./braille-systems/asian/README.md#devanagari-braille)** - Hindi, Marathi, Nepali (Devanagari script)
