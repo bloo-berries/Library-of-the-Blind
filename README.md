@@ -4,13 +4,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0-1.0 License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](./LICENSE)
-[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-156-blue)](./README.md#braille-systems)
+[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-285-blue)](./README.md#braille-systems)
 
 A centralized, easily accessible reference documenting the most extensive collection of accessibility systems for blind and visually impaired communities worldwide. This library serves as a comprehensive catalog of Braille systems, alternative tactile scripts, audio technologies, and multimodal accessibility solutions.
 
-**Total Braille & Tactile Language Systems: 156** (107 distinct Braille codes + 49 alternative tactile systems including historical, modern, and niche systems)
+**Total Braille & Tactile Language Systems: 285** (192 distinct Braille codes + 93 alternative tactile systems including historical, modern, and niche systems)
 
-> **Note:** This count includes 107 distinct official Braille codes (literary, specialized, and regional variants) plus 49 alternative tactile systems (including historical systems like Quipu, Pre-Braille embossed letters, modern alternatives like Fakoo/Quadoo/Siekoo, and specialized DeafBlind communication methods). The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally. See also: [Wikipedia - Tactile Alphabet](https://en.wikipedia.org/wiki/Tactile_alphabet).
+> **Note:** This count includes 192 distinct official Braille codes (literary, specialized, and regional variants) plus 93 alternative tactile systems (including historical systems like Quipu, Pre-Braille embossed letters, modern alternatives like Fakoo/Quadoo/Siekoo/Rila, and specialized DeafBlind communication methods). The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally. See also: [Wikipedia - Tactile Alphabet](https://en.wikipedia.org/wiki/Tactile_alphabet).
 
 ## Contents
 
