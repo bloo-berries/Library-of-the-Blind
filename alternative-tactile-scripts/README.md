@@ -237,6 +237,19 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Historical significance in American blind education
   - Replaced by standard Braille
 
+### [Mascaro Alphabet](https://fakoo.de/en/braille/mascaro-alphabet.html)
+- **Inventor/Developer:** Mascaro
+- **Origin:** Spain
+- **Date:** 1900
+- **Description:** Mascaro attempted to combine Braille with flat writing (embossed letters). His alphabet was practically never used due to the difficulties in writing. The system was an experimental approach to creating a tactile alphabet that would bridge the gap between Braille's dot-based system and traditional embossed letter systems.
+- **Status:** Historical/obsolete
+- **Key Features:**
+  - Attempted to combine Braille dots with flat/embossed writing
+  - Experimental hybrid approach
+  - Never achieved practical use due to writing difficulties
+  - Historical significance as an alternative approach to tactile writing
+  - Documented in a letter from 1900
+
 ### [Nyctography](https://en.wikipedia.org/wiki/Nyctography)
 - **Inventor/Developer:** Lewis Carroll (Charles Lutwidge Dodgson)
 - **Origin:** UK
@@ -305,6 +318,22 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Easy to write with square stencil
   - Can be written with twigs, nails, or matches
   - Designed for handwritten notes
+
+### [Rila Sign System](https://omniglot.com/conscripts/rila.htm)
+- **Inventor/Developer:** Stefan Stoynov
+- **Origin:** Bulgaria
+- **Date:** 2000s
+- **Description:** The Rila Sign System is an alternative alphabet for Russian, English, Spanish, and other languages devised by Stefan Stoynov. He invented it because he found writing text messages (SMS) in Bulgarian on a mobile phone difficult and thought there might be a better way. This sign system is designed to be easy to enter on a keypad and uses a small number of symbols that correspond to letters in the Cyrillic and Latin alphabets. The system includes a tactile version known as Tactile System Rila, making it accessible for blind and visually impaired users. The system can represent multiple alphabets (Latin, Cyrillic, Greek) and includes phonetic notation capabilities.
+- **Status:** <span style="color: green;">Active</span> (niche)
+- **Key Features:**
+  - Designed for easy mobile keypad entry
+  - Supports multiple languages (Russian, English, Spanish, Bulgarian, Greek, etc.)
+  - Uses small number of symbols corresponding to Cyrillic and Latin alphabets
+  - Includes tactile version (Tactile System Rila) for blind users
+  - Can represent European alphabets (Latin, Cyrillic, Greek)
+  - Includes phonetic notation system
+  - Supports linguistic letter combinations for multiple languages
+  - Designed to be more efficient than standard mobile text input
 
 ### [Siekoo](https://fakoo.de/en/siekoo.html)
 - **Inventor/Developer:** Alexander Fakoó
