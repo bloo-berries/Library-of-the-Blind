@@ -4,13 +4,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0-1.0 License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](./LICENSE)
-[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-285-blue)](./README.md#braille-systems)
+[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-317-blue)](./README.md#braille-systems)
 
 A centralized, easily accessible reference documenting the most extensive collection of accessibility systems for blind and visually impaired communities worldwide. This library serves as a comprehensive catalog of Braille systems, alternative tactile scripts, audio technologies, and multimodal accessibility solutions.
 
-**Total Braille & Tactile Language Systems: 285** (192 distinct Braille codes + 93 alternative tactile systems including historical, modern, and niche systems)
+**Total Braille & Tactile Language Systems: 317** (192 distinct Braille codes + 125 alternative tactile systems including historical, modern, and niche systems)
 
-> **Note:** This count includes 192 distinct official Braille codes (literary, specialized, and regional variants) plus 93 alternative tactile systems (including historical systems like Quipu, Pre-Braille embossed letters, modern alternatives like Fakoo/Quadoo/Siekoo/Rila, and specialized DeafBlind communication methods). The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally. See also: [Wikipedia - Tactile Alphabet](https://en.wikipedia.org/wiki/Tactile_alphabet).
+> **Note:** This count includes 192 distinct official Braille codes (literary, specialized, and regional variants) plus 125 alternative tactile systems (including historical systems like Quipu, Pre-Braille embossed letters, modern alternatives like Fakoo/Quadoo/Siekoo/Rila, specialized DeafBlind communication methods, tactile sign language variants, and vibrotactile systems). The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally. See also: [Wikipedia - Tactile Alphabet](https://en.wikipedia.org/wiki/Tactile_alphabet).
 
 ## Contents
 
@@ -372,6 +372,15 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Nsibidi adaptations](./alternative-tactile-scripts/README.md#nsibidi-adaptations)** - Igbo/Ekpe symbolic system (West Africa)
 - **[Adinkra tactile](./alternative-tactile-scripts/README.md#adinkra-tactile)** - Symbol system adaptations (Ghana)
 - **[Ogham (tactile use)](./alternative-tactile-scripts/README.md#ogham-tactile-use)** - Edge-carved alphabet (Ireland)
+- **[Diderot's System](./alternative-tactile-scripts/README.md#diderots-system)** - Philosopher's proposed tactile alphabet (France, 1749)
+- **[Rampazetto's Engraved Letters](./alternative-tactile-scripts/README.md#rampazettos-engraved-letters)** - Early carved wooden letters for blind readers (Italy, 1575)
+- **[Harsdörffer's Wax Writing](./alternative-tactile-scripts/README.md#harsdorffers-wax-writing)** - Writing in wax tablets (Germany, 1651)
+- **[Weissenburg's System](./alternative-tactile-scripts/README.md#weissenburgs-system)** - Early tactile communication methods (Germany, 1670s)
+- **[Maria Theresia von Paradis's Method](./alternative-tactile-scripts/README.md#maria-theresia-von-paradis-method)** - Blind musician's communication system (Austria, 1780s)
+- **[Peniche's Phonetic System](./alternative-tactile-scripts/README.md#peniches-phonetic-system)** - Portuguese tactile writing (Portugal, 1800s)
+- **[Dr. Thomas Rhodes Armitage's Systems](./alternative-tactile-scripts/README.md#dr-thomas-rhodes-armitages-systems)** - Multiple tactile experiments (UK, 1860s)
+- **[Fleischer's System](./alternative-tactile-scripts/README.md#fleischers-system)** - German embossed variant (Germany, 19th c.)
+- **[Knie's System](./alternative-tactile-scripts/README.md#knies-system)** - Alternative embossed letters (Germany, 19th c.)
 
 ### Other Tactile Communication Systems
 
@@ -386,12 +395,35 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Tactile DGS](./alternative-tactile-scripts/README.md#tactile-dgs)** - German Sign adaptation (Germany)
 - **[Tactile JSL](./alternative-tactile-scripts/README.md#tactile-jsl)** - Japanese Sign adaptation (Japan)
 - **[Tactile ISL](./alternative-tactile-scripts/README.md#tactile-isl)** - Indian Sign adaptation (India)
+- **[Tactile BSL (TBSL)](./alternative-tactile-scripts/README.md#tactile-bsl-tbsl)** - Tactile adaptation of BSL (UK)
+- **[Tactile LSE (Lengua de Signos Española)](./alternative-tactile-scripts/README.md#tactile-lse)** - Spanish tactile signing (Spain)
+- **[Tactile LIS (Lingua dei Segni Italiana)](./alternative-tactile-scripts/README.md#tactile-lis)** - Italian tactile signing (Italy)
+- **[Tactile KSL (한국 수화)](./alternative-tactile-scripts/README.md#tactile-ksl)** - Korean tactile signing (South Korea)
+- **[Tactile CSL (中国手语)](./alternative-tactile-scripts/README.md#tactile-csl)** - Chinese tactile signing (China)
+- **[Tactile NZSL](./alternative-tactile-scripts/README.md#tactile-nzsl)** - New Zealand tactile signing (New Zealand)
+- **[Tactile LSQ (Langue des signes québécoise)](./alternative-tactile-scripts/README.md#tactile-lsq)** - Quebec French tactile signing (Canada)
+- **[Tactile Língua Gestual Portuguesa](./alternative-tactile-scripts/README.md#tactile-lingua-gestual-portuguesa)** - Portuguese tactile signing (Portugal)
+- **[Tactile Svenska teckenspråket](./alternative-tactile-scripts/README.md#tactile-svenska-teckenspraket)** - Swedish tactile signing (Sweden)
+- **[Tactile Norsk tegnspråk](./alternative-tactile-scripts/README.md#tactile-norsk-tegnsprak)** - Norwegian tactile signing (Norway)
+- **[Tactile Suomalainen viittomakieli](./alternative-tactile-scripts/README.md#tactile-suomalainen-viittomakieli)** - Finnish tactile signing (Finland)
+- **[Tactile RSL (Russian Sign Language)](./alternative-tactile-scripts/README.md#tactile-rsl)** - Russian tactile signing (Russia)
 - **[Tracking](./alternative-tactile-scripts/README.md#tracking)** - Following signer's hands with own hands
 - **[Close Vision Signing](./alternative-tactile-scripts/README.md#close-vision-signing)** - Modified signing for tunnel vision
 - **[Restricted Field Signing](./alternative-tactile-scripts/README.md#restricted-field-signing)** - Signing within limited visual field
-- **[Hand-under-Hand](./alternative-tactile-scripts/README.md#hand-under-hand)** - Alternative to hand-over-hand
+- **[Hand-Over-Hand (HOH)](./alternative-tactile-scripts/README.md#hand-over-hand-hoh)** - Receiver places hands over signer's hands to feel signs
+- **[Hand-under-Hand (HUH)](./alternative-tactile-scripts/README.md#hand-under-hand-huh)** - Receiver places hands under signer's hands (less intrusive)
+- **[Co-Active Signing](./alternative-tactile-scripts/README.md#co-active-signing)** - Guide physically moves receiver's hands to form signs
+- **[Supported Typing](./alternative-tactile-scripts/README.md#supported-typing)** - Physical guidance during typing/pointing
+- **[Body-Shift Signing](./alternative-tactile-scripts/README.md#body-shift-signing)** - Perception of signer's body position changes
 - **[Protactile Movement conventions](./alternative-tactile-scripts/README.md#protactile-movement-conventions)** - PT grammatical innovations
 - **[PTASL (Protactile ASL)](./alternative-tactile-scripts/README.md#ptasl-protactile-asl)** - Distinct from standard tactile ASL
+- **[PTASL Grammar](./alternative-tactile-scripts/README.md#ptasl-grammar)** - Modified ASL grammar for tactile perception
+- **[Backchanneling](./alternative-tactile-scripts/README.md#backchanneling)** - Continuous touch feedback ("I'm listening") on arm/leg
+- **[Protactile Points (PTPs)](./alternative-tactile-scripts/README.md#protactile-points-ptps)** - Spatial reference system on receiver's body
+- **[Tactile Imagery](./alternative-tactile-scripts/README.md#tactile-imagery)** - Drawing concepts on body surfaces
+- **[Haptic Environmental Mapping](./alternative-tactile-scripts/README.md#haptic-environmental-mapping)** - Touch-based room/space orientation
+- **[Rhythmic Attention Signals](./alternative-tactile-scripts/README.md#rhythmic-attention-signals)** - Tapping patterns to gain attention
+- **[Emotional Haptics](./alternative-tactile-scripts/README.md#emotional-haptics)** - Conveying tone/emotion through touch quality
 - **[Body Braille](./alternative-tactile-scripts/README.md#body-braille)** - Braille patterns tapped on body
 - **[Back-of-Hand Braille](./alternative-tactile-scripts/README.md#back-of-hand-braille)** - Signing Braille on back of hand
 - **[SSP (Support Service Provider) protocols](./alternative-tactile-scripts/README.md#ssp-support-service-provider-protocols)** - Professional DeafBlind support
@@ -504,6 +536,13 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Electrotactile Displays](./tactile-modalities/README.md#electrotactile-displays)** - Electrical stimulation patterns representing text (research, 1980s–present)
 - **[Optacon Letter Recognition](./tactile-modalities/README.md#optacon-letter-recognition)** - Camera converts print to vibrating pin array felt by fingertip (USA, 1970s–1990s, discontinued)
 - **[Vibrotactile Alphabets](./tactile-modalities/README.md#vibrotactile-alphabets)** - Patterns of vibration on skin representing letters; used in wearable devices (1960s–present)
+- **[Geldard's Vibratese](./tactile-modalities/README.md#geldards-vibratese)** - 45 WPM vibrotactile language system
+- **[Tactons](./tactile-modalities/README.md#tactons)** - Structured vibrotactile messages
+- **[Haptic Icons](./tactile-modalities/README.md#haptic-icons)** - Vibration patterns representing concepts
+- **[Vibrotactile Phonemes](./tactile-modalities/README.md#vibrotactile-phonemes)** - Speech sounds as vibration patterns
+- **[Tadoma-derived Vibrotactile](./tactile-modalities/README.md#tadoma-derived-vibrotactile)** - Artificial Tadoma systems using vibration
+- **[Morse Code Vibration](./tactile-modalities/README.md#morse-code-vibration)** - Morse code via tactile pulses
+- **[MATRA (Matrix Tactile)](./tactile-modalities/README.md#matra-matrix-tactile)** - Vibrating pin matrix displays
 - **[BlindSquare](./tactile-modalities/README.md#blindsquare)** - GPS/POI navigation app
 - **[Lazarillo](./tactile-modalities/README.md#lazarillo)** - GPS navigation
 - **[Nearby Explorer](./tactile-modalities/README.md#nearby-explorer)** - Transit navigation
