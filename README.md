@@ -4,13 +4,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0-1.0 License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](./LICENSE)
-[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-319-blue)](./README.md#braille-systems)
+[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-323-blue)](./README.md#braille-systems)
 
 A centralized, easily accessible reference documenting the most extensive collection of accessibility systems for blind and visually impaired communities worldwide. This library serves as a comprehensive catalog of Braille systems, alternative tactile scripts, audio technologies, and multimodal accessibility solutions.
 
-**Total Braille & Tactile Language Systems: 319 unique methodologies** (194 Braille systems + 125 alternative tactile scripts)
+**Total Braille & Tactile Language Systems: 323 unique methodologies** (196 Braille systems + 127 alternative tactile scripts)
 
-> **Note:** This count reflects **319 unique methodologies** based on a comprehensive audit. The breakdown includes: **194 Braille systems** (26 Africa/Middle East, 20 Americas, 59 Asian/Pacific, 49 European, 40 specialized) and **125 alternative tactile scripts** (22 pre-Braille embossed, 5 dot-based alternatives, 18 modern alternative scripts, 14 finger-spelling/manual alphabets, 20 ancient/historical systems, 46 other tactile communication). The **61 Experimental and Technological Systems** (navigation apps, embossers, displays, OCR apps, etc.) are correctly excluded as these are devices/technologies rather than communication methodologies. The count excludes indented sub-items marked "Part of" a parent system (e.g., Afrikaans as part of South African Braille). The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally. See also: [Wikipedia - Tactile Alphabet](https://en.wikipedia.org/wiki/Tactile_alphabet).
+> **Note:** This count reflects **323 unique methodologies** based on a comprehensive audit. The breakdown includes: **196 Braille systems** (26 Africa/Middle East, 20 Americas, 59 Asian/Pacific, 49 European, 42 specialized) and **127 alternative tactile scripts** (22 pre-Braille embossed, 5 dot-based alternatives, 18 modern alternative scripts, 15 finger-spelling/manual alphabets, 20 ancient/historical systems, 47 other tactile communication). The **61 Experimental and Technological Systems** (navigation apps, embossers, displays, OCR apps, etc.) are correctly excluded as these are devices/technologies rather than communication methodologies. The count excludes indented sub-items marked "Part of" a parent system (e.g., Afrikaans as part of South African Braille). The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally. See also: [Wikipedia - Tactile Alphabet](https://en.wikipedia.org/wiki/Tactile_alphabet).
 
 ## Contents
 
@@ -278,6 +278,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Grade 2 Braille (Contracted)](./braille-systems/specialized/README.md#grade-2-braille-contracted)** - 180 different letter contractions (including 75 shortform words); reduces paper volume; most common for publications
 - **[Grade 3 Braille / Personal Shorthand](./braille-systems/specialized/README.md#grade-3-braille--personal-shorthand)** - Advanced, highly abbreviated extension beyond Grade 2; largely personal shorthand; now obsolete
 - **[IPA Braille (International Phonetic Alphabet)](./braille-systems/specialized/README.md#ipa-braille-international-phonetic-alphabet)** - Braille representation of the International Phonetic Alphabet
+- **[Hebrew Cantillation Braille (Te'amim)](./braille-systems/specialized/README.md#hebrew-cantillation-braille-teamim)** - Extended Hebrew Braille with cantillation marks (trope) for Torah chanting
 - **[Jumbo Braille (Enlarged Braille cells)](./braille-systems/specialized/README.md#jumbo-braille-enlarged-braille-cells)** - Enlarged Braille cells for users with reduced tactile sensitivity (e.g., neuropathy, diabetes-related conditions); critical accessibility modality
 - **[Kanji Braille (8-dot)](./braille-systems/specialized/README.md#kanji-braille-8-dot)** - 8-dot Braille system for representing Kanji characters
 - **[Legal Braille](./braille-systems/specialized/README.md#legal-braille)** - Specialized legal formatting
@@ -285,6 +286,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Physics Braille](./braille-systems/specialized/README.md#physics-braille)** - Specialized notation
 - **[Sports Braille](./braille-systems/specialized/README.md#sports-braille)** - Goalball, beep baseball rules
 - **[Statistical notation](./braille-systems/specialized/README.md#statistical-notation)** - Beyond basic math
+- **[Tajweed Braille Notation](./braille-systems/specialized/README.md#tajweed-braille-notation)** - Quranic recitation marks in Braille following rasm Uthmani principles
 - **[Video game accessibility](./braille-systems/specialized/README.md#video-game-accessibility)** - Audio cues, haptics
 
 ## Alternative Tactile Scripts
@@ -358,6 +360,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Tadoma](./alternative-tactile-scripts/README.md#tadoma)** - Named for Tad Chapman and Oma Simpson; tactile lip-reading with hand on jaw/lips feeling vocal chord vibrations (USA, early 20th century)
 - **[TaSSeLS (Tactile Signing for Sensory Learners)](./alternative-tactile-scripts/README.md#tassels-tactile-signing-for-sensory-learners)** - Touch cues and adapted signs for understanding, anticipation, and alerts; for children with complex needs (International)
 - **[Two-Hand Manual Alphabet (Tactile)](./alternative-tactile-scripts/README.md#two-hand-manual-alphabet-tactile)** - British two-handed fingerspelling perceived tactilely (UK)
+- **[Polish Tactile Alphabet](./alternative-tactile-scripts/README.md#polish-tactile-alphabet)** - Signs, lines, and circles drawn on the hand; developed by Society for the Deafblind (TPG) (Poland, 1980s–present)
 - **[Visual Frame Sign Language (VFSL)](./alternative-tactile-scripts/README.md#visual-frame-sign-language-vfsl)** - Signing within defined visual frame for deafblind with residual vision (International)
 
 ### Ancient and Historical Tactile Systems
@@ -416,6 +419,7 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Tactile Graphics Systems](./alternative-tactile-scripts/README.md#tactile-graphics-systems)** - Use raised lines, textures, or 3-D prints to convey maps, charts, anatomical diagrams (e.g., Graphic Braille, Embossed Diagrams, 3-D Printed Models)
 - **[Tactile Imagery](./alternative-tactile-scripts/README.md#tactile-imagery)** - Drawing concepts on body surfaces
 - **[Tactile ISL](./alternative-tactile-scripts/README.md#tactile-isl)** - Indian Sign adaptation (India)
+- **[Tactile Israeli Sign Language](./alternative-tactile-scripts/README.md#tactile-israeli-sign-language)** - Israeli Sign adaptation; featured at Na Laga'at cultural center (Israel)
 - **[Tactile JSL](./alternative-tactile-scripts/README.md#tactile-jsl)** - Japanese Sign adaptation (Japan)
 - **[Tactile KSL (한국 수화)](./alternative-tactile-scripts/README.md#tactile-ksl)** - Korean tactile signing (South Korea)
 - **[Tactile LIS (Lingua dei Segni Italiana)](./alternative-tactile-scripts/README.md#tactile-lis)** - Italian tactile signing (Italy)

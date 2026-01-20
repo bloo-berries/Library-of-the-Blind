@@ -373,3 +373,31 @@ The following languages are part of the Bharati Braille system, a unified Braill
   - Enables blind linguists to read and write phonetic transcriptions
   - Supports academic and professional linguistic work
 
+## Religious and Sacred Text Notation
+
+### [Tajweed Braille Notation](https://ieeexplore.ieee.org/document/9288429/)
+- **Origin / Users:** Muslim communities worldwide
+- **Description:** Specialized Braille notation system for representing Tajweed (تجويد) marks in Quranic text. Tajweed refers to the set of rules governing pronunciation during Quran recitation. Modern Tajweed Braille follows the principle of rasm Uthmani (Uthmanic script), adding Braille codes for diacritical marks and waqf (stopping) signs. The system enables blind Muslims to not only read the Quran but also learn proper recitation rules. Organizations like the Hadi Al Khalil Foundation and Islam By Touch have produced Braille Qurans incorporating these marks. The Saudi Arabian Institute for the Blind produces a 30-volume Braille Quran in Arabic, and digital pen readers now allow simultaneous reading and listening
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Represents Tajweed recitation marks in Braille
+  - Follows rasm Uthmani (Uthmanic script) principles
+  - Includes diacritical marks and waqf (stopping) signs
+  - Enables learning of proper Quranic pronunciation
+  - Available in Arabic Braille since the 1980s
+  - Supported by Islamic organizations worldwide
+  - Compatible with digital pen readers for audio-tactile learning
+
+### [Hebrew Cantillation Braille (Te'amim)](https://forward.com/culture/421768/how-to-capture-the-nuances-of-torah-in-braille/)
+- **Origin / Users:** Jewish communities worldwide
+- **Description:** Extended Hebrew Braille notation that includes te'amim (טעמים), the cantillation marks used for chanting Torah and other biblical texts. These marks, standardized by Rabbi Aaron ben Asher (900-960 CE), indicate both musical melody and grammatical structure. Software has been developed to convert pointed, cantillated Hebrew from sources like Sefaria into BRF (Braille Ready Format) files compatible with Braille displays and embossers. This enables blind Jews to read haftorah portions with trope marks for synagogue services, particularly important for those who keep Shabbat and cannot use electronic readers. JBI International (formerly Jewish Braille Institute, founded 1931) provides Hebrew Braille materials including cantillated texts to 35,000 people worldwide
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Extends Hebrew Braille with cantillation marks (te'amim/trope)
+  - Indicates stressed syllables and phrase structure
+  - Provides musical notation for Torah chanting
+  - Software-generated from Sefaria and other digital sources
+  - Outputs to BRF format for Braille displays and embossers
+  - Essential for blind ba'alei kriah (Torah readers)
+  - Distributed by JBI International and other organizations
+
