@@ -441,6 +441,20 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Perceived through touch
   - British variant
 
+### [Polish Tactile Alphabet](https://gluchoniewidomi.pl/en/methods-of-communicating-with-deafblind-people/polish-tactile-alphabet/)
+- **Inventor/Developer:** Grzegorz Kozłowski and the Society for the Deafblind (TPG)
+- **Origin:** Poland
+- **Date:** 1980s–present
+- **Description:** The Polish tactile alphabet (Polski alfabet dotykowy) is a communication system for deafblind individuals based on a system of signs, lines, and circles drawn on the hand. Grzegorz Kozłowski began working on the system in the 1980s. During rehabilitation camps for deafblind people, and through the efforts of the Society for the Deafblind (Towarzystwo Pomocy Głuchoniewidomym, TPG), the arrangement of letters and signs was refined and tested. The system is also based on historical solutions, including the alphabet of Sister Emanuela Jezierska, a Franciscan nun from Laski near Warsaw
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Based on signs, lines, and circles drawn on the hand
+  - Not dot-based like Braille
+  - Developed through collaboration with deafblind community
+  - Refined during rehabilitation camps
+  - Based partly on historical Polish tactile systems
+  - Distinct from the Lorm alphabet used in German-speaking countries
+
 ### [Haptic Communication](https://www.helenkeller.org/resources/haptic-communication-facilitate-braille-instruction-deafblind-adults/)
 - **Origin / Users:** Scandinavia (2000s–present)
 - **Description:** Systematic touch signals on back/arm conveying environmental and emotional information
@@ -520,6 +534,18 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
 - **Community/Context:** Worldwide Deaf-Blind communities
 - **Description:** Direct tactile perception of hand shapes or facial movements
 - **Status:** <span style="color: green;">Active</span>
+
+### [Tactile Israeli Sign Language](https://en.wikipedia.org/wiki/Nalaga'at)
+- **Origin / Users:** Israel
+- **Description:** Tactile adaptation of Israeli Sign Language (שפת הסימנים הישראלית, ISL) for DeafBlind individuals. Most notably documented through the Na Laga'at ("Please Touch") Center, a cultural center in Tel Aviv-Jaffa founded in 2002 whose ensemble consists entirely of DeafBlind actors who communicate through tactile signing. Tactile ISL (Israeli) uses hand-over-hand perception of Israeli Sign Language, which itself has historical connections to German Sign Language. Tactile signing interpreters accompany DeafBlind performers and community members during daily activities and performances
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Hand-over-hand adaptation of Israeli Sign Language
+  - Practiced by DeafBlind community in Israel
+  - Featured prominently at Na Laga'at cultural center
+  - Distinct from Tactile ISL (Indian Sign Language)
+  - Supported by deafblind interpreters and cultural programs
+  - Uses "glove language" techniques
 
 ### Tactile Graphics Systems
 - **Examples:** Graphic Braille, Embossed Diagrams, 3-D Printed Models
