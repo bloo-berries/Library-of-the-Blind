@@ -218,8 +218,7 @@ T020,Varney System,Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historic
 T021,Wait's "Point Print",Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Precursor system to NY Point
 T022,William Chapin's Combined System,Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Combined Boston Line lowercase with Philadelphia Line capitals (1868)
 T023,Ballu's Decapoint / Ballu Writing,Alternative Tactile Scripts,Dot-Based Alternative,Spain,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,10-dot writing system used in Spain
-T024,Father Lana's Code,Alternative Tactile Scripts,Dot-Based Alternative,Italy,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Nine dots arranged in 3×3 matrix (1617)
-T025,Night Writing (Sonography),Alternative Tactile Scripts,Dot-Based Alternative,France,Historical,https://en.wikipedia.org/wiki/Night_writing,Charles Barbier's tactile 'Ecriture Nocturne' code
+T024,Night Writing (Sonography),Alternative Tactile Scripts,Dot-Based Alternative,France,Historical,https://en.wikipedia.org/wiki/Night_writing,Charles Barbier's tactile 'Ecriture Nocturne' code
 T026,Raphigraphy / Decapoint (Louis Braille's),Alternative Tactile Scripts,Dot-Based Alternative,France,Historical,https://en.wikipedia.org/wiki/Raphigraphy,Louis Braille's tactile Latin script (1839)
 T027,Standard Braille (Louis Braille's Original),Alternative Tactile Scripts,Dot-Based Alternative,France,Active,https://en.wikipedia.org/wiki/Braille,Louis Braille's 6-dot cell system (1824-present)
 T028,BRF (Braille Ready Format),Alternative Tactile Scripts,Modern Alternative,International,Active,https://en.wikipedia.org/wiki/Braille_Ready_File,Digital Braille file standard
@@ -263,7 +262,8 @@ T065,Dr. Thomas Rhodes Armitage's Systems,Alternative Tactile Scripts,Ancient/Hi
 T066,Father Lana's Code (Historical),Alternative Tactile Scripts,Ancient/Historical,Italy,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Nine dots in 3×3 matrix (1617)
 T067,Fleischer's System,Alternative Tactile Scripts,Ancient/Historical,Germany,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,German embossed variant (19th c.)
 T068,Harsdörffer's Wax Writing,Alternative Tactile Scripts,Ancient/Historical,Germany,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Writing in wax tablets (1651)
-T069,Knie's System,Alternative Tactile Scripts,Ancient/Historical,Germany,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Alternative embossed letters (19th c.)
+T069,Japanese Anma/Amma Tradition,Alternative Tactile Scripts,Ancient/Historical,Japan,Active,https://en.wikipedia.org/wiki/Anma,Traditional Japanese massage practice legally exclusive to blind practitioners during Tokugawa period
+T070,Knie's System,Alternative Tactile Scripts,Ancient/Historical,Germany,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Alternative embossed letters (19th c.)
 T070,Maria Theresia von Paradis's Method,Alternative Tactile Scripts,Ancient/Historical,Austria,Historical,https://en.wikipedia.org/wiki/Maria_Theresia_von_Paradis,Blind musician's communication system (1780s)
 T071,Nsibidi adaptations,Alternative Tactile Scripts,Ancient/Historical,West Africa,Historical,https://en.wikipedia.org/wiki/Nsibidi,Igbo/Ekpe symbolic system
 T072,Ogham (tactile use),Alternative Tactile Scripts,Ancient/Historical,Ireland,Historical,https://en.wikipedia.org/wiki/Ogham,Edge-carved alphabet

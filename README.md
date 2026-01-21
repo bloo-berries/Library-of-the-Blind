@@ -319,7 +319,6 @@ A centralized, easily accessible reference documenting the most extensive collec
 ### Dot-Based Alternative Systems
 
 - **[Ballu's Decapoint / Ballu Writing](./alternative-tactile-scripts/README.md#ballus-decapoint--ballu-writing)** - 10-dot writing system used in Spain; written on special dot-board (Spain, 19th century)
-- **[Father Lana's Code](./alternative-tactile-scripts/README.md#father-lanas-code)** - Nine dots arranged in 3×3 matrix (1617); proto-dot matrix system that may have influenced later tactile writing
 - **[Night Writing (Sonography)](./alternative-tactile-scripts/README.md#night-writing-sonography)** - Charles Barbier's tactile "Ecriture Nocturne" code for military messages; 12-dot cells encoding phonetic sounds; direct predecessor to Braille (France, 1815–1820s)
 - **[Raphigraphy / Decapoint (Louis Braille's System)](./alternative-tactile-scripts/README.md#raphigraphy--decapoint-louis-brailles-system)** - Louis Braille's tactile Latin script readable by both blind and sighted; first digital font (1839); required Raphigraph apparatus
 - **[Standard Braille (Louis Braille's Original System)](./alternative-tactile-scripts/README.md#standard-braille-louis-brailles-original-system)** - Louis Braille's 6-dot cell system; first French alphabet published in 1829; now the international standard (France, 1824-present)
@@ -368,11 +367,13 @@ A centralized, easily accessible reference documenting the most extensive collec
 - **[Aboriginal Message Sticks](./alternative-tactile-scripts/README.md#aboriginal-message-sticks)** - Carved tactile symbols for communication (Australia)
 - **[Adinkra tactile](./alternative-tactile-scripts/README.md#adinkra-tactile)** - Symbol system adaptations (Ghana)
 - **[Babington's Arthrologie](./alternative-tactile-scripts/README.md#babingtons-arthrologie)** - Early finger-joint alphabet system; 17th-century English system predating modern DeafBlind communication
+- **[Didymus the Blind's Carved Wooden Letters](./alternative-tactile-scripts/README.md#didymus-the-blinds-carved-wooden-letters)** - Earliest documented individual tactile reading system; letters engraved into wood read by touch (Alexandria, Egypt, 4th century CE)
 - **[Diderot's System](./alternative-tactile-scripts/README.md#diderots-system)** - Philosopher's proposed tactile alphabet (France, 1749)
 - **[Dr. Thomas Rhodes Armitage's Systems](./alternative-tactile-scripts/README.md#dr-thomas-rhodes-armitages-systems)** - Multiple tactile experiments (UK, 1860s)
 - **[Father Lana's Code](./alternative-tactile-scripts/README.md#father-lanas-code)** - Nine dots in 3×3 matrix (1617); proto-dot matrix system that may have influenced Charles Barbier
 - **[Fleischer's System](./alternative-tactile-scripts/README.md#fleischers-system)** - German embossed variant (Germany, 19th c.)
 - **[Harsdörffer's Wax Writing](./alternative-tactile-scripts/README.md#harsdorffers-wax-writing)** - Writing in wax tablets (Germany, 1651)
+- **[Japanese Anma/Amma Tradition](./alternative-tactile-scripts/README.md#japanese-anmaamma-tradition)** - Traditional Japanese massage practice legally exclusive to blind practitioners during Tokugawa period; tactile expertise as professional identity (Japan, 1600s–present)
 - **[Knie's System](./alternative-tactile-scripts/README.md#knies-system)** - Alternative embossed letters (Germany, 19th c.)
 - **[Maria Theresia von Paradis's Method](./alternative-tactile-scripts/README.md#maria-theresia-von-paradis-method)** - Blind musician's communication system (Austria, 1780s)
 - **[Nsibidi adaptations](./alternative-tactile-scripts/README.md#nsibidi-adaptations)** - Igbo/Ekpe symbolic system (West Africa)
