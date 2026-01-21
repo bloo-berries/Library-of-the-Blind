@@ -1,0 +1,324 @@
+ID,Name,Category,Subcategory,Region,Status,Primary_Source,Description
+B001,Algerian Braille,Braille Systems,Africa and Middle East,Algeria,Obsolete,https://en.wikipedia.org/wiki/Algerian_Braille,Reordered system (obsolete)
+B002,Amharic Braille (Ethiopian / Ge'ez Script),Braille Systems,Africa and Middle East,Ethiopia,Active,https://en.wikipedia.org/wiki/Ge%CA%BDez_Braille,Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary
+B003,Arabic Braille,Braille Systems,Africa and Middle East,Middle East/North Africa,Active,https://en.wikipedia.org/wiki/Arabic_Braille,Uses French sorting order; adapted for right-to-left reading
+B004,Bambara Braille,Braille Systems,Africa and Middle East,Mali,Active,https://www.perkins.org/resource/world-braille-usage/,Mali
+B005,Chichewa/Nyanja Braille,Braille Systems,Africa and Middle East,Malawi/Zambia/Mozambique,Active,https://www.perkins.org/resource/world-braille-usage/,Malawi Zambia Mozambique
+B006,Fulfulde/Pulaar Braille,Braille Systems,Africa and Middle East,West Africa,Active,https://www.perkins.org/resource/world-braille-usage/,West Africa (cross-border)
+B007,Ghanaian Braille,Braille Systems,Africa and Middle East,Ghana,Active,https://en.wikipedia.org/wiki/Ghanaian_braille,Based on French-ordered Braille
+B008,Hausa Braille,Braille Systems,Africa and Middle East,Nigeria,Active,https://en.wikipedia.org/wiki/Nigerian_braille#Hausa_Braille,Adapted for Hausa alphabet
+B009,Hebrew Braille,Braille Systems,Africa and Middle East,Israel,Active,https://en.wikipedia.org/wiki/Hebrew_Braille,Adapted for Hebrew alphabet with distinct vowel markings (niqqud)
+B010,Kikuyu Braille,Braille Systems,Africa and Middle East,Kenya,Active,https://www.perkins.org/resource/world-braille-usage/,Kenya
+B011,Kinyarwanda Braille,Braille Systems,Africa and Middle East,Rwanda,Active,https://www.perkins.org/resource/world-braille-usage/,Rwanda; based on Latin alphabet
+B012,Kirundi Braille,Braille Systems,Africa and Middle East,Burundi,Active,https://www.perkins.org/resource/world-braille-usage/,Burundi; closely related to Kinyarwanda
+B013,Lingala Braille,Braille Systems,Africa and Middle East,DR Congo,Active,https://www.perkins.org/resource/world-braille-usage/,DR Congo; major lingua franca
+B014,Luganda Braille,Braille Systems,Africa and Middle East,Uganda,Active,https://www.perkins.org/resource/world-braille-usage/,Uganda
+B015,Malagasy Braille,Braille Systems,Africa and Middle East,Madagascar,Active,https://www.perkins.org/resource/world-braille-usage/,Madagascar
+B016,Mauritian Creole Braille,Braille Systems,Africa and Middle East,Mauritius,Active,https://www.perkins.org/resource/world-braille-usage/,Mauritius
+B017,N'Ko Braille,Braille Systems,Africa and Middle East,West Africa,Active,https://www.perkins.org/resource/world-braille-usage/,West African script for Mande languages; unique indigenous script
+B018,Nigerian Braille,Braille Systems,Africa and Middle East,Nigeria,Active,https://en.wikipedia.org/wiki/Nigerian_braille,Based on French-ordered Braille; includes Hausa Igbo and Yoruba
+B019,Oromo Braille,Braille Systems,Africa and Middle East,Ethiopia,Active,https://www.perkins.org/resource/world-braille-usage/,Ethiopia; Latin-based adaptation
+B020,Shona Braille,Braille Systems,Africa and Middle East,Zimbabwe,Active,https://www.perkins.org/resource/world-braille-usage/,Zimbabwe; Latin-based
+B021,Somali Braille,Braille Systems,Africa and Middle East,Somalia,Active,https://www.perkins.org/resource/world-braille-usage/,Uses Latin alphabet; East Africa
+B022,South African Braille,Braille Systems,Africa and Middle East,South Africa,Active,https://en.wikipedia.org/wiki/South_African_braille,Based on English Braille; includes Afrikaans Sesotho Tswana Venda Xhosa and Zulu
+B023,Swahili Braille,Braille Systems,Africa and Middle East,East Africa,Active,https://en.wikipedia.org/wiki/Swahili_Braille,Based on Latin alphabet (East Africa)
+B024,Tigrinya Braille,Braille Systems,Africa and Middle East,Eritrea/Ethiopia,Active,https://www.perkins.org/resource/world-braille-usage/,Eritrea/Ethiopia; Ge'ez script family
+B025,Tsonga Braille,Braille Systems,Africa and Middle East,South Africa/Mozambique,Active,https://www.perkins.org/resource/world-braille-usage/,South Africa/Mozambique
+B026,Wolof Braille,Braille Systems,Africa and Middle East,Senegal,Active,https://www.perkins.org/resource/world-braille-usage/,Senegal
+B027,Zambian Braille,Braille Systems,Africa and Middle East,Zambia,Active,https://en.wikipedia.org/wiki/Zambian_Braille,Based on French-ordered Braille
+B028,American Braille (AB) / Modified American Braille,Braille Systems,Americas,USA,Legacy,https://en.wikipedia.org/wiki/American_Braille,Joel W. Smith's frequency-based dot assignment system; introduced at Perkins Institution in 1878
+B029,Aymara Braille,Braille Systems,Americas,Bolivia/Peru,Active,https://www.perkins.org/resource/world-braille-usage/,Bolivia Peru
+B030,Cherokee Braille,Braille Systems,Americas,USA,Active,https://www.perkins.org/resource/world-braille-usage/,Syllabary adaptation
+B031,Cree Syllabics Braille,Braille Systems,Americas,Canada,Active,https://www.perkins.org/resource/world-braille-usage/,Canada; syllabic script
+B032,Guarani Braille,Braille Systems,Americas,Paraguay,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B033,Haitian Creole Braille,Braille Systems,Americas,Haiti,Active,https://www.perkins.org/resource/world-braille-usage/,Listed under French but deserves own entry
+B034,Hawaiian Braille,Braille Systems,Americas,USA (Hawaii),Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B035,Inuktitut Braille,Braille Systems,Americas,Canada,Active,https://www.perkins.org/resource/world-braille-usage/,Adapted for Inuktitut syllabics; reassigned vowels
+B036,Iñupiaq Braille,Braille Systems,Americas,USA (Alaska),Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B037,Lakota/Dakota Braille,Braille Systems,Americas,USA,Active,https://www.perkins.org/resource/world-braille-usage/,USA
+B038,Mapudungun Braille,Braille Systems,Americas,Chile/Argentina,Active,https://www.perkins.org/resource/world-braille-usage/,Chile Argentina
+B039,Maya language Braille systems,Braille Systems,Americas,Guatemala/Mexico,Active,https://www.perkins.org/resource/world-braille-usage/,Guatemala Mexico
+B040,Nahuatl Braille,Braille Systems,Americas,Mexico,Active,https://www.perkins.org/resource/world-braille-usage/,Mexico
+B041,Navajo Braille,Braille Systems,Americas,USA,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B042,Ojibwe Braille,Braille Systems,Americas,USA/Canada,Active,https://www.perkins.org/resource/world-braille-usage/,Multiple orthographies
+B043,Papiamento Braille,Braille Systems,Americas,Caribbean,Active,https://www.perkins.org/resource/world-braille-usage/,Caribbean
+B044,Portuguese Braille (Brazilian),Braille Systems,Americas,Brazil,Active,https://www.perkins.org/resource/world-braille-usage/,PT-BR variant with slight differences from PT-PT
+B045,Quechua Braille,Braille Systems,Americas,Peru/Bolivia/Ecuador,Active,https://www.perkins.org/resource/world-braille-usage/,Peru Bolivia Ecuador
+B046,Spanish Braille (Latin American variants),Braille Systems,Americas,Latin America,Active,https://www.perkins.org/resource/world-braille-usage/,Regional variations across Latin America
+B047,Unified English Braille (UEB) - Americas,Braille Systems,Americas,USA/Canada,Active,https://www.iceb.org/ueb.html,Current standard for English (US Canada)
+B048,Armenian Braille,Braille Systems,Asian and Pacific,Armenia,Active,https://en.wikipedia.org/wiki/Armenian_Braille,Distinct cell assignments for Armenian script
+B049,Azerbaijani Braille,Braille Systems,Asian and Pacific,Azerbaijan,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B050,Balinese Braille,Braille Systems,Asian and Pacific,Indonesia,Active,https://www.perkins.org/resource/world-braille-usage/,Indonesia
+B051,Bislama Braille,Braille Systems,Asian and Pacific,Vanuatu,Active,https://www.perkins.org/resource/world-braille-usage/,Vanuatu
+B052,Bodo Braille,Braille Systems,Asian and Pacific,India,Active,https://www.perkins.org/resource/world-braille-usage/,Northeast India
+B053,Buginese/Lontara Braille,Braille Systems,Asian and Pacific,Indonesia,Active,https://www.perkins.org/resource/world-braille-usage/,Indonesia; indigenous script
+B054,Burmese Braille,Braille Systems,Asian and Pacific,Myanmar,Active,https://en.wikipedia.org/wiki/Burmese_Braille,For Burmese script (Myanmar)
+B055,Cantonese Braille,Braille Systems,Asian and Pacific,Hong Kong/Macau,Active,https://en.wikipedia.org/wiki/Cantonese_Braille,Purely phonetic; each syllable divided into initial consonant rime and tone
+B056,Cebuano Braille,Braille Systems,Asian and Pacific,Philippines,Active,https://www.perkins.org/resource/world-braille-usage/,Philippines
+B057,Chechen Braille,Braille Systems,Asian and Pacific,Russia (Chechnya),Active,https://www.perkins.org/resource/world-braille-usage/,Cyrillic-based
+B058,Dari Braille,Braille Systems,Asian and Pacific,Afghanistan,Active,https://www.perkins.org/resource/world-braille-usage/,Afghanistan; Persian variant
+B059,Dogri Braille,Braille Systems,Asian and Pacific,India,Active,https://www.perkins.org/resource/world-braille-usage/,India
+B060,Dzongkha Braille (Bhutanese),Braille Systems,Asian and Pacific,Bhutan,Active,https://www.perkins.org/resource/world-braille-usage/,Adapted for Dzongkha script
+B061,Fijian Braille,Braille Systems,Asian and Pacific,Fiji,Active,https://www.perkins.org/resource/world-braille-usage/,Fiji
+B062,Filipino/Tagalog Braille,Braille Systems,Asian and Pacific,Philippines,Active,https://www.perkins.org/resource/world-braille-usage/,Philippines; Latin-based
+B063,Georgian Braille,Braille Systems,Asian and Pacific,Georgia,Active,https://en.wikipedia.org/wiki/Georgian_Braille,Unique mapping for Georgian script
+B064,Hmong Braille (RPA),Braille Systems,Asian and Pacific,Southeast Asia/USA,Active,https://www.perkins.org/resource/world-braille-usage/,Basic DBT template for Hmong (RPA) language; uses Romanized Popular Alphabet
+B065,Indian Braille (Bharati Braille),Braille Systems,Asian and Pacific,India/South Asia,Active,https://en.wikipedia.org/wiki/Bharati_Braille,Unified code (1951); covers Hindi Bengali Tamil Telugu Malayalam Gujarati Punjabi and others
+B066,Japanese Tenji (Braille),Braille Systems,Asian and Pacific,Japan,Active,https://en.wikipedia.org/wiki/Japanese_Braille,Kuraji Ishikawa's system (1890); transcribes Japanese as written in hiragana/katakana
+B067,Javanese Braille,Braille Systems,Asian and Pacific,Indonesia,Active,https://www.perkins.org/resource/world-braille-usage/,Indonesia; could include Javanese script adaptation
+B068,Kashmiri Braille,Braille Systems,Asian and Pacific,India/Pakistan,Active,https://www.perkins.org/resource/world-braille-usage/,India/Pakistan
+B069,Kazakh Braille,Braille Systems,Asian and Pacific,Kazakhstan,Active,https://en.wikipedia.org/wiki/Kazakh_Braille,Russian lineage family (Cyrillic-mediated)
+B070,Khmer Braille,Braille Systems,Asian and Pacific,Cambodia,Active,https://en.wikipedia.org/wiki/Khmer_Braille,For Cambodian script
+B071,Konkani Braille,Braille Systems,Asian and Pacific,India (Goa),Active,https://www.perkins.org/resource/world-braille-usage/,India (Goa)
+B072,Korean Hangul Braille,Braille Systems,Asian and Pacific,South Korea,Active,https://en.wikipedia.org/wiki/Korean_Braille,Rosetta Sherwood Hall (1894) Park Du-seong (1926); reflects Hangul patterns
+B073,Kurdish Braille,Braille Systems,Asian and Pacific,Kurdistan region,Active,https://www.perkins.org/resource/world-braille-usage/,Multiple scripts (Arabic Latin Cyrillic)
+B074,Kyrgyz Braille,Braille Systems,Asian and Pacific,Kyrgyzstan,Active,https://www.perkins.org/resource/world-braille-usage/,Russian lineage family (Cyrillic-mediated)
+B075,Lao Braille,Braille Systems,Asian and Pacific,Laos,Active,https://en.wikipedia.org/wiki/Thai_and_Lao_Braille,Uses Japanese vowels; adapted for Lao script
+B076,Mainland Chinese Braille,Braille Systems,Asian and Pacific,China,Active,https://en.wikipedia.org/wiki/Mainland_Chinese_Braille,Each syllable written with up to three Braille cells (initial final tone)
+B077,Mainland Chinese Mandarin Braille,Braille Systems,Asian and Pacific,China,Active,https://en.wikipedia.org/wiki/Mainland_Chinese_Braille,Chinese semi-syllabary; largely reassigned from French-ordered
+B078,Maithili Braille,Braille Systems,Asian and Pacific,India/Nepal,Active,https://www.perkins.org/resource/world-braille-usage/,India/Nepal
+B079,Malay/Indonesian Braille,Braille Systems,Asian and Pacific,Malaysia/Indonesia,Active,https://en.wikipedia.org/wiki/Indonesian_Braille,Based on Latin alphabet (Southeast Asia)
+B080,Manipuri/Meitei Braille,Braille Systems,Asian and Pacific,India,Active,https://www.perkins.org/resource/world-braille-usage/,Manipur India
+B081,Mongolian Braille,Braille Systems,Asian and Pacific,Mongolia,Active,https://en.wikipedia.org/wiki/Mongolian_Braille,Based on Russian Braille; covers Mongolian (Cyrillic script)
+B082,Māori Braille,Braille Systems,Asian and Pacific,New Zealand,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B083,Ossetian Braille,Braille Systems,Asian and Pacific,Russia (Caucasus),Active,https://www.perkins.org/resource/world-braille-usage/,Cyrillic-based; Caucasus
+B084,Pakistani Urdu Braille,Braille Systems,Asian and Pacific,Pakistan,Active,https://en.wikipedia.org/wiki/Pakistani_Urdu_Braille,Entirely different alphabet than Indian Urdu Braille
+B085,Pashto Braille,Braille Systems,Asian and Pacific,Afghanistan/Pakistan,Active,https://www.perkins.org/resource/world-braille-usage/,Afghanistan/Pakistan; Arabic script family
+B086,Samoan Braille,Braille Systems,Asian and Pacific,Samoa,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B087,Santali Braille,Braille Systems,Asian and Pacific,India/Bangladesh,Active,https://www.perkins.org/resource/world-braille-usage/,India/Bangladesh; Ol Chiki script
+B088,Sindhi Braille,Braille Systems,Asian and Pacific,Pakistan/India,Active,https://www.perkins.org/resource/world-braille-usage/,Pakistan/India; Arabic and Devanagari variants
+B089,Sinhala Braille,Braille Systems,Asian and Pacific,Sri Lanka,Active,https://en.wikipedia.org/wiki/Sinhala_Braille,Indian lineage family (Bharati Braille)
+B090,Sundanese Braille,Braille Systems,Asian and Pacific,Indonesia,Active,https://www.perkins.org/resource/world-braille-usage/,Indonesia
+B091,Taiwanese Braille,Braille Systems,Asian and Pacific,Taiwan,Active,https://en.wikipedia.org/wiki/Taiwanese_Braille,Based on Zhuyin (Bopomofo) phonetic system
+B092,Taiwanese Mandarin Braille,Braille Systems,Asian and Pacific,Taiwan,Active,https://en.wikipedia.org/wiki/Taiwanese_Braille,Chinese semi-syllabary; largely reassigned from French-ordered
+B093,Tajik Braille,Braille Systems,Asian and Pacific,Tajikistan,Active,https://www.perkins.org/resource/world-braille-usage/,Persian-influenced; Cyrillic-based
+B094,Tetum Braille,Braille Systems,Asian and Pacific,Timor-Leste,Active,https://www.perkins.org/resource/world-braille-usage/,Timor-Leste
+B095,Thai Braille,Braille Systems,Asian and Pacific,Thailand,Active,https://en.wikipedia.org/wiki/Thai_and_Lao_Braille,Adapted for Thai abugida; adapted from English Braille with tone markers
+B096,Tibetan Braille,Braille Systems,Asian and Pacific,Tibet/India,Active,https://en.wikipedia.org/wiki/Tibetan_Braille,Represents Tibetan syllabic structure; developed mid-20th century
+B097,Tok Pisin Braille,Braille Systems,Asian and Pacific,Papua New Guinea,Active,https://www.perkins.org/resource/world-braille-usage/,Papua New Guinea
+B098,Tongan Braille,Braille Systems,Asian and Pacific,Tonga,Active,https://www.perkins.org/resource/world-braille-usage/,Tonga
+B099,Turkish Braille,Braille Systems,Asian and Pacific,Turkey,Active,https://en.wikipedia.org/wiki/Turkish_Braille,Adapted for Turkish alphabet
+B100,Turkmen Braille,Braille Systems,Asian and Pacific,Turkmenistan,Active,https://www.perkins.org/resource/world-braille-usage/,Latin-based (post-Soviet)
+B101,Two-Cell Chinese Braille (Shuangpin),Braille Systems,Asian and Pacific,China,Active,https://en.wikipedia.org/wiki/Two-cell_Chinese_Braille,Encodes all syllable information in exactly two cells; approved 1988
+B102,Uyghur Braille,Braille Systems,Asian and Pacific,China,Active,https://www.perkins.org/resource/world-braille-usage/,Arabic script adaptation; China
+B103,Uzbek Braille,Braille Systems,Asian and Pacific,Uzbekistan,Active,https://www.perkins.org/resource/world-braille-usage/,Latin/Cyrillic variants
+B104,Vietnamese Braille,Braille Systems,Asian and Pacific,Vietnam,Active,https://en.wikipedia.org/wiki/Vietnamese_Braille,Phonetically based on Quốc ngữ romanization; uses diacritic cells for tonal marks
+B105,Arabic Braille (Asian),Braille Systems,Asian and Pacific,Middle East/Central Asia,Active,https://en.wikipedia.org/wiki/Arabic_Braille,Uses French sorting order; adapted for right-to-left reading
+B106,Albanian Braille,Braille Systems,European,Albania,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B107,Aromanian Braille,Braille Systems,European,Balkans,Active,https://www.perkins.org/resource/world-braille-usage/,Balkans
+B108,Basque (Euskara) Braille,Braille Systems,European,Spain/France,Active,https://www.perkins.org/resource/world-braille-usage/,Spain/France; unique language isolate
+B109,Belarusian Braille,Braille Systems,European,Belarus,Active,https://en.wikipedia.org/wiki/Russian_Braille,Russian lineage family (Cyrillic-mediated); 33-cell alphabet
+B110,Breton Braille,Braille Systems,European,France,Active,https://www.perkins.org/resource/world-braille-usage/,France
+B111,Bulgarian Braille,Braille Systems,European,Bulgaria,Active,https://en.wikipedia.org/wiki/Bulgarian_Braille,Russian lineage family (Cyrillic-mediated)
+B112,Catalan Braille,Braille Systems,European,Spain,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B113,Cornish Braille,Braille Systems,European,UK,Active,https://www.perkins.org/resource/world-braille-usage/,Revived language; UK
+B114,Czech/Slovak Braille,Braille Systems,European,Czech Republic/Slovakia,Active,https://en.wikipedia.org/wiki/Czech_Braille,Similar to Polish but with own diacritic mapping
+B115,Danish Braille,Braille Systems,European,Denmark,Active,https://en.wikipedia.org/wiki/Danish_Braille,Nordic family Braille (Scandinavian)
+B116,Dutch Braille,Braille Systems,European,Netherlands/Belgium,Active,https://en.wikipedia.org/wiki/Dutch_Braille,Uses 'ij' digraph; covers Dutch and Flemish
+B117,Estonian Braille,Braille Systems,European,Estonia,Active,https://www.perkins.org/resource/world-braille-usage/,Nordic family Braille
+B118,Faroese Braille,Braille Systems,European,Faroe Islands,Active,https://www.perkins.org/resource/world-braille-usage/,Nordic family Braille
+B119,French Braille,Braille Systems,European,France,Active,https://en.wikipedia.org/wiki/French_Braille,Basis for many African Braille codes
+B120,Frisian Braille,Braille Systems,European,Netherlands/Germany,Active,https://www.perkins.org/resource/world-braille-usage/,Netherlands/Germany
+B121,Galician Braille,Braille Systems,European,Spain,Active,https://www.perkins.org/resource/world-braille-usage/,Spain
+B122,German Braille,Braille Systems,European,Germany/Austria/Switzerland,Active,https://en.wikipedia.org/wiki/German_Braille,Includes special signs for ß and umlauts
+B123,Greek Braille,Braille Systems,European,Greece,Active,https://en.wikipedia.org/wiki/Greek_Braille,Based on International Braille with Greek letters
+B124,Greenlandic Braille,Braille Systems,European,Greenland,Active,https://www.perkins.org/resource/world-braille-usage/,Nordic family Braille (Scandinavian)
+B125,Hungarian Braille,Braille Systems,European,Hungary,Active,https://en.wikipedia.org/wiki/Hungarian_Braille,Uses physical symmetry of patterns iconically
+B126,Icelandic Braille,Braille Systems,European,Iceland,Active,https://en.wikipedia.org/wiki/Icelandic_Braille,Nordic family Braille
+B127,Irish Braille,Braille Systems,European,Ireland,Active,https://en.wikipedia.org/wiki/Irish_Braille,Adapted for Gaelic orthography
+B128,Italian Braille,Braille Systems,European,Italy,Active,https://en.wikipedia.org/wiki/Italian_Braille,Includes accented vowels
+B129,Latvian Braille,Braille Systems,European,Latvia,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B130,Lithuanian Braille,Braille Systems,European,Lithuania,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B131,Luxembourgish Braille,Braille Systems,European,Luxembourg,Active,https://www.perkins.org/resource/world-braille-usage/,Extended to 8-dot system
+B132,Macedonian Braille,Braille Systems,European,North Macedonia,Active,https://www.perkins.org/resource/world-braille-usage/,Cyrillic-based
+B133,Maltese Braille,Braille Systems,European,Malta,Active,https://www.perkins.org/resource/world-braille-usage/,Based on French-ordered Braille
+B134,Manx Braille,Braille Systems,European,Isle of Man,Active,https://www.perkins.org/resource/world-braille-usage/,Revived language
+B135,Northern Sámi Braille,Braille Systems,European,Scandinavia,Active,https://www.perkins.org/resource/world-braille-usage/,Nordic family Braille (Scandinavian)
+B136,Norwegian Braille,Braille Systems,European,Norway,Active,https://en.wikipedia.org/wiki/Norwegian_Braille,Nordic family Braille (Scandinavian)
+B137,Occitan Braille,Braille Systems,European,Southern France,Active,https://www.perkins.org/resource/world-braille-usage/,Southern France
+B138,Polish Braille,Braille Systems,European,Poland,Active,https://en.wikipedia.org/wiki/Polish_Braille,Handles diacritics
+B139,Portuguese Braille,Braille Systems,European,Portugal,Active,https://en.wikipedia.org/wiki/Portuguese_Braille,Slight differences between PT-BR and PT-PT variants
+B140,Romanian Braille,Braille Systems,European,Romania,Active,https://en.wikipedia.org/wiki/Romanian_Braille,Includes special characters for Romanian diacritics
+B141,Romansh Braille,Braille Systems,European,Switzerland,Active,https://www.perkins.org/resource/world-braille-usage/,Switzerland
+B142,Russian Braille,Braille Systems,European,Russia,Active,https://en.wikipedia.org/wiki/Russian_Braille,Based on Cyrillic alphabet; 33-cell alphabet
+B143,Scottish Gaelic Braille,Braille Systems,European,UK (Scotland),Active,https://www.perkins.org/resource/world-braille-usage/,Distinct from Irish
+B144,Slovak Braille,Braille Systems,European,Slovakia,Active,https://www.perkins.org/resource/world-braille-usage/,Similar to Czech but with own diacritic mapping
+B145,Slovenian Braille,Braille Systems,European,Slovenia,Active,https://www.perkins.org/resource/world-braille-usage/,Distinct from Yugoslav system
+B146,Sorbian Braille,Braille Systems,European,Germany,Active,https://www.perkins.org/resource/world-braille-usage/,Germany (Upper/Lower Sorbian)
+B147,Spanish Braille,Braille Systems,European,Spain,Active,https://en.wikipedia.org/wiki/Spanish_Braille,Uses 'ñ' and accented vowels
+B148,Swedish/Finnish Braille,Braille Systems,European,Sweden/Finland,Active,https://en.wikipedia.org/wiki/Swedish_Braille,Separate codes for Å Ä Ö
+B149,Sámi variants (Lule South Inari Skolt),Braille Systems,European,Scandinavia,Active,https://www.perkins.org/resource/world-braille-usage/,Beyond Northern Sámi
+B150,Tatar Braille,Braille Systems,European,Russia,Active,https://www.perkins.org/resource/world-braille-usage/,Russian lineage family (Cyrillic-mediated)
+B151,Ukrainian Braille,Braille Systems,European,Ukraine,Active,https://en.wikipedia.org/wiki/Ukrainian_Braille,Russian lineage family (Cyrillic-mediated); 33-cell alphabet
+B152,Unified English Braille (UEB) - Europe,Braille Systems,European,UK/Ireland,Active,https://www.iceb.org/ueb.html,Single unified code for English covering literary and technical material
+B153,Welsh Braille,Braille Systems,European,UK (Wales),Active,https://en.wikipedia.org/wiki/Welsh_Braille,Includes special characters for Welsh
+B154,Yugoslav Braille,Braille Systems,European,Former Yugoslavia,Active,https://www.perkins.org/resource/world-braille-usage/,Former Yugoslav languages (Serbian Croatian Bosnian etc.)
+B155,Braille Music Notation,Braille Systems,Specialized - Music,International,Active,https://en.wikipedia.org/wiki/Braille_music,Louis Braille's original music notation (1829-present)
+B156,Carnatic Music Braille,Braille Systems,Specialized - Music,India,Active,https://www.perkins.org/resource/world-braille-usage/,Braille Code for Carnatic Music developed in India
+B157,New York Point Music,Braille Systems,Specialized - Music,USA,Legacy,https://en.wikipedia.org/wiki/New_York_Point,Notes made by combining two 'primitives' (digits 1-7); now obsolete
+B158,8-Dot Braille (Computer Braille),Braille Systems,Specialized - Math/Science,International,Active,https://en.wikipedia.org/wiki/Computer_Braille_Code,Extended cell with two additional dots for encoding 256 characters
+B159,Advanced Braille Code for Mathematics and Science (India),Braille Systems,Specialized - Math/Science,India,Active,https://www.perkins.org/resource/world-braille-usage/,Advanced Braille Code for Mathematics and Science developed in India
+B160,AMS (ASCII Maths Notation),Braille Systems,Specialized - Math/Science,Germany/Austria/Eastern Europe,Active,https://www.perkins.org/resource/world-braille-usage/,Platform-independent mathematical notation using 7-bit ASCII
+B161,Braille Mathematics (Nemeth Code),Braille Systems,Specialized - Math/Science,USA,Active,https://en.wikipedia.org/wiki/Nemeth_Braille,Specialized symbols for algebra calculus geometry
+B162,Computer Braille (CBC),Braille Systems,Specialized - Math/Science,International,Active,https://en.wikipedia.org/wiki/Computer_Braille_Code,Designed for representing computer syntax
+B163,Gardner–Salinas Braille Codes (GS8/GS6),Braille Systems,Specialized - Math/Science,International,Active,https://www.perkins.org/resource/world-braille-usage/,Specialized codes for scientific and technical notation
+B164,HRTeX (Human Readable TeX),Braille Systems,Specialized - Math/Science,Austria,Active,https://www.perkins.org/resource/world-braille-usage/,Mathematical notation code developed at Johannes Kepler Universität
+B165,Lambda,Braille Systems,Specialized - Math/Science,International,Active,https://www.perkins.org/resource/world-braille-usage/,Mathematical reading and writing system for Braille devices
+B166,Marburg Mathematical Notation,Braille Systems,Specialized - Math/Science,Germany,Active,https://www.perkins.org/resource/world-braille-usage/,European alternative to Nemeth Code
+B167,Saunderson's Palpable Arithmetic,Braille Systems,Specialized - Math/Science,England,Historical,https://en.wikipedia.org/wiki/Nicholas_Saunderson,Nicholas Saunderson's tactile calculating device/abacus
+B168,Unified English Braille (UEB) Technical,Braille Systems,Specialized - Math/Science,International,Active,https://www.iceb.org/ueb.html,Integrated technical/math symbols within UEB framework
+B169,Woluwe Code,Braille Systems,Specialized - Math/Science,Belgium,Active,https://www.perkins.org/resource/world-braille-usage/,Mathematical Braille notation based on Marburg code
+B170,Architectural Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Building codes accessibility
+B171,Astronomy Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Star charts coordinates
+B172,Biology notation,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Genetic sequences etc.
+B173,Board game adaptations,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Various standards
+B174,Braille for Constructed Languages,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Custom mappings (e.g. Klingon Braille Dothraki Braille)
+B175,Braille for Sign Languages,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Represents manual signs in tactile form
+B176,Card game Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Standard card markings
+B177,Chemistry Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Beyond basic science; specialized notations
+B178,Chess Braille notation,Braille Systems,Specialized - Other,International,Active,https://en.wikipedia.org/wiki/Chess_notation#Braille,Algebraic/descriptive
+B179,Dice Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Accessible gaming
+B180,Engineering drawing codes,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Technical diagrams
+B181,Esperanto Braille,Braille Systems,Specialized - Other,International,Active,https://en.wikipedia.org/wiki/Esperanto_Braille,International Braille with special characters
+B182,Financial Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Currency identification statements
+B183,Grade 1 Braille (Uncontracted),Braille Systems,Specialized - Other,International,Active,https://en.wikipedia.org/wiki/English_Braille#Grade_1,Letter-by-letter transcription
+B184,Grade 2 Braille (Contracted),Braille Systems,Specialized - Other,International,Active,https://en.wikipedia.org/wiki/English_Braille#Grade_2,180 different letter contractions
+B185,Grade 3 Braille / Personal Shorthand,Braille Systems,Specialized - Other,International,Obsolete,https://en.wikipedia.org/wiki/English_Braille#Grade_3,Advanced highly abbreviated extension; now obsolete
+B186,IPA Braille (International Phonetic Alphabet),Braille Systems,Specialized - Other,International,Active,https://en.wikipedia.org/wiki/IPA_Braille,Braille representation of the International Phonetic Alphabet
+B187,Hebrew Cantillation Braille (Te'amim),Braille Systems,Specialized - Other,International,Active,https://forward.com/culture/421768/how-to-capture-the-nuances-of-torah-in-braille/,Extended Hebrew Braille with cantillation marks for Torah chanting
+B188,Jumbo Braille (Enlarged Braille cells),Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Enlarged Braille cells for reduced tactile sensitivity
+B189,Kanji Braille (8-dot),Braille Systems,Specialized - Other,Japan,Active,https://en.wikipedia.org/wiki/Braille_kanji,8-dot Braille system for representing Kanji characters
+B190,Legal Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Specialized legal formatting
+B191,Medical Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Beyond basic science
+B192,Physics Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Specialized notation
+B193,Sports Braille,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Goalball beep baseball rules
+B194,Statistical notation,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Beyond basic math
+B195,Tajweed Braille Notation,Braille Systems,Specialized - Other,International,Active,https://ieeexplore.ieee.org/document/9288429/,Quranic recitation marks in Braille following rasm Uthmani principles
+B196,Video game accessibility,Braille Systems,Specialized - Other,International,Active,https://www.perkins.org/resource/world-braille-usage/,Audio cues haptics
+T001,Abreu System,Alternative Tactile Scripts,Pre-Braille Embossed,Spain,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Spanish embossed letters (19th c.)
+T002,Alston Type,Alternative Tactile Scripts,Pre-Braille Embossed,UK,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,John Alston's embossed Roman capitals; printed whole Bible in 1840
+T003,Boston Line Type (Howe's Line Letter),Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Boston_Line_Type,Samuel Gridley Howe's Boston Line using lowercase angular letters
+T004,Edmund Frye's System,Alternative Tactile Scripts,Pre-Braille Embossed,UK,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,System using capital letters only (19th century)
+T005,Frere's Type,Alternative Tactile Scripts,Pre-Braille Embossed,UK,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,James Hatley Frere's system based on shorthand
+T006,Gall's Triangular Alphabet,Alternative Tactile Scripts,Pre-Braille Embossed,Scotland,Historical,https://en.wikipedia.org/wiki/Gall%27s_triangular_alphabet,James Gall's triangular alphabet (1826)
+T007,Guillié Script,Alternative Tactile Scripts,Pre-Braille Embossed,France,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Improvement on Haüy's embossed script
+T008,Haüy's Embossed Roman Letters,Alternative Tactile Scripts,Pre-Braille Embossed,France,Historical,https://en.wikipedia.org/wiki/Valentin_Ha%C3%BCy,Valentin Haüy's raised italic letters (1784)
+T009,Hebold Type,Alternative Tactile Scripts,Pre-Braille Embossed,Germany,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,German raised letter variant
+T010,Klein's Stachel-Schrift (Pin Script),Alternative Tactile Scripts,Pre-Braille Embossed,Austria,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Johann Wilhelm Klein's 'Pin Script'
+T011,Lucas Type,Alternative Tactile Scripts,Pre-Braille Embossed,UK,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Thomas Lucas's stenographic system (1837)
+T012,Mascaró's Shorthand,Alternative Tactile Scripts,Pre-Braille Embossed,Spain,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Spanish tactile shorthand (19th c.)
+T013,Melbourne Punctograph,Alternative Tactile Scripts,Pre-Braille Embossed,Australia,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Alternative to Braille in Australia (1870s)
+T014,Moon's Embossed Music,Alternative Tactile Scripts,Pre-Braille Embossed,UK,Historical,https://en.wikipedia.org/wiki/Moon_type,Companion to Moon Type (1840s)
+T015,Philadelphia Line Type,Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Philadelphia_Line_Type,Julius Reinhold Friedlander's Philadelphia Line
+T016,Russ's System,Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Competitor to Howe's Boston Line (1830s)
+T017,Smith's "Boston Alphabet",Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Variant competing with American Braille (1870s)
+T018,Snider's System,Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Jacob Snider Jr.'s system using rounded letters (1834)
+T019,Terzi's System,Alternative Tactile Scripts,Pre-Braille Embossed,Italy,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,One of the earliest attempts at tactile writing (18th century)
+T020,Varney System,Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Short-lived American system (19th c.)
+T021,Wait's "Point Print",Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Precursor system to NY Point
+T022,William Chapin's Combined System,Alternative Tactile Scripts,Pre-Braille Embossed,USA,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Combined Boston Line lowercase with Philadelphia Line capitals (1868)
+T023,Ballu's Decapoint / Ballu Writing,Alternative Tactile Scripts,Dot-Based Alternative,Spain,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,10-dot writing system used in Spain
+T024,Father Lana's Code,Alternative Tactile Scripts,Dot-Based Alternative,Italy,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Nine dots arranged in 3×3 matrix (1617)
+T025,Night Writing (Sonography),Alternative Tactile Scripts,Dot-Based Alternative,France,Historical,https://en.wikipedia.org/wiki/Night_writing,Charles Barbier's tactile 'Ecriture Nocturne' code
+T026,Raphigraphy / Decapoint (Louis Braille's),Alternative Tactile Scripts,Dot-Based Alternative,France,Historical,https://en.wikipedia.org/wiki/Raphigraphy,Louis Braille's tactile Latin script (1839)
+T027,Standard Braille (Louis Braille's Original),Alternative Tactile Scripts,Dot-Based Alternative,France,Active,https://en.wikipedia.org/wiki/Braille,Louis Braille's 6-dot cell system (1824-present)
+T028,BRF (Braille Ready Format),Alternative Tactile Scripts,Modern Alternative,International,Active,https://en.wikipedia.org/wiki/Braille_Ready_File,Digital Braille file standard
+T029,BRL (Braille file format),Alternative Tactile Scripts,Modern Alternative,International,Active,https://www.perkins.org/resource/world-braille-usage/,Alternative digital format
+T030,DotsPlus,Alternative Tactile Scripts,Modern Alternative,International,Active,https://www.perkins.org/resource/world-braille-usage/,Combines standard Braille with graphical elements
+T031,ELIA Frames,Alternative Tactile Scripts,Modern Alternative,USA,Active,https://www.elialife.com/,Geometric shapes within consistent frames
+T032,Fakoo,Alternative Tactile Scripts,Modern Alternative,International,Active,https://en.wikipedia.org/wiki/Fakoo,Alexander Fakoó's 3×3 dot grid system (2006-2008)
+T033,Fishburne Alphabet,Alternative Tactile Scripts,Modern Alternative,USA,Active,https://www.perkins.org/resource/world-braille-usage/,Raised geometric symbols
+T034,Index Braille format,Alternative Tactile Scripts,Modern Alternative,Sweden,Active,https://www.indexbraille.com/,Swedish embosser standard
+T035,Mascaro Alphabet,Alternative Tactile Scripts,Modern Alternative,Spain,Historical,https://www.perkins.org/resource/world-braille-usage/,Attempted to combine Braille with flat writing (1900)
+T036,Moon Type,Alternative Tactile Scripts,Modern Alternative,UK/International,Active,https://en.wikipedia.org/wiki/Moon_type,Simplified raised-outline characters derived from Latin alphabet
+T037,New York Point,Alternative Tactile Scripts,Modern Alternative,USA,Legacy,https://en.wikipedia.org/wiki/New_York_Point,William Bell Wait's braille-like system (1868-1916)
+T038,Nyctography,Alternative Tactile Scripts,Modern Alternative,UK,Historical,https://en.wikipedia.org/wiki/Nyctography,Lewis Carroll's square-based alphabet (1891)
+T039,PEF (Portable Embosser Format),Alternative Tactile Scripts,Modern Alternative,International,Active,https://www.perkins.org/resource/world-braille-usage/,XML-based Braille format
+T040,Quadoo,Alternative Tactile Scripts,Modern Alternative,International,Active,https://en.wikipedia.org/wiki/Quadoo,Alexander Fakoó's square-based alternative to Moon alphabet (2008)
+T041,Rila Sign System,Alternative Tactile Scripts,Modern Alternative,Bulgaria,Active,https://www.perkins.org/resource/world-braille-usage/,Alternative alphabet with tactile version
+T042,Siekoo,Alternative Tactile Scripts,Modern Alternative,International,Active,https://en.wikipedia.org/wiki/Siekoo,Alexander Fakoó's tactile script for seven-segment displays (2012)
+T043,Tactile Calligraphy Systems,Alternative Tactile Scripts,Modern Alternative,International,Active,https://www.perkins.org/resource/world-braille-usage/,Experimental raised cursive or decorative scripts
+T044,Tiger Braille,Alternative Tactile Scripts,Modern Alternative,International,Active,https://viewplus.com/,Embossing system format
+T045,Vibratese,Alternative Tactile Scripts,Modern Alternative,International,Legacy,https://www.perkins.org/resource/world-braille-usage/,System based on arbitrary symbols using vibration patterns
+T046,Braille Signing / Palm Braille,Alternative Tactile Scripts,Finger-Spelling,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Six spots on palm represent Braille cell
+T047,Canaan Barrie On-Body Signing,Alternative Tactile Scripts,Finger-Spelling,Scotland,Active,https://sightscotland.org.uk/articles/information-and-advice/introduction-canaan-barrie-body-sign-system,On-body signing for children with multiple disabilities
+T048,Haptic Communication,Alternative Tactile Scripts,Finger-Spelling,Scandinavia,Active,https://www.helenkeller.org/resources/haptic-communication-facilitate-braille-instruction-deafblind-adults/,Systematic touch signals on back/arm
+T049,Japanese Table-Typing System,Alternative Tactile Scripts,Finger-Spelling,Japan,Active,https://en.wikipedia.org/wiki/Satoshi_Fukushima,Represents five vowels and five major consonants
+T050,Lorm Alphabet,Alternative Tactile Scripts,Finger-Spelling,Austria/Germany,Active,https://en.wikipedia.org/wiki/Lorm_alphabet,Touch-based system using palm and finger locations (1881)
+T051,Malossi Alphabet,Alternative Tactile Scripts,Finger-Spelling,Italy,Active,https://en.wikipedia.org/wiki/Malossi_alphabet,Tapping/pinching specific finger joints
+T052,POP (Print-On-Palm),Alternative Tactile Scripts,Finger-Spelling,International,Active,https://www.helenkeller.org/resources/print-on-palm-pop/,Index finger used to print message into hand
+T053,Social Haptic Communication,Alternative Tactile Scripts,Finger-Spelling,Finland/Scandinavia,Active,https://www.russpalmer.com/social-haptic-communication,139+ standardized signals
+T054,Spartan Alphabet (Deafblind Manual),Alternative Tactile Scripts,Finger-Spelling,UK/USA,Active,https://en.wikipedia.org/wiki/Deafblind_manual_alphabet,Capital letters drawn on palm
+T055,Square Hand,Alternative Tactile Scripts,Finger-Spelling,Historical,Historical,https://deafblind.com/card.html,Writing using pencil and tactile guides
+T056,Tadoma,Alternative Tactile Scripts,Finger-Spelling,USA,Active,https://en.wikipedia.org/wiki/Tadoma,Tactile lip-reading with hand on jaw/lips
+T057,TaSSeLS (Tactile Signing for Sensory Learners),Alternative Tactile Scripts,Finger-Spelling,International,Active,https://pavpub.com/learning-disability/communication/tassels-tactile-signing-for-sensory-learners-2nd-edition,Touch cues and adapted signs
+T058,Two-Hand Manual Alphabet (Tactile),Alternative Tactile Scripts,Finger-Spelling,UK,Active,https://en.wikipedia.org/wiki/Two-handed_manual_alphabets,British two-handed fingerspelling perceived tactilely
+T059,Polish Tactile Alphabet,Alternative Tactile Scripts,Finger-Spelling,Poland,Active,https://gluchoniewidomi.pl/en/methods-of-communicating-with-deafblind-people/polish-tactile-alphabet/,Signs lines and circles drawn on the hand
+T060,Visual Frame Sign Language (VFSL),Alternative Tactile Scripts,Finger-Spelling,International,Active,https://deafblind.com/card.html,Signing within defined visual frame
+T061,Aboriginal Message Sticks,Alternative Tactile Scripts,Ancient/Historical,Australia,Historical,https://en.wikipedia.org/wiki/Message_stick,Carved tactile symbols for communication
+T062,Adinkra tactile,Alternative Tactile Scripts,Ancient/Historical,Ghana,Historical,https://en.wikipedia.org/wiki/Adinkra_symbols,Symbol system adaptations
+T063,Babington's Arthrologie,Alternative Tactile Scripts,Ancient/Historical,England,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Early finger-joint alphabet system (17th century)
+T064,Diderot's System,Alternative Tactile Scripts,Ancient/Historical,France,Historical,https://en.wikipedia.org/wiki/Denis_Diderot,Philosopher's proposed tactile alphabet (1749)
+T065,Dr. Thomas Rhodes Armitage's Systems,Alternative Tactile Scripts,Ancient/Historical,UK,Historical,https://en.wikipedia.org/wiki/Thomas_Rhodes_Armitage,Multiple tactile experiments (1860s)
+T066,Father Lana's Code (Historical),Alternative Tactile Scripts,Ancient/Historical,Italy,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Nine dots in 3×3 matrix (1617)
+T067,Fleischer's System,Alternative Tactile Scripts,Ancient/Historical,Germany,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,German embossed variant (19th c.)
+T068,Harsdörffer's Wax Writing,Alternative Tactile Scripts,Ancient/Historical,Germany,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Writing in wax tablets (1651)
+T069,Knie's System,Alternative Tactile Scripts,Ancient/Historical,Germany,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Alternative embossed letters (19th c.)
+T070,Maria Theresia von Paradis's Method,Alternative Tactile Scripts,Ancient/Historical,Austria,Historical,https://en.wikipedia.org/wiki/Maria_Theresia_von_Paradis,Blind musician's communication system (1780s)
+T071,Nsibidi adaptations,Alternative Tactile Scripts,Ancient/Historical,West Africa,Historical,https://en.wikipedia.org/wiki/Nsibidi,Igbo/Ekpe symbolic system
+T072,Ogham (tactile use),Alternative Tactile Scripts,Ancient/Historical,Ireland,Historical,https://en.wikipedia.org/wiki/Ogham,Edge-carved alphabet
+T073,Peniche's Phonetic System,Alternative Tactile Scripts,Ancient/Historical,Portugal,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Portuguese tactile writing (1800s)
+T074,Quipu / Khipu,Alternative Tactile Scripts,Ancient/Historical,Andean/South America,Active,https://en.wikipedia.org/wiki/Quipu,Andean knot-based recording system (2600 BCE–present)
+T075,Rampazetto's Engraved Letters,Alternative Tactile Scripts,Ancient/Historical,Italy,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Early carved wooden letters (1575)
+T076,Rongorongo,Alternative Tactile Scripts,Ancient/Historical,Easter Island,Historical,https://en.wikipedia.org/wiki/Rongorongo,Easter Island; potentially tactile component
+T077,Talking Knots (various),Alternative Tactile Scripts,Ancient/Historical,Africa/Polynesia,Historical,https://en.wikipedia.org/wiki/Quipu,Beyond Quipu; African Polynesian variants
+T078,Tally Sticks,Alternative Tactile Scripts,Ancient/Historical,Europe/Asia,Historical,https://en.wikipedia.org/wiki/Tally_stick,Notched recording systems
+T079,Wampum Belts,Alternative Tactile Scripts,Ancient/Historical,North America,Historical,https://en.wikipedia.org/wiki/Wampum,Tactile/visual beaded records
+T080,Weissenburg's System,Alternative Tactile Scripts,Ancient/Historical,Germany,Historical,https://en.wikipedia.org/wiki/Tactile_alphabet,Early tactile communication methods (1670s)
+T081,Backchanneling,Alternative Tactile Scripts,Other Tactile,International,Active,https://www.nationaldb.org/,Continuous touch feedback on arm/leg
+T082,Back-of-Hand Braille,Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Signing Braille on back of hand
+T083,Body Braille,Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Braille patterns tapped on body
+T084,Body-Shift Signing,Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Perception of signer's body position changes
+T085,Close Vision Signing,Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Modified signing for tunnel vision
+T086,Co-Active Signing,Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Guide physically moves receiver's hands
+T087,Co-navigator techniques,Alternative Tactile Scripts,Other Tactile,Europe,Active,https://www.deafblindinternational.org/,European model
+T088,Emotional Haptics,Alternative Tactile Scripts,Other Tactile,International,Active,https://www.nationaldb.org/,Conveying tone/emotion through touch quality
+T089,Environmental description conventions,Alternative Tactile Scripts,Other Tactile,International,Active,https://www.nationaldb.org/,Standardized descriptive protocols
+T090,Hand-Over-Hand (HOH),Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Receiver places hands over signer's hands
+T091,Hand-under-Hand (HUH),Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Receiver places hands under signer's hands
+T092,Haptic Environmental Mapping,Alternative Tactile Scripts,Other Tactile,International,Active,https://www.nationaldb.org/,Touch-based room/space orientation
+T093,Intervenor methodology,Alternative Tactile Scripts,Other Tactile,Canada,Active,https://www.deafblindontario.com/,Canadian DeafBlind support model
+T094,Pro-Tactile (PT),Alternative Tactile Scripts,Other Tactile,USA/International,Active,https://en.wikipedia.org/wiki/Protactile,Tactile-sign language developed by DeafBlind community
+T095,Protactile Movement conventions,Alternative Tactile Scripts,Other Tactile,USA,Active,https://en.wikipedia.org/wiki/Protactile,PT grammatical innovations
+T096,Protactile Points (PTPs),Alternative Tactile Scripts,Other Tactile,USA,Active,https://en.wikipedia.org/wiki/Protactile,Spatial reference system on receiver's body
+T097,PTASL (Protactile ASL),Alternative Tactile Scripts,Other Tactile,USA,Active,https://en.wikipedia.org/wiki/Protactile,Distinct from standard tactile ASL
+T098,PTASL Grammar,Alternative Tactile Scripts,Other Tactile,USA,Active,https://en.wikipedia.org/wiki/Protactile,Modified ASL grammar for tactile perception
+T099,Restricted Field Signing,Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Signing within limited visual field
+T100,Rhythmic Attention Signals,Alternative Tactile Scripts,Other Tactile,International,Active,https://www.nationaldb.org/,Tapping patterns to gain attention
+T101,SSP (Support Service Provider) protocols,Alternative Tactile Scripts,Other Tactile,International,Active,https://www.nationaldb.org/,Professional DeafBlind support
+T102,Supported Typing,Alternative Tactile Scripts,Other Tactile,International,Active,https://www.nationaldb.org/,Physical guidance during typing/pointing
+T103,Tactile ASL (TASL),Alternative Tactile Scripts,Other Tactile,USA,Active,https://en.wikipedia.org/wiki/Tactile_signing,Hand-over-hand ASL perception
+T104,Tactile Auslan,Alternative Tactile Scripts,Other Tactile,Australia,Active,https://en.wikipedia.org/wiki/Tactile_signing,Australian Sign adaptation
+T105,Tactile BSL,Alternative Tactile Scripts,Other Tactile,UK,Active,https://en.wikipedia.org/wiki/Tactile_signing,British Sign adaptation
+T106,Tactile CSL,Alternative Tactile Scripts,Other Tactile,China,Active,https://en.wikipedia.org/wiki/Tactile_signing,Chinese tactile signing
+T107,Tactile DGS,Alternative Tactile Scripts,Other Tactile,Germany,Active,https://en.wikipedia.org/wiki/Tactile_signing,German Sign adaptation
+T108,Tactile Graphics Systems,Alternative Tactile Scripts,Other Tactile,International,Active,https://www.tactilegraphics.org/,Use raised lines textures or 3-D prints
+T109,Tactile Imagery,Alternative Tactile Scripts,Other Tactile,International,Active,https://www.nationaldb.org/,Drawing concepts on body surfaces
+T110,Tactile ISL (Indian),Alternative Tactile Scripts,Other Tactile,India,Active,https://en.wikipedia.org/wiki/Tactile_signing,Indian Sign adaptation
+T111,Tactile Israeli Sign Language,Alternative Tactile Scripts,Other Tactile,Israel,Active,https://en.wikipedia.org/wiki/Nalaga'at,Israeli Sign adaptation; Na Laga'at cultural center
+T112,Tactile JSL,Alternative Tactile Scripts,Other Tactile,Japan,Active,https://en.wikipedia.org/wiki/Tactile_signing,Japanese Sign adaptation
+T113,Tactile KSL,Alternative Tactile Scripts,Other Tactile,South Korea,Active,https://en.wikipedia.org/wiki/Tactile_signing,Korean tactile signing
+T114,Tactile LIS,Alternative Tactile Scripts,Other Tactile,Italy,Active,https://en.wikipedia.org/wiki/Tactile_signing,Italian tactile signing
+T115,Tactile LSE,Alternative Tactile Scripts,Other Tactile,Spain,Active,https://en.wikipedia.org/wiki/Tactile_signing,Spanish tactile signing
+T116,Tactile LSF,Alternative Tactile Scripts,Other Tactile,France,Active,https://en.wikipedia.org/wiki/Tactile_signing,French Sign adaptation
+T117,Tactile LSQ,Alternative Tactile Scripts,Other Tactile,Canada,Active,https://en.wikipedia.org/wiki/Tactile_signing,Quebec French tactile signing
+T118,Tactile Língua Gestual Portuguesa,Alternative Tactile Scripts,Other Tactile,Portugal,Active,https://en.wikipedia.org/wiki/Tactile_signing,Portuguese tactile signing
+T119,Tactile Map Symbols (ISO 13125),Alternative Tactile Scripts,Other Tactile,International,Active,https://www.tactilegraphics.org/labels-keys.html,International cartography standard
+T120,Tactile Norsk tegnspråk,Alternative Tactile Scripts,Other Tactile,Norway,Active,https://en.wikipedia.org/wiki/Tactile_signing,Norwegian tactile signing
+T121,Tactile NZSL,Alternative Tactile Scripts,Other Tactile,New Zealand,Active,https://en.wikipedia.org/wiki/Tactile_signing,New Zealand tactile signing
+T122,Tactile RSL,Alternative Tactile Scripts,Other Tactile,Russia,Active,https://en.wikipedia.org/wiki/Tactile_signing,Russian tactile signing
+T123,Tactile Sign Language (general),Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Direct tactile perception of hand shapes
+T124,Tactile Suomalainen viittomakieli,Alternative Tactile Scripts,Other Tactile,Finland,Active,https://en.wikipedia.org/wiki/Tactile_signing,Finnish tactile signing
+T125,Tactile Svenska teckenspråket,Alternative Tactile Scripts,Other Tactile,Sweden,Active,https://en.wikipedia.org/wiki/Tactile_signing,Swedish tactile signing
+T126,Tracking,Alternative Tactile Scripts,Other Tactile,International,Active,https://en.wikipedia.org/wiki/Tactile_signing,Following signer's hands with own hands
+T127,Didymus the Blind's Carved Wooden Letters,Alternative Tactile Scripts,Ancient/Historical,Egypt,Historical,https://en.wikipedia.org/wiki/Didymus_the_Blind,Earliest documented individual tactile reading system (4th century CE)
