@@ -1,7 +1,7 @@
 ---
-title: "Asian and Pacific Braille Systems"
+title: "Asian & Pacific"
 description: "Braille systems for Asian languages and scripts"
-weight: 30
+weight: 130
 ---
 
 ## Major Asian Braille Codes

@@ -1,7 +1,8 @@
 ---
-title: "Audio Communication Channels"
+title: "Audio Channels"
 description: "Screen readers, TTS, audio descriptions, and spoken access technologies"
-weight: 30
+icon: volume_up
+weight: 300
 ---
 
 Audio-based accessibility technologies and services that provide spoken access to information.

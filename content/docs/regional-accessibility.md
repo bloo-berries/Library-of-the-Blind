@@ -1,7 +1,8 @@
 ---
-title: "Regional Accessibility Infrastructure"
+title: "Regional Accessibility"
 description: "Accessibility technologies and infrastructure by geographic region"
-weight: 60
+icon: public
+weight: 600
 ---
 
 Accessibility technologies, standards, and infrastructure organized by geographic region.

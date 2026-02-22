@@ -1,7 +1,7 @@
 ---
-title: "Africa and Middle East Braille Systems"
+title: "African & Middle East"
 description: "Braille systems from Africa and the Middle East"
-weight: 10
+weight: 110
 ---
 
 ## Overview

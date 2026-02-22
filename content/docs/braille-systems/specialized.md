@@ -1,7 +1,7 @@
 ---
-title: "Specialized Braille Systems"
+title: "Specialized"
 description: "Music, Mathematics, Computer Braille, and other specialized codes"
-weight: 50
+weight: 150
 ---
 
 Specialized Braille codes designed for specific domains beyond literary text.

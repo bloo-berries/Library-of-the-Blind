@@ -1,7 +1,7 @@
 ---
-title: "European Braille Systems"
+title: "European"
 description: "Braille systems for European languages"
-weight: 40
+weight: 140
 ---
 
 ## Major European Braille Codes

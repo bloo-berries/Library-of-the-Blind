@@ -1,6 +1,7 @@
 ---
-title: "Documentation"
+title: "Overview"
 description: "Comprehensive documentation of blind and visually impaired communication methodologies"
+icon: menu_book
 weight: 1
 ---
 
@@ -20,8 +21,8 @@ A comprehensive, curated list of blind and visually impaired communication metho
 - [Regional Accessibility](regional-accessibility/) - Infrastructure by region
 - [Resources](resources/) - Organizations, standards, and educational materials
 
-## Additional Documentation
+## Reference
 
+- [Taxonomy](reference/taxonomy/) - Categorization rules
+- [Verification](reference/verification/) - Verification methodology
 - [Contributing](contributing/) - How to contribute to this project
-- [Verification](verification/) - Verification methodology
-- [Taxonomy](taxonomy/) - Categorization rules

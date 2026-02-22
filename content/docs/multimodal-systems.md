@@ -1,7 +1,8 @@
 ---
 title: "Multimodal Systems"
 description: "Combined accessibility technologies for comprehensive access"
-weight: 50
+icon: devices
+weight: 500
 ---
 
 Systems that combine multiple accessibility technologies to provide comprehensive access to information.

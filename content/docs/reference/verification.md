@@ -1,7 +1,7 @@
 ---
-title: "Verification Methodology"
+title: "Verification"
 description: "Sources, verification procedures, and quality standards"
-weight: 91
+weight: 820
 ---
 
 This document outlines the sources, verification procedures, and quality standards used to compile the Library of the Blind collection.

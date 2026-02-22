@@ -1,7 +1,7 @@
 ---
-title: "Taxonomy and Counting Methodology"
+title: "Taxonomy"
 description: "How systems are categorized and counted"
-weight: 90
+weight: 810
 ---
 
 This document outlines the taxonomy and counting methodology for the Library of the Blind.

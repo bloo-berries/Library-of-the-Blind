@@ -1,6 +1,7 @@
 baseURL = "https://bloo-berries.github.io/Library-of-the-Blind/"
 languageCode = "en-us"
 title = "Library of the Blind"
+contentDir = "content"
 
 [module]
   [[module.imports]]
@@ -17,8 +18,22 @@ title = "Library of the Blind"
   [params.docs]
     title = "Library of the Blind"
     pathName = "docs"
+    sidebarIcons = true
+    titleIcon = true
+    breadcrumbs = true
+    navDesc = true
+    navDescTrunc = 50
+    toc = true
+    tocMobile = true
+    scrollSpy = true
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[[menu.primary]]
+  name = "Docs"
+  url = "docs/"
+  identifier = "docs"
+  weight = 10

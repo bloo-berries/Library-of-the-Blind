@@ -1,12 +1,13 @@
 ---
 title: "Braille Systems"
 description: "196 Braille systems organized by region"
-weight: 10
+icon: braille
+weight: 100
 ---
 
 Braille is the most universal tactile script, but many regions have adapted it to fit local alphabets, syllabaries, or logographic systems. This section documents recognized Braille codes currently in use today.
 
-## Organization
+## Regional Organization
 
 - [African & Middle East](african/) - Braille codes for African and Middle Eastern languages
 - [Americas](americas/) - Braille codes for North and South American languages

@@ -1,7 +1,7 @@
 ---
-title: "Americas Braille Systems"
+title: "Americas"
 description: "Braille systems for North and South American languages"
-weight: 20
+weight: 120
 ---
 
 ## North America

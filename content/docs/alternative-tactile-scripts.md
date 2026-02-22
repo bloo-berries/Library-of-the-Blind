@@ -1,7 +1,8 @@
 ---
 title: "Alternative Tactile Scripts"
 description: "127 non-Braille tactile writing systems"
-weight: 20
+icon: touch_app
+weight: 200
 ---
 
 Some blind users prefer or require scripts that differ from traditional Braille. These are legitimate entries for an inclusive library.

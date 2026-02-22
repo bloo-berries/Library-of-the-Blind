@@ -1,7 +1,8 @@
 ---
-title: "Tactile and Haptic Modalities"
+title: "Tactile Modalities"
 description: "Refreshable displays, 3D models, tactile graphics, and experimental systems"
-weight: 40
+icon: fingerprint
+weight: 400
 ---
 
 Physical and tactile technologies that provide access to information through touch.

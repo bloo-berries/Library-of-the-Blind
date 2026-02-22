@@ -1,7 +1,8 @@
 ---
 title: "Resources"
 description: "Organizations, standards, and educational materials"
-weight: 70
+icon: link
+weight: 700
 ---
 
 Additional resources, references, and links related to blind and visually impaired communication methodologies.

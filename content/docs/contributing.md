@@ -1,7 +1,8 @@
 ---
 title: "Contributing"
 description: "How to contribute to this project"
-weight: 92
+icon: favorite
+weight: 900
 ---
 
 Thank you for your interest in contributing to the Library of the Blind!
