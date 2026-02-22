@@ -12,6 +12,7 @@ title = "Library of the Blind"
 
 [params]
   description = "A comprehensive catalog of 323 communication methodologies for the blind and visually impaired"
+  favicon = "favicon.svg"
 
   [params.docs]
     title = "Library of the Blind"
