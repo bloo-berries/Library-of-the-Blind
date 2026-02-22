@@ -1,0 +1,60 @@
+# Hero Section
+hero:
+  enable: true
+  weight: 10
+  template: hero
+
+  badge:
+    text: "323 Systems"
+    color: primary
+    pill: false
+    soft: true
+
+  title: "Library of the Blind"
+  subtitle: "A comprehensive catalog of **blind and visually impaired communication methodologies** from around the world. Documenting **196 Braille systems** and **127 alternative tactile scripts**."
+
+  info: "**Open Source** CC0 Licensed"
+
+  ctaButton:
+    icon: menu_book
+    btnText: "Explore Documentation"
+    url: "/docs/"
+
+  cta2Button:
+    icon: public
+    btnText: "View on GitHub"
+    url: "https://github.com/bloo-berries/Library-of-the-Blind"
+
+# Feature Grid
+featureGrid:
+  enable: true
+  weight: 20
+  template: feature grid
+
+  title: "What's Documented"
+  subtitle: "The most comprehensive collection of accessibility communication systems"
+
+  items:
+    - title: "Braille Systems"
+      icon: braille
+      description: "196 language-specific Braille codes from Africa, Americas, Asia, Europe, and specialized domains like music and mathematics."
+
+    - title: "Alternative Tactile Scripts"
+      icon: touch_app
+      description: "127 non-Braille systems including Moon Type, Pro-Tactile, historical embossed letters, and DeafBlind communication methods."
+
+    - title: "Audio Technologies"
+      icon: volume_up
+      description: "Screen readers, text-to-speech engines, audio descriptions, and accessible publishing formats."
+
+    - title: "Tactile Modalities"
+      icon: fingerprint
+      description: "Refreshable Braille displays, 3D printed models, tactile graphics, and experimental haptic systems."
+
+    - title: "Regional Coverage"
+      icon: public
+      description: "Accessibility infrastructure documented across North America, Latin America, Europe, Africa, Middle East, Asia, and Oceania."
+
+    - title: "Verified Sources"
+      icon: verified
+      description: "All entries verified against authoritative sources including Perkins School, ICEB, BANA, and DeafBlind International."
