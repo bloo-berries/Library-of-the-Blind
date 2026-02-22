@@ -1,0 +1,23 @@
+baseURL = "https://bloo-berries.github.io/Library-of-the-Blind/"
+languageCode = "en-us"
+title = "Library of the Blind"
+
+[module]
+  [[module.imports]]
+    path = "github.com/colinwilson/lotusdocs"
+    disable = false
+  [[module.imports]]
+    path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
+    disable = false
+
+[params]
+  description = "A comprehensive catalog of 323 communication methodologies for the blind and visually impaired"
+
+  [params.docs]
+    title = "Library of the Blind"
+    pathName = "docs"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
