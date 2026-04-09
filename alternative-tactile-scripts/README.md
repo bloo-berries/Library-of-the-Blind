@@ -158,6 +158,20 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Early tactile writing attempt
   - Historical significance
 
+## Historical Regional Braille Precursors
+
+### [Oriental Braille](https://www.thinkerbelllabs.com/)
+- **Origin:** India (British colonial era)
+- **Date:** 19th century
+- **Description:** Various iterations of Braille introduced by British missionaries to Indian languages during colonial times. Oriental Braille preceded the standardization of Bharati Braille and represents early attempts to adapt the Braille system for the diverse scripts and phonologies of South Asian languages. These missionary-led efforts laid the groundwork for the later unified Braille codes adopted across India
+- **Status:** Historical (precursor to Bharati Braille)
+- **Key Features:**
+  - Early Braille adaptation for Indian languages
+  - Introduced by British missionaries during colonial period
+  - Preceded the standardized Bharati Braille system
+  - Multiple iterations developed for different Indian scripts
+  - Historical link between European Braille and modern Indian Braille codes
+
 ## Dot-Based Alternative Systems
 
 ### [Night Writing (Sonography)](https://en.wikipedia.org/wiki/Night_writing)
@@ -223,6 +237,41 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Books are bulky and expensive
   - Particularly useful for adults whose finger-touch has been dulled by age or manual labour
   - Used mainly in the UK, USA, Canada, Australia, New Zealand
+
+### Dotty Moon
+- **Origin:** UK
+- **Date:** Late 20th century–present
+- **Description:** A variant of Moon Type where Moon characters are rendered as dot patterns rather than solid raised lines, enabling output from standard Braille embossers. This digital-output variant makes Moon Type more accessible for production without specialized Moon embossing equipment, bridging the gap between Moon Type's readability and Braille embosser availability
+- **Status:** <span style="color: green;">Active</span> (niche)
+- **Key Features:**
+  - Moon characters rendered as dot patterns instead of solid raised lines
+  - Can be produced on standard Braille embossers
+  - Retains the visual distinctiveness and readability of Moon Type
+  - Digital-output variant expanding Moon Type production capabilities
+  - Useful for late-blind adults who benefit from Moon's simpler forms
+
+### [Hindustanee Moon Script](https://www.thinkerbelllabs.com/)
+- **Origin:** India
+- **Date:** Pre-1943
+- **Description:** An adaptation of Moon Type for Hindi-reading populations, developed before the 1943 Indian government committee that prepared a common Braille code. Hindustanee Moon Script represents an effort to extend Moon Type's simplified raised characters to Devanagari and Hindustani script users in colonial India
+- **Status:** Historical
+- **Key Features:**
+  - Moon Type adaptation for Hindi-reading populations
+  - Preceded the unified Indian Braille code of 1943
+  - Part of colonial-era efforts to provide tactile literacy in Indian languages
+  - Historical bridge between Moon Type and Indian tactile writing systems
+
+### [Ningbo Moon Type](https://en.wikipedia.org/wiki/Moon_type)
+- **Origin:** China (Ningbo)
+- **Date:** 19th century
+- **Description:** English missionaries in Ningbo, China used Moon Type to teach blind locals, transcribing the Gospel of Luke into Moon Type using romanized Ningbo dialect. This represents a notable regional adaptation of Moon Type for Chinese-language use, employing romanization rather than Chinese characters
+- **Status:** Historical
+- **Key Features:**
+  - Regional adaptation of Moon Type for Chinese use
+  - Used romanized Ningbo dialect rather than Chinese characters
+  - Produced by English missionaries for blind education
+  - Gospel of Luke transcribed in this format
+  - Notable example of cross-cultural tactile script adaptation
 
 ### [New York Point](https://en.wikipedia.org/wiki/New_York_Point)
 - **Inventor/Developer:** William Bell Wait
@@ -318,6 +367,20 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Easy to write with square stencil
   - Can be written with twigs, nails, or matches
   - Designed for handwritten notes
+
+### [Tack-Tiles](https://www.tsbvi.edu/)
+- **Origin:** USA
+- **Date:** Late 20th century–present
+- **Description:** Large-format Braille learning manipulatives consisting of LEGO-like blocks with Braille cells on their surfaces. Tack-Tiles are used educationally for students with additional disabilities, discussed alongside Moon Type and tactile symbols as alternative literacy media. They serve as a tactile, hands-on approach to Braille letter recognition and pre-literacy skills, allowing learners to physically assemble and manipulate Braille characters. Developed in association with programs at the Texas School for the Blind and Visually Impaired (TSBVI)
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - LEGO-like blocks with Braille cells
+  - Large-format for easier manipulation
+  - Used for students with additional disabilities
+  - Hands-on approach to Braille learning
+  - Pre-literacy and alternative literacy medium
+  - Can be assembled and rearranged to form words and sentences
+  - Tactile manipulative bridging play and literacy
 
 ### [Rila Sign System](https://omniglot.com/conscripts/rila.htm)
 - **Inventor/Developer:** Stefan Stoynov
@@ -546,6 +609,57 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Distinct from Tactile ISL (Indian Sign Language)
   - Supported by deafblind interpreters and cultural programs
   - Uses "glove language" techniques
+
+### [Standardized Tactile Symbol Systems (TSBVI Model)](https://www.pathstoliteracy.org/)
+- **Inventor/Developer:** Texas School for the Blind and Visually Impaired (TSBVI)
+- **Origin:** USA
+- **Date:** Late 20th century–present
+- **Description:** A standardized, linguistically-based tactile symbol system developed by the Texas School for the Blind and Visually Impaired. The system grew from about 100 to almost 300 symbols over five years, designed for individuals who are totally blind and need a graphic language system. Distinct from Braille, it serves as a pre-literacy or alternative literacy medium using standardized tactile symbols rather than dot patterns
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Linguistically-based tactile symbol system
+  - Nearly 300 standardized symbols
+  - Designed for individuals who are totally blind
+  - Serves as pre-literacy or alternative literacy medium
+  - Distinct from both Braille and textured communication symbols
+  - Graphic language system for those who need alternatives to Braille
+
+### [Textured Communication Symbols (Bailey, 1992)](https://www.pathstoliteracy.org/)
+- **Inventor/Developer:** Bailey (1992)
+- **Origin:** International
+- **Date:** 1992
+- **Description:** A communication symbol approach using textured materials to represent concepts and vocabulary, as described by Bailey in 1992. This system differs from the TSBVI Standardized Tactile Symbol System in its use of textures rather than standardized graphic symbols. Designed for individuals with multiple disabilities including visual impairment who require tactile access to communication symbols
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Uses textured materials as communication symbols
+  - Distinct from TSBVI standardized tactile symbols
+  - Designed for individuals with multiple disabilities
+  - Texture-based approach to tactile communication
+  - Alternative to both Braille and graphic symbol systems
+
+### Object/Tangible Symbol Systems
+- **Origin / Users:** International (used across educational and therapeutic settings)
+- **Description:** A distinct communication modality for individuals with multiple disabilities, using real objects or parts of objects as symbols to represent activities, people, places, or concepts. Objects are selected for their tangible association with the referent (e.g., a spoon to represent mealtime, a key to represent going outside). This system serves as a foundational communication approach for individuals who are pre-symbolic or who need concrete referents before transitioning to more abstract symbol systems
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Uses real objects or parts of objects as symbols
+  - Concrete, tangible communication approach
+  - Designed for individuals with multiple disabilities
+  - Foundational/pre-symbolic communication modality
+  - Can serve as bridge to more abstract symbol systems (Braille, tactile symbols)
+  - Widely used in special education and deafblind services
+
+### CapTel / TTY with Braille Display
+- **Origin / Users:** USA/International
+- **Description:** Communication protocols used by deaf-blind individuals for telephone access. CapTel (Captioned Telephone) is a specialized phone that types the other caller's conversation onto a screen, which can be read via connected Braille display. TTY (Teletypewriter) connected with a refreshable Braille display enables text-based telephone communication in tactile form. These represent distinct communication protocols combining telecommunications technology with Braille output
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - CapTel captions phone conversations in real-time text
+  - TTY enables text-based telephone communication
+  - Connected to Braille displays for tactile output
+  - Enables telephone access for deaf-blind individuals
+  - Distinct communication protocols at the intersection of telecommunications and tactile literacy
+  - Supported by organizations like the American Association of the Deaf-Blind (AADB)
 
 ### Tactile Graphics Systems
 - **Examples:** Graphic Braille, Embossed Diagrams, 3-D Printed Models

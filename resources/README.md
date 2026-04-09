@@ -95,6 +95,9 @@ Additional resources, references, and links related to blind and visually impair
 - **[Tactile Graphics](https://www.aph.org/tactile-graphics/)** - Resources for creating tactile graphics
 - **[Audio Description Training](https://www.acb.org/adp/)** - Audio description training and resources
 
+### Teaching Methodologies
+- **[Mangold Program](https://www.secondsense.org/)** - Dr. Sally Mangold's developmental teaching method for tactile perception and Braille letter recognition, demonstrated in 1978 research. A foundational methodology for Braille instruction that established systematic approaches to developing tactile discrimination skills and Braille reading fluency. While pedagogical rather than a script, it is a foundational methodology in Braille education
+
 ## Research and Academic Resources
 
 ### Journals
@@ -114,6 +117,7 @@ Additional resources, references, and links related to blind and visually impair
 - Early Braille development documents
 - Historical tactile script systems
 - Evolution of accessibility technology
+- **[The "War of the Dots"](https://www.afb.org/)** - Robert B. Irwin's documentation of the competition between American Braille, New York Point, and British Braille in the late 19th and early 20th centuries. This period of intense rivalry over tactile writing standards in the United States is a critical chapter in the history of blind literacy, ultimately resolved by the adoption of Standard English Braille. Irwin's account provides essential context for understanding how Braille became the dominant tactile writing system
 
 ### Museums and Archives
 - Museums with tactile exhibits

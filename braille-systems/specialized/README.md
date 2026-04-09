@@ -388,6 +388,21 @@ The following languages are part of the Bharati Braille system, a unified Braill
   - Supported by Islamic organizations worldwide
   - Compatible with digital pen readers for audio-tactile learning
 
+### [Pharmacological Braille (EU Directive 2004/27/EC)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32004L0027)
+- **Origin / Users:** International (EU-mandated, adopted in various forms worldwide)
+- **Date:** 2004–present
+- **Description:** Specialized Braille codes and standards for pharmaceutical drug labeling. EU Directive 2004/27/EC mandates Braille on pharmaceutical packaging throughout the European Union, requiring the medicine name and strength to appear in Braille on outer packaging. Different countries have specific regulatory codes and formatting requirements for pharmacological Braille. The European Medicines Agency (EMA) provides guidelines on Braille implementation, and national pharmacopoeia bodies set country-specific standards. This represents one of the most widespread regulatory mandates for Braille usage in commercial products
+- **Status:** <span style="color: green;">Active</span> (regulatory mandate)
+- **Key Features:**
+  - EU Directive 2004/27/EC mandates Braille on pharmaceutical packaging
+  - Requires medicine name and strength in Braille on outer packaging
+  - Country-specific regulatory codes and formatting standards
+  - EMA (European Medicines Agency) provides implementation guidelines
+  - One of the most widespread commercial applications of Braille
+  - Standards differ by country (EU, US, Japan, etc.)
+  - Includes specific dot height, spacing, and placement requirements
+  - Advisory groups (e.g., EBU Pharma Braille Working Group) ensure usability
+
 ### [Hebrew Cantillation Braille (Te'amim)](https://forward.com/culture/421768/how-to-capture-the-nuances-of-torah-in-braille/)
 - **Origin / Users:** Jewish communities worldwide
 - **Description:** Extended Hebrew Braille notation that includes te'amim (טעמים), the cantillation marks used for chanting Torah and other biblical texts. These marks, standardized by Rabbi Aaron ben Asher (900-960 CE), indicate both musical melody and grammatical structure. Software has been developed to convert pointed, cantillated Hebrew from sources like Sefaria into BRF (Braille Ready Format) files compatible with Braille displays and embossers. This enables blind Jews to read haftorah portions with trope marks for synagogue services, particularly important for those who keep Shabbat and cannot use electronic readers. JBI International (formerly Jewish Braille Institute, founded 1931) provides Hebrew Braille materials including cantillated texts to 35,000 people worldwide
