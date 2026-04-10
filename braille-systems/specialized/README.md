@@ -173,6 +173,29 @@ Specialized Braille codes designed for specific domains beyond literary text.
   - Developed by one of the most accomplished blind mathematicians in history
   - Part of the legacy of Nicholas Saunderson, Lucasian Professor of Mathematics
 
+### [Cranmer Abacus](https://en.wikipedia.org/wiki/Cranmer_abacus)
+- **Inventor/Developer:** Tim Cranmer
+- **Origin / Users:** USA/International
+- **Date:** 1962
+- **Description:** Tactile mathematical computation tool featuring a rubber backing that holds beads in place, allowing blind users to perform arithmetic and more complex calculations by touch. Widely used in BVI (blind and visually impaired) education worldwide. Distinct from Saunderson's Palpable Arithmetic, which is an 18th-century historical system
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Rubber backing holds beads in position for tactile use
+  - Standard tool in BVI mathematics education
+  - Enables arithmetic, algebra, and other calculations
+  - Portable and durable for classroom and personal use
+  - Distinct from Saunderson's historical calculating device
+
+### [Taylor Frame / Arithmetic Frame](https://www.rnib.org.uk/)
+- **Origin / Users:** UK
+- **Description:** Tactile math board used in UK schools for the blind, consisting of a grid of cells into which pegs or tokens are placed to represent numbers and operations. A longstanding educational tool in British blind education
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Grid-based tactile math board
+  - Uses pegs or tokens to represent numbers and operations
+  - Standard tool in UK blind education
+  - Enables structured tactile arithmetic work
+
 ### Other Mathematical Braille Systems
 - **European Mathematical Braille:** Used in many European countries
 - **Japanese Mathematical Braille:** Adapted for Japanese mathematical notation

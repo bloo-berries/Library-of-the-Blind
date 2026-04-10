@@ -98,25 +98,27 @@ Advanced tactile technologies that use alternative methods to convey information
   - Represents letters through tactile vibration
   - Research ongoing for various applications
 
-### Optacon Letter Recognition
-- **Origin / Users:** USA (1970s–1990s)
-- **Description:** Camera converts print to vibrating pin array felt by fingertip
-- **Status:** Historical/obsolete (discontinued)
+### Optacon (Optical-to-Tactile Converter)
+- **Origin / Users:** USA — Telesensory Systems (1971–1996)
+- **Description:** Telesensory Systems device that converted print to vibrating pin arrays read by fingertip. A landmark tactile reading system that allowed blind users to independently read standard printed text by scanning a small camera across a page, translating the image into a tactile vibration pattern on a 24×6 pin array
+- **Status:** Historical (discontinued 1996)
 - **Key Features:**
-  - Camera-based print recognition
-  - Converts print to tactile vibration
-  - Portable device with vibrating pin array
-  - Important historical technology
+  - Camera-based print recognition converted to vibrating pin array
+  - 24×6 pin array felt by fingertip
+  - Landmark tactile reading system, not merely an assistive device
+  - Enabled independent reading of standard printed materials
+  - Widely used in education and employment settings
 
-### Electrotactile Displays
-- **Origin / Users:** Research (1980s–present)
-- **Description:** Electrical stimulation patterns representing text
+### Electrocutaneous Communication
+- **Origin / Users:** Research (1960s–present) — notably Bach-y-Rita's work at University of Wisconsin
+- **Description:** Research systems using mild electrical stimulation on skin to encode text and spatial information. Pioneered by Paul Bach-y-Rita and colleagues, these systems demonstrated that the skin could serve as a viable channel for complex information transfer, contributing foundational insights to sensory substitution research
 - **Status:** Research/experimental
 - **Key Features:**
-  - Uses electrical stimulation
-  - Patterns represent text
-  - Ongoing research
-  - Potential for future applications
+  - Uses mild electrical stimulation patterns on skin
+  - Encodes text and spatial information
+  - Bach-y-Rita's University of Wisconsin research was foundational
+  - Demonstrated skin as viable channel for complex information transfer
+  - Contributed to broader sensory substitution field
 
 ## Counting Methodology
 

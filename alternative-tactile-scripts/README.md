@@ -736,6 +736,30 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - May have influenced Charles Barbier and later Braille
   - Early 17th-century system
 
+## Cultural and Regional Tactile Systems
+
+### [Wayfinding Tactile Ground Surface Indicators (TGSIs)](https://www.iso.org/standard/78445.html)
+- **Origin / Users:** International
+- **Description:** ISO 23599 standardized truncated dome and bar tile patterns used in public infrastructure for pedestrian navigation. A tactile "language" of navigation embedded in sidewalks, transit stations, and public buildings, communicating directional guidance and hazard warnings through distinct surface textures underfoot
+- **Status:** <span style="color: green;">Active</span> (international standard)
+- **Key Features:**
+  - ISO 23599 standardized patterns
+  - Truncated dome patterns indicate hazard/attention zones
+  - Bar/directional tile patterns indicate safe travel paths
+  - Embedded in public infrastructure worldwide
+  - A tactile communication language for navigation, not merely a safety feature
+
+### [Tactile Currency Identification Systems](https://en.wikipedia.org/wiki/Blind_currency)
+- **Origin / Users:** International (many countries)
+- **Description:** Distinct tactile features deliberately embedded in banknotes for identification by blind and visually impaired users. Methods include raised dots (Canada), varying note sizes (Euro, UK), textured patches, and intaglio printing. This constitutes a communication modality — a standardized tactile language for conveying denomination information — not merely an incidental design feature
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Raised dots, varying sizes, textured patches, intaglio printing
+  - Standardized by national banks and treasuries
+  - A deliberate tactile communication system for denomination identification
+  - Used worldwide with country-specific implementations
+  - Distinct communication modality, not just a physical feature
+
 ## Notes
 
 - These systems serve different needs and communities

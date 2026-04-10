@@ -253,7 +253,9 @@
 - **[HRTeX (Human Readable TeX)](./braille-systems/specialized/README.md#hrtex-human-readable-tex)** - Mathematical notation code developed at Johannes Kepler Universität Linz, Austria; more readable than TeX/LaTeX
 - **[Lambda](./braille-systems/specialized/README.md#lambda-linear-access-to-mathematics-for-braille-device-and-audio-synthesis)** - Mathematical reading and writing system for Braille devices and audio synthesis; designed for blind students
 - **[Marburg Mathematical Notation](./braille-systems/specialized/README.md#marburg-mathematical-notation)** - European alternative to Nemeth Code for mathematical notation
+- **[Cranmer Abacus](./braille-systems/specialized/README.md#cranmer-abacus)** - Tactile mathematical computation tool with rubber backing; widely used in BVI education (USA/International, 1962–present)
 - **[Saunderson's Palpable Arithmetic](./braille-systems/specialized/README.md#saundersons-palpable-arithmetic)** - Nicholas Saunderson's tactile calculating device/abacus for performing arithmetic and algebra by touch; developed by blind Lucasian Professor of Mathematics (England, early 18th century)
+- **[Taylor Frame / Arithmetic Frame](./braille-systems/specialized/README.md#taylor-frame--arithmetic-frame)** - Tactile math board used in UK schools for the blind
 - **[Unified English Braille (UEB) Technical](./braille-systems/specialized/README.md#unified-english-braille-ueb-technical)** - Integrated technical/math symbols within UEB framework (2010s–present)
 - **[Woluwe Code](./braille-systems/specialized/README.md#woluwe-code)** - Mathematical Braille notation based on Marburg code; developed for Dutch-speaking Belgium (1960s–present)
 
@@ -434,6 +436,11 @@
 - **[Tactile Suomalainen viittomakieli](./alternative-tactile-scripts/README.md#tactile-suomalainen-viittomakieli)** - Finnish tactile signing (Finland)
 - **[Tactile Svenska teckenspråket](./alternative-tactile-scripts/README.md#tactile-svenska-teckenspraket)** - Swedish tactile signing (Sweden)
 - **[Tracking](./alternative-tactile-scripts/README.md#tracking)** - Following signer's hands with own hands
+
+### Cultural and Regional Tactile Systems
+
+- **[Tactile Currency Identification Systems](./alternative-tactile-scripts/README.md#tactile-currency-identification-systems)** - Distinct tactile features embedded in banknotes for BVI users (raised dots, varying sizes, textured patches); a deliberate communication modality (International)
+- **[Wayfinding Tactile Ground Surface Indicators (TGSIs)](./alternative-tactile-scripts/README.md#wayfinding-tactile-ground-surface-indicators-tgsis)** - ISO 23599 standardized truncated dome and bar tile patterns; a tactile navigation language embedded in infrastructure (International)
 
 ## Audio Communication Channels
 
