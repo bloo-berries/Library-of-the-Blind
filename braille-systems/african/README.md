@@ -86,6 +86,16 @@ This category includes Braille systems from Africa and the Middle East. Many Afr
 - **Key Characteristics:** Part of South African Braille system. Based on English Braille
 - **Status:** <span style="color: green;">Active</span>
 
+### [Swati/Siswati Braille](https://en.wikipedia.org/wiki/South_African_braille)
+- **Languages Supported:** Swati (Siswati)
+- **Key Characteristics:** Part of South African Braille system. Based on English Braille. Swati is one of the 12 official languages of South Africa
+- **Status:** <span style="color: green;">Active</span>
+
+### [Ndebele Braille](https://en.wikipedia.org/wiki/South_African_braille)
+- **Languages Supported:** Southern Ndebele (isiNdebele)
+- **Key Characteristics:** Part of South African Braille system. Based on English Braille. Ndebele is one of the 12 official languages of South Africa
+- **Status:** <span style="color: green;">Active</span>
+
 ### [Venda Braille](https://en.wikipedia.org/wiki/South_African_braille)
 - **Languages Supported:** Venda
 - **Key Characteristics:** Part of South African Braille system. Based on English Braille
@@ -104,6 +114,16 @@ This category includes Braille systems from Africa and the Middle East. Many Afr
 ### [Arabic Braille](https://en.wikipedia.org/wiki/Arabic_Braille)
 - **Languages Supported:** Arabic, Persian (Farsi), Urdu (Pakistan)
 - **Key Characteristics:** Uses French sorting order; adapted for right-to-left reading; avoids reordering chaos (unlike obsolete Algerian Braille); used across Middle East and North Africa
+- **Status:** <span style="color: green;">Active</span>
+
+### [Tifinagh/Amazigh Braille](https://www.ircam.ma/)
+- **Languages Supported:** Amazigh (Berber) languages — Tamazight, Tashelhit, Tarifit, Kabyle, Tuareg, and others
+- **Key Characteristics:** Adapted for Tifinagh script used by Amazigh (Berber) peoples across North Africa. Developed following the Royal Institute of Amazigh Culture (IRCAM) standardization of Neo-Tifinagh in Morocco (2003). Maps Braille cells to the 33 letters of the Neo-Tifinagh alphabet. Morocco officially recognized Amazigh as a national language in 2011, driving demand for Braille materials in Tifinagh
+- **Status:** <span style="color: green;">Active</span>
+
+### [Tigre Braille](https://www.perkins.org/resource/world-braille-usage/)
+- **Languages Supported:** Tigre
+- **Key Characteristics:** Adapted for Tigre language of Eritrea; Ge'ez script family; distinct from Tigrinya Braille
 - **Status:** <span style="color: green;">Active</span>
 
 ## Regional Notes

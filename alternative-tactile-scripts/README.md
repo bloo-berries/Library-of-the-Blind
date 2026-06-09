@@ -398,6 +398,21 @@ Historical tactile reading systems that predate or competed with Braille, using 
   - Supports linguistic letter combinations for multiple languages
   - Designed to be more efficient than standard mobile text input
 
+### [SignWriting (Sutton)](https://www.signwriting.org/)
+- **Inventor/Developer:** Valerie Sutton
+- **Origin:** USA/International
+- **Date:** 1974–present
+- **Description:** SignWriting is a writing system for sign languages that uses iconic symbols to represent handshapes, movements, facial expressions, and body positions. Originally developed for dance notation (DanceWriting), it was adapted for sign languages in 1974. The system can represent any sign language in the world and is used in over 40 countries. SignWriting has tactile embossed forms, making it accessible to DeafBlind users who can read raised SignWriting symbols by touch. It is one of the few systems that writes sign languages directly rather than transliterating them into a spoken language script
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Iconic symbols for handshapes, movements, and facial expressions
+  - Can represent any sign language worldwide
+  - Has embossed/tactile forms for DeafBlind users
+  - Writes sign languages directly (not transliteration)
+  - Used in over 40 countries for education and literacy
+  - Supported by the SignWriting community and software tools
+  - Included in Unicode (Sutton SignWriting block)
+
 ### [Siekoo](https://fakoo.de/en/siekoo.html)
 - **Inventor/Developer:** Alexander Fakoó
 - **Origin:** International
@@ -504,6 +519,34 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Perceived through touch
   - British variant
 
+### [Dactilológico en Palma](https://www.fasocide.org/)
+- **Origin / Users:** Latin America (Spanish-speaking DeafBlind communities)
+- **Date:** 20th century–present
+- **Description:** Dactilológico en Palma is a palm-spelling system widely used in Spanish-speaking DeafBlind communities across Latin America and Spain. The sender traces the one-handed manual alphabet (alfabeto dactilológico) directly into the receiver's palm. Distinct from POP (Print-On-Palm), which traces printed letters, dactilológico en palma uses the conventional manual alphabet handshapes adapted for tactile perception. It is a primary communication method taught by organizations such as FASOCIDE (Spain) and ASOCIDE, and is used in DeafBlind education and support services throughout Latin American countries including Argentina, Mexico, Colombia, and Chile
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - One-handed manual alphabet traced into receiver's palm
+  - Based on Spanish manual alphabet (alfabeto dactilológico)
+  - Distinct from POP (Print-On-Palm) which uses printed letters
+  - Widely used across Latin America and Spain
+  - Primary method in many Spanish-speaking DeafBlind communities
+  - Taught in DeafBlind education and rehabilitation programs
+
+### [Finger Braille (指点字 / Yubi-Tenji)](https://en.wikipedia.org/wiki/Finger_Braille)
+- **Inventor/Developer:** Developed within the Japanese DeafBlind community
+- **Origin:** Japan
+- **Date:** 1950s–present
+- **Description:** Finger Braille (指点字, Yubi-Tenji) is a tactile communication method where six fingers (three on each hand) represent the six dots of a Braille cell. The sender taps the corresponding fingers on the receiver's fingers or hands to spell out characters in Japanese Braille (Tenji). The receiver's index, middle, and ring fingers of the left hand represent dots 1, 2, and 3, while those of the right hand represent dots 4, 5, and 6. It is widely used among DeafBlind individuals in Japan, particularly those who became deaf before learning to read print, and is distinct from tactile sign language. The method allows rapid, fluent communication and is taught in Japanese DeafBlind support programs
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Six fingers represent six Braille dots (three per hand)
+  - Sender taps on receiver's fingers to form characters
+  - Based on Japanese Braille (Tenji) character set
+  - Allows rapid, fluent tactile communication
+  - Widely used in Japanese DeafBlind community
+  - Distinct from tactile sign language and table-typing
+  - Can be adapted for other Braille systems beyond Japanese
+
 ### [Polish Tactile Alphabet](https://gluchoniewidomi.pl/en/methods-of-communicating-with-deafblind-people/polish-tactile-alphabet/)
 - **Inventor/Developer:** Grzegorz Kozłowski and the Society for the Deafblind (TPG)
 - **Origin:** Poland
@@ -517,6 +560,19 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Refined during rehabilitation camps
   - Based partly on historical Polish tactile systems
   - Distinct from the Lorm alphabet used in German-speaking countries
+
+### [Tactile Cued Speech](https://www.cuedspeech.org/)
+- **Origin / Users:** USA/International (1980s–present)
+- **Description:** Tactile Cued Speech is an adaptation of Cued Speech for DeafBlind individuals. In standard Cued Speech, hand cues near the face disambiguate lip-reading by visually indicating vowel and consonant groups. In the tactile version, the receiver places their hand on the cuer's hand and/or face to perceive cue positions (hand placements near chin, throat, cheek, or side of face) and mouth movements simultaneously. This provides access to phonemic information through touch, enabling literacy development based on spoken language phonology. Used particularly for DeafBlind children and adults who benefit from a phonemic communication approach
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Tactile adaptation of Cued Speech system
+  - Receiver touches cuer's hand and face to perceive cues
+  - Hand placements encode consonant and vowel groups
+  - Provides phonemic access to spoken language
+  - Supports literacy development for DeafBlind individuals
+  - Distinct from tactile sign language (phoneme-based, not sign-based)
+  - Available in multiple languages (English, French, Spanish, etc.)
 
 ### [Haptic Communication](https://www.helenkeller.org/resources/haptic-communication-facilitate-braille-instruction-deafblind-adults/)
 - **Origin / Users:** Scandinavia (2000s–present)
@@ -609,6 +665,54 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Distinct from Tactile ISL (Indian Sign Language)
   - Supported by deafblind interpreters and cultural programs
   - Uses "glove language" techniques
+
+### Tactile KeSL (Kenyan Sign Language)
+- **Origin / Users:** Kenya
+- **Description:** Tactile adaptation of Kenyan Sign Language (KSL) for DeafBlind individuals. Kenya has a growing DeafBlind community supported by the Kenya National Association of the Deaf (KNAD) and Sense International, with tactile signing used in educational and community settings
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Hand-over-hand perception of Kenyan Sign Language
+  - Supported by Sense International and KNAD programs
+  - Used in DeafBlind education and community settings in Kenya
+
+### Tactile Libras (Língua Brasileira de Sinais Tátil)
+- **Origin / Users:** Brazil
+- **Description:** Tactile adaptation of Brazilian Sign Language (Libras) for DeafBlind individuals. Brazil has a significant DeafBlind community, and tactile Libras is recognized as a communication method under Brazilian accessibility legislation. The Grupo Brasil de Apoio ao Surdocego e ao Múltiplo Deficiente Sensorial has been instrumental in developing training and support for tactile Libras interpreters
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Hand-over-hand perception of Libras
+  - Recognized under Brazilian accessibility legislation
+  - Supported by Grupo Brasil and DeafBlind organizations
+  - Used in education, social services, and community settings
+  - Interpreter training programs available in Brazil
+
+### Tactile SASL (South African Sign Language)
+- **Origin / Users:** South Africa
+- **Description:** Tactile adaptation of South African Sign Language (SASL) for DeafBlind individuals. South Africa recognizes SASL as an official language, and tactile SASL is used in DeafBlind support services. DeafBlind South Africa (DBSA) provides training and advocacy for tactile signing access
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Hand-over-hand perception of South African Sign Language
+  - SASL recognized as official language in South Africa
+  - Supported by DeafBlind South Africa (DBSA)
+  - Used in educational and community settings
+
+### Tactile Thai Sign Language
+- **Origin / Users:** Thailand
+- **Description:** Tactile adaptation of Thai Sign Language for DeafBlind individuals. Thailand's DeafBlind community uses hand-over-hand signing supported through the National Association of the Deaf in Thailand (NADT) and the Foundation for the Deaf-Blind in Thailand
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Hand-over-hand perception of Thai Sign Language
+  - Supported by Thai DeafBlind organizations
+  - Used in education and community settings in Thailand
+
+### Tactile TİD (Türk İşaret Dili)
+- **Origin / Users:** Turkey
+- **Description:** Tactile adaptation of Turkish Sign Language (Türk İşaret Dili, TİD) for DeafBlind individuals. Turkey's DeafBlind community uses hand-over-hand signing, supported through the Turkish Federation of the Blind and DeafBlind support services
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Hand-over-hand perception of Turkish Sign Language
+  - Supported by Turkish DeafBlind organizations
+  - Used in education and community settings in Turkey
 
 ### [Standardized Tactile Symbol Systems (TSBVI Model)](https://www.pathstoliteracy.org/)
 - **Inventor/Developer:** Texas School for the Blind and Visually Impaired (TSBVI)
@@ -712,6 +816,33 @@ Tactile communication systems that use touch to perceive manual alphabets and fi
   - Some quipus are logosyllabic (phonetic sounds form words)
   - Can be read with eyes closed
   - One of the oldest tactile communication systems
+
+### [Vanuatu Sand Drawing](https://ich.unesco.org/en/RL/vanuatu-sand-drawings-00073)
+- **Origin / Users:** Vanuatu (Melanesia)
+- **Date:** Ancient–present
+- **Description:** Vanuatu sand drawings are a UNESCO-recognized Intangible Cultural Heritage. They are continuous-line patterns traced with a single finger in sand, volcanic ash, or soil. The drawings function as a multifaceted communication system encoding ritual knowledge, stories, cosmological information, kinship relationships, and agricultural calendars. Each design is executed as a single continuous line without lifting the finger, requiring precise haptic memory and spatial reasoning. The drawings are inherently tactile — created by finger-in-medium and perceptible by tracing the grooves left behind. Over 150 distinct patterns have been documented across different islands, each carrying specific semantic content
+- **Status:** <span style="color: green;">Active</span> (UNESCO ICH)
+- **Key Features:**
+  - Continuous-line finger-traced patterns
+  - Encodes stories, ritual knowledge, and cosmological information
+  - UNESCO Intangible Cultural Heritage (inscribed 2008)
+  - Over 150 documented distinct patterns
+  - Inherently tactile communication (finger-in-medium)
+  - Requires precise haptic memory and spatial reasoning
+  - Active living tradition in Vanuatu
+
+### [Yupana (Inca Counting Board)](https://en.wikipedia.org/wiki/Yupana)
+- **Origin / Users:** Inca Empire / Andean civilizations
+- **Date:** Pre-Columbian–present
+- **Description:** The Yupana is a tactile calculating device used by the Inca and other Andean civilizations, complementary to the Quipu knot-based recording system. It consists of a stone, clay, or wooden board with compartments or grid cells into which counting tokens (seeds, pebbles, or maize kernels) are placed. The arrangement and manipulation of tokens by touch enabled arithmetic operations. Chroniclers including Guaman Poma depicted yupana use alongside quipu. Modern reconstructions suggest it may have operated in a modified base-10 or Fibonacci-like system. Like the Cranmer Abacus and Taylor Frame, it represents a tactile mathematical communication tool
+- **Status:** Historical (with modern reconstructions)
+- **Key Features:**
+  - Stone or clay board with compartments for counting tokens
+  - Complementary to Quipu knot-based recording
+  - Tactile mathematical computation tool
+  - Used by Inca quipucamayocs (record keepers)
+  - Operated through physical manipulation of tokens
+  - Precursor concept to modern tactile calculation tools
 
 ### Babington's Arthrologie
 - **Origin / Users:** 17th Century England

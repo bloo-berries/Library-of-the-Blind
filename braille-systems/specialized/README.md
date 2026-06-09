@@ -396,6 +396,26 @@ The following languages are part of the Bharati Braille system, a unified Braill
   - Enables blind linguists to read and write phonetic transcriptions
   - Supports academic and professional linguistic work
 
+### Dance Notation Braille
+- **Origin / Users:** International
+- **Description:** Braille representations of dance notation systems, particularly Labanotation (Kinetography Laban) and Benesh Movement Notation. These codes enable blind and visually impaired dancers, choreographers, and dance students to read and write choreographic scores. Labanotation Braille uses specialized symbols to encode direction, level, duration, and body part of movements within the staff-based Labanotation framework. Benesh Movement Notation Braille similarly encodes the five-line stave system used in ballet notation
+- **Status:** <span style="color: green;">Active</span> (specialized)
+- **Key Features:**
+  - Braille encoding of Labanotation and Benesh Movement Notation
+  - Represents movement direction, level, duration, and body part
+  - Used in dance education for visually impaired students
+  - Specialized notation beyond standard music Braille
+
+### Knitting and Crochet Pattern Braille
+- **Origin / Users:** International
+- **Description:** Standardized Braille codes for textile patterns including knitting, crochet, and needlework instructions. These codes represent stitch types (knit, purl, yarn over, decrease, etc.), row counts, pattern repeats, and gauge information in Braille. Organizations such as the RNIB (UK) and NFB (USA) have published patterns in Braille format, and specialized shorthand systems exist for common knitting abbreviations
+- **Status:** <span style="color: green;">Active</span>
+- **Key Features:**
+  - Braille encoding of stitch types and pattern instructions
+  - Standardized abbreviations for knitting and crochet terms
+  - Published by organizations like RNIB and NFB
+  - Enables independent textile crafting for blind individuals
+
 ## Religious and Sacred Text Notation
 
 ### [Tajweed Braille Notation](https://ieeexplore.ieee.org/document/9288429/)

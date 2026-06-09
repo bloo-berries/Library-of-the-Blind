@@ -110,6 +110,11 @@
 - **Key Characteristics:** For Burmese script
 - **Status:** <span style="color: green;">Active</span>
 
+### [Dhivehi Braille](https://www.perkins.org/resource/world-braille-usage/)
+- **Languages Supported:** Dhivehi (Maldivian)
+- **Key Characteristics:** Adapted for the Thaana script of the Maldives; Thaana is written right-to-left and derives from Arabic numerals. Dhivehi Braille maps Braille cells to Thaana consonants and vowel diacritics
+- **Status:** <span style="color: green;">Active</span>
+
 ### [Dzongkha Braille (Bhutanese)](https://en.wikipedia.org/wiki/Dzongkha_Braille)
 - **Languages Supported:** Dzongkha (Bhutanese)
 - **Key Characteristics:** Adapted for Dzongkha script
