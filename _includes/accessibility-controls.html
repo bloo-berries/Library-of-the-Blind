@@ -1,0 +1,26 @@
+<div class="a11y-controls" role="toolbar" aria-label="Accessibility controls">
+  <div class="a11y-controls-inner">
+    <div class="a11y-group" role="group" aria-label="Font size">
+      <span class="a11y-label" id="font-size-label">Font size:</span>
+      <button type="button" class="a11y-btn font-decrease" aria-label="Decrease font size" data-action="font-decrease">A&minus;</button>
+      <button type="button" class="a11y-btn font-reset" aria-label="Reset font size" data-action="font-reset">A</button>
+      <button type="button" class="a11y-btn font-increase" aria-label="Increase font size" data-action="font-increase">A+</button>
+    </div>
+    <div class="a11y-group" role="group" aria-label="Display modes">
+      <button type="button" class="a11y-btn dark-mode-toggle" aria-label="Toggle dark mode" aria-pressed="false" data-action="dark-mode">
+        <span class="icon-light" aria-hidden="true">&#9789;</span>
+        <span class="icon-dark" aria-hidden="true">&#9788;</span>
+        <span class="btn-text">Dark mode</span>
+      </button>
+      <button type="button" class="a11y-btn high-contrast-toggle" aria-label="Toggle high contrast mode" aria-pressed="false" data-action="high-contrast">
+        <span aria-hidden="true">&#9673;</span>
+        <span class="btn-text">High contrast</span>
+      </button>
+    </div>
+    <div class="a11y-group search-group" role="search" aria-label="Search entries">
+      <label for="search-input" class="visually-hidden">Search systems and methodologies</label>
+      <input type="search" id="search-input" class="search-input" placeholder="Search 339 systems... (press /)" autocomplete="off">
+      <span class="search-count" aria-live="polite" aria-atomic="true"></span>
+    </div>
+  </div>
+</div>

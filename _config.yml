@@ -1,0 +1,24 @@
+title: Library of the Blind
+description: >-
+  A comprehensive, curated list of blind and visually impaired communication
+  methodologies, systems, and accessibility technologies from around the world.
+  339 unique Braille & tactile language systems documented.
+url: "https://charliec.github.io"
+baseurl: "/library-of-the-blind"
+
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  toc_levels: "2..3"
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - CONTRIBUTING.md
+  - GWR-SUBMISSION.md
+  - VERIFICATION.md
+  - INVENTORY.csv
+  - LICENSE
+  - taxonomy.md
+  - .claude/

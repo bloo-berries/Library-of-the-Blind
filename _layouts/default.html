@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  {% include head.html %}
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to main content</a>
+
+  <header role="banner" class="site-header">
+    {% include nav.html %}
+    {% include accessibility-controls.html %}
+  </header>
+
+  <div class="layout-wrapper">
+    {% include sidebar.html %}
+    <main id="main-content" role="main" tabindex="-1">
+      {{ content }}
+    </main>
+  </div>
+
+  {% include footer.html %}
+
+  <button type="button" class="back-to-top" aria-label="Back to top" hidden>
+    <span aria-hidden="true">&uarr;</span>
+  </button>
+
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+</body>
+</html>
