@@ -816,7 +816,7 @@ main ul li.search-hidden {
 
 /* --- Auto dark mode (system preference) --- */
 @media (prefers-color-scheme: dark) {
-  body:not(.light-mode-override) {
+  body:not(.light-mode-override):not(.high-contrast) {
     --color-bg: #0d1b2a;
     --color-bg-secondary: #1b2838;
     --color-bg-tertiary: #253443;
@@ -835,6 +835,6 @@ main ul li.search-hidden {
     --color-shadow: rgba(0, 0, 0, 0.3);
   }
 
-  body:not(.light-mode-override) .icon-light { display: none; }
-  body:not(.light-mode-override) .icon-dark { display: inline; }
+  body:not(.light-mode-override):not(.high-contrast) .icon-light { display: none; }
+  body:not(.light-mode-override):not(.high-contrast) .icon-dark { display: inline; }
 }
