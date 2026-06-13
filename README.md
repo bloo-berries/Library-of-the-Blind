@@ -1,9 +1,3 @@
----
-layout: default
-title: Library of the Blind
-permalink: /
----
-
 # Library of the Blind
 
 > A comprehensive, curated list of blind and visually impaired communication methodologies, systems, and accessibility technologies from around the world.
