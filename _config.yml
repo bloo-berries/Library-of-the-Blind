@@ -3,8 +3,8 @@ description: >-
   A comprehensive, curated list of blind and visually impaired communication
   methodologies, systems, and accessibility technologies from around the world.
   339 unique Braille & tactile language systems documented.
-url: "https://charliec.github.io"
-baseurl: "/library-of-the-blind"
+url: "https://bloo-berries.github.io"
+baseurl: "/Library-of-the-Blind"
 
 markdown: kramdown
 kramdown:
