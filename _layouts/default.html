@@ -1,10 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" id="html-root">
 <head>
   {% include head.html %}
 </head>
 <body>
-  <a class="skip-link" href="#main-content">Skip to main content</a>
+  <a class="skip-link" href="#main-content" data-i18n-key="skip_to_content">Skip to main content</a>
 
   <header role="banner" class="site-header">
     {% include nav.html %}
@@ -20,7 +20,7 @@
 
   {% include footer.html %}
 
-  <button type="button" class="back-to-top" aria-label="Back to top" hidden>
+  <button type="button" class="back-to-top" data-i18n-aria="back_to_top" aria-label="Back to top" hidden>
     <span aria-hidden="true">&uarr;</span>
   </button>
 

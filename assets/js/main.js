@@ -15,6 +15,9 @@
   const scrollOpts = () =>
     prefersReducedMotion() ? { behavior: 'auto' } : { behavior: 'smooth' };
 
+  /* --- i18n state --- */
+  var currentLang = 'en';
+
   /* --- Local Storage helpers --- */
   function store(key, val) {
     try { localStorage.setItem('lotb-' + key, JSON.stringify(val)); }
@@ -78,7 +81,7 @@
      Font Size Controls
      ======================================================================= */
   function initFontSize() {
-    const sizes = [14, 16, 20, 24]; // px steps
+    const sizes = [14, 16, 20, 24, 28, 32]; // px steps
     let currentIndex = load('font-size-index', 1); // default 16px
 
     function apply(index) {
@@ -88,6 +91,10 @@
         sizes[currentIndex] + 'px'
       );
       store('font-size-index', currentIndex);
+      var statusEl = $('#font-size-status');
+      if (statusEl) {
+        statusEl.textContent = t('font_size_announcement').replace('{size}', sizes[currentIndex]);
+      }
     }
 
     apply(currentIndex);
@@ -153,7 +160,7 @@
       });
 
       if (countEl) {
-        countEl.textContent = visible + ' of ' + items.length;
+        countEl.textContent = t('search_count').replace('{visible}', visible).replace('{total}', items.length);
       }
     }
 
@@ -313,9 +320,68 @@
   }
 
   /* =======================================================================
+     i18n - Internationalization
+     ======================================================================= */
+  function t(key) {
+    var strings = window.LOTB_I18N && window.LOTB_I18N[currentLang];
+    if (strings && strings[key]) return strings[key];
+    // Fallback to English
+    var en = window.LOTB_I18N && window.LOTB_I18N['en'];
+    if (en && en[key]) return en[key];
+    return key;
+  }
+
+  function applyLanguage(langCode) {
+    if (!window.LOTB_I18N || !window.LOTB_I18N[langCode]) return;
+    currentLang = langCode;
+    store('lang', langCode);
+
+    // Update <html> lang and dir
+    var htmlEl = document.documentElement;
+    htmlEl.setAttribute('lang', langCode);
+    var langMeta = window.LOTB_LANGUAGES && window.LOTB_LANGUAGES.find(function (l) { return l.code === langCode; });
+    var dir = (langMeta && langMeta.dir) || 'ltr';
+    htmlEl.setAttribute('dir', dir);
+    document.body.classList.toggle('rtl', dir === 'rtl');
+
+    // Swap text content for data-i18n-key elements
+    $$('[data-i18n-key]').forEach(function (el) {
+      el.textContent = t(el.getAttribute('data-i18n-key'));
+    });
+
+    // Swap aria-label for data-i18n-aria elements
+    $$('[data-i18n-aria]').forEach(function (el) {
+      el.setAttribute('aria-label', t(el.getAttribute('data-i18n-aria')));
+    });
+
+    // Swap placeholder for data-i18n-placeholder elements
+    $$('[data-i18n-placeholder]').forEach(function (el) {
+      el.setAttribute('placeholder', t(el.getAttribute('data-i18n-placeholder')));
+    });
+
+    // Update select value
+    var select = $('#lang-select');
+    if (select) select.value = langCode;
+  }
+
+  function initI18n() {
+    var select = $('#lang-select');
+    var saved = load('lang', 'en');
+
+    if (select) {
+      select.addEventListener('change', function () {
+        applyLanguage(select.value);
+      });
+    }
+
+    applyLanguage(saved);
+  }
+
+  /* =======================================================================
      Init
      ======================================================================= */
   document.addEventListener('DOMContentLoaded', function () {
+    initI18n();
     initDarkMode();
     initHighContrast();
     initFontSize();

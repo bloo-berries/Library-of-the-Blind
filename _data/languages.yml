@@ -1,0 +1,49 @@
+- code: en
+  name: English
+  native: English
+  dir: ltr
+
+- code: es
+  name: Spanish
+  native: Español
+  dir: ltr
+
+- code: zh
+  name: Chinese
+  native: 中文
+  dir: ltr
+
+- code: hi
+  name: Hindi
+  native: हिन्दी
+  dir: ltr
+
+- code: fr
+  name: French
+  native: Français
+  dir: ltr
+
+- code: ar
+  name: Arabic
+  native: العربية
+  dir: rtl
+
+- code: pt
+  name: Portuguese
+  native: Português
+  dir: ltr
+
+- code: bn
+  name: Bengali
+  native: বাংলা
+  dir: ltr
+
+- code: ru
+  name: Russian
+  native: Русский
+  dir: ltr
+
+- code: ja
+  name: Japanese
+  native: 日本語
+  dir: ltr

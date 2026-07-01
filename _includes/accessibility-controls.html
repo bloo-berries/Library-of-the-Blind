@@ -1,25 +1,34 @@
-<div class="a11y-controls" role="toolbar" aria-label="Accessibility controls">
+<div class="a11y-controls" role="toolbar" data-i18n-aria="a11y_controls_label" aria-label="Accessibility controls">
   <div class="a11y-controls-inner">
-    <div class="a11y-group" role="group" aria-label="Font size">
-      <span class="a11y-label" id="font-size-label">Font size:</span>
-      <button type="button" class="a11y-btn font-decrease" aria-label="Decrease font size" data-action="font-decrease">A&minus;</button>
-      <button type="button" class="a11y-btn font-reset" aria-label="Reset font size" data-action="font-reset">A</button>
-      <button type="button" class="a11y-btn font-increase" aria-label="Increase font size" data-action="font-increase">A+</button>
+    <div class="a11y-group" role="group" data-i18n-aria="font_size_group_label" aria-label="Font size">
+      <span class="a11y-label" id="font-size-label" data-i18n-key="font_size_label">Font size:</span>
+      <button type="button" class="a11y-btn font-decrease" data-i18n-aria="font_decrease_label" aria-label="Decrease font size" data-action="font-decrease">A&minus;</button>
+      <button type="button" class="a11y-btn font-reset" data-i18n-aria="font_reset_label" aria-label="Reset font size" data-action="font-reset">A</button>
+      <button type="button" class="a11y-btn font-increase" data-i18n-aria="font_increase_label" aria-label="Increase font size" data-action="font-increase">A+</button>
+      <span class="visually-hidden" aria-live="polite" aria-atomic="true" id="font-size-status"></span>
     </div>
-    <div class="a11y-group" role="group" aria-label="Display modes">
-      <button type="button" class="a11y-btn dark-mode-toggle" aria-label="Toggle dark mode" aria-pressed="false" data-action="dark-mode">
+    <div class="a11y-group" role="group" data-i18n-aria="display_modes_label" aria-label="Display modes">
+      <button type="button" class="a11y-btn dark-mode-toggle" data-i18n-aria="dark_mode_label" aria-label="Toggle dark mode" aria-pressed="false" data-action="dark-mode">
         <span class="icon-light" aria-hidden="true">&#9789;</span>
         <span class="icon-dark" aria-hidden="true">&#9788;</span>
-        <span class="btn-text">Dark mode</span>
+        <span class="btn-text" data-i18n-key="dark_mode_text">Dark mode</span>
       </button>
-      <button type="button" class="a11y-btn high-contrast-toggle" aria-label="Toggle high contrast mode" aria-pressed="false" data-action="high-contrast">
+      <button type="button" class="a11y-btn high-contrast-toggle" data-i18n-aria="high_contrast_label" aria-label="Toggle high contrast mode" aria-pressed="false" data-action="high-contrast">
         <span aria-hidden="true">&#9673;</span>
-        <span class="btn-text">High contrast</span>
+        <span class="btn-text" data-i18n-key="high_contrast_text">High contrast</span>
       </button>
     </div>
-    <div class="a11y-group search-group" role="search" aria-label="Search entries">
-      <label for="search-input" class="visually-hidden">Search systems and methodologies</label>
-      <input type="search" id="search-input" class="search-input" placeholder="Search 339 systems... (press /)" autocomplete="off">
+    <div class="a11y-group lang-group" role="group" aria-label="Language">
+      <label for="lang-select" class="a11y-label" data-i18n-key="language_label">Language</label>
+      <select id="lang-select" class="lang-select">
+        {% for lang in site.data.languages %}
+        <option value="{{ lang.code }}"{% if lang.code == "en" %} selected{% endif %}>{{ lang.native }}</option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="a11y-group search-group" role="search" data-i18n-aria="search_label" aria-label="Search entries">
+      <label for="search-input" class="visually-hidden" data-i18n-key="search_input_label">Search systems and methodologies</label>
+      <input type="search" id="search-input" class="search-input" data-i18n-placeholder="search_placeholder" placeholder="Search 348 systems... (press /)" autocomplete="off">
       <span class="search-count" aria-live="polite" aria-atomic="true"></span>
     </div>
   </div>
