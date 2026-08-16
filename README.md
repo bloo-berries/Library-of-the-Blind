@@ -1,3 +1,5 @@
+
+
 # Library of the Blind
 
 > A comprehensive, curated list of blind and visually impaired communication methodologies, systems, and accessibility technologies from around the world.
@@ -30,6 +32,7 @@
     - [Finger-Spelling and Manual Alphabets](#finger-spelling-and-manual-alphabets)
     - [Ancient and Historical Tactile Systems](#ancient-and-historical-tactile-systems)
     - [Other Tactile Communication Systems](#other-tactile-communication-systems)
+    - [Cultural and Regional Tactile Systems](#cultural-and-regional-tactile-systems)
   - [Audio Communication Channels](#audio-communication-channels)
     - [Screen Readers](#screen-readers)
     - [Audio Descriptions](#audio-descriptions)
