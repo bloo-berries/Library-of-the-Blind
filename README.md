@@ -4,11 +4,13 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![CC0-1.0 License](https://img.shields.io/badge/license-CC0--1.0-blue.svg)](./LICENSE)
-[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-339-blue)](./README.md#braille-systems)
+[![Total Systems](https://img.shields.io/badge/Braille%20%26%20Tactile%20Systems-323+-blue)](./README.md#braille-systems)
 
-**Total Braille & Tactile Language Systems: 339 unique methodologies** (201 Braille systems + 138 alternative tactile scripts)
+**Total Braille & Tactile Language Systems: 323+ documented methodologies** (196 Braille systems + 127 alternative tactile scripts; count under reconciliation)
 
-> **Note:** This count reflects **339 unique methodologies** based on a comprehensive audit. The breakdown includes: **201 Braille systems** (28 Africa/Middle East, 20 Americas, 60 Asian/Pacific, 49 European, 44 specialized) and **138 alternative tactile scripts** (22 pre-Braille embossed, 5 dot-based alternatives, 19 modern alternative scripts, 18 finger-spelling/manual alphabets, 22 ancient/historical systems, 52 other tactile communication). The **61 Experimental and Technological Systems** (navigation apps, embossers, displays, OCR apps, etc.) are correctly excluded as these are devices/technologies rather than communication methodologies. The count excludes indented sub-items marked "Part of" a parent system (e.g., Afrikaans as part of South African Braille). The count reflects unique systems, not languages covered (e.g., Bharati Braille covers 22+ Indian languages but counts as 1 system). Reference: [World Braille Usage](https://www.perkins.org/resource/world-braille-usage/) documents Braille adaptations for 133+ languages globally. See also: [Wikipedia - Tactile Alphabet](https://en.wikipedia.org/wiki/Tactile_alphabet).
+> Entries include both verified systems and items pending further review. Some entries are cross-listed across regional sections, and some historical/cultural items (*) are included for context but excluded from the primary count. See [taxonomy.md](./taxonomy.md) for counting rules. References: [World Braille Usage, 3rd ed. (2013)](https://www.perkins.org/resource/world-braille-usage/), [Wikipedia - Tactile Alphabet](https://en.wikipedia.org/wiki/Tactile_alphabet), [Liblouis translation tables](https://github.com/liblouis/liblouis/tree/master/tables).
+
+> **Actively evolving:** Protactile (PT/PTASL), Unified English Braille (UEB), Bharati Braille, Mid-air Haptics. Systems marked "emerging" may change significantly.
 
 ## Contents
 
@@ -30,6 +32,7 @@
     - [Finger-Spelling and Manual Alphabets](#finger-spelling-and-manual-alphabets)
     - [Ancient and Historical Tactile Systems](#ancient-and-historical-tactile-systems)
     - [Other Tactile Communication Systems](#other-tactile-communication-systems)
+    - [Cultural and Regional Tactile Systems](#cultural-and-regional-tactile-systems)
   - [Audio Communication Channels](#audio-communication-channels)
     - [Screen Readers](#screen-readers)
     - [Audio Descriptions](#audio-descriptions)
@@ -58,7 +61,7 @@
   - **[Akan (Twi)](./braille-systems/african/README.md#akan-twi-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
 - **[Algerian](./braille-systems/african/README.md#algerian-braille)** - Reordered system (obsolete)
 - **[Amharic (Ethiopian / Ge'ez Script)](./braille-systems/african/README.md#amharic-braille-ethiopian-braille--geez-script)** - Adapted for Amharic and other Ethiopian Semitic languages using the Ge'ez syllabary
-- **[Arabic](./braille-systems/african/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; used across Middle East and North Africa
+- **[Arabic](./braille-systems/african/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; used across Middle East and North Africa (same code also listed under Asian/Pacific)
 - **[Bambara Braille](./braille-systems/african/README.md#bambara-braille)** - Mali
 - **[Chichewa/Nyanja Braille](./braille-systems/african/README.md#chichewa-nyanja-braille)** - Malawi, Zambia, Mozambique
   - **[Ewe](./braille-systems/african/README.md#ewe-braille)** - Part of Ghanaian Braille system; based on French-ordered Braille
@@ -117,11 +120,11 @@
 - **[Portuguese (Brazilian)](./braille-systems/americas/README.md#portuguese-braille-brazilian)** - PT-BR variant with slight differences from PT-PT
 - **[Quechua Braille](./braille-systems/americas/README.md#quechua-braille)** - Peru, Bolivia, Ecuador
 - **[Spanish (Latin American variants)](./braille-systems/americas/README.md#spanish-braille-latin-american-variants)** - Regional variations across Latin America
-- **[Unified English Braille (UEB)](./braille-systems/americas/README.md#unified-english-braille-ueb)** - Current standard for English (US, Canada)
+- **[Unified English Braille (UEB)](./braille-systems/americas/README.md#unified-english-braille-ueb)** - Current standard for English (US, Canada); also listed under European (same code, single system used internationally)
 
 ### Asian and Pacific Island Braille
 
-- **[Arabic Braille](./braille-systems/asian/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; avoids reordering chaos (unlike obsolete Algerian Braille); covers Arabic, Persian (Farsi), Urdu (Pakistan)
+- **[Arabic Braille](./braille-systems/asian/README.md#arabic-braille)** - Uses French sorting order; adapted for right-to-left reading; covers Arabic, Persian (Farsi), Urdu (same code also listed under Africa/Middle East)
 - **[Armenian Braille](./braille-systems/asian/README.md#armenian-braille)** - Distinct cell assignments for Armenian script
 - **[Azerbaijani Braille](./braille-systems/asian/README.md#azerbaijani-braille)** - Based on French-ordered Braille
 - **[Balinese Braille](./braille-systems/asian/README.md#balinese-braille)** - Indonesia
@@ -235,7 +238,7 @@
 - **[Sámi variants](./braille-systems/european/README.md#sami-variants)** - Beyond Northern Sámi (Lule, South, Inari, Skolt)
 - **[Tatar](./braille-systems/european/README.md#tatar-braille)** - Russian lineage family (Cyrillic-mediated)
 - **[Ukrainian](./braille-systems/european/README.md#ukrainian-braille)** - Russian lineage family (Cyrillic-mediated); 33-cell alphabet
-- **[Unified English Braille (UEB)](./braille-systems/european/README.md#unified-english-braille-ueb)** - Single unified code for English (US, UK, Canada, Australia, NZ) covering literary and technical material; international standard adopted 2012
+- **[Unified English Braille (UEB)](./braille-systems/european/README.md#unified-english-braille-ueb)** - Single unified code for English (US, UK, Canada, Australia, NZ) covering literary and technical material; declared complete by ICEB in 2004; BANA adopted for US in 2012, implemented 2016
 - **[Welsh](./braille-systems/european/README.md#welsh-braille)** - Includes special characters for Welsh; based on French-ordered Braille
 - **[Yugoslav](./braille-systems/european/README.md#yugoslav-braille)** - Former Yugoslav languages (Serbian, Croatian, Bosnian, etc.)
 
@@ -318,7 +321,7 @@
 - **[Russ's System](./alternative-tactile-scripts/README.md#russ-system)** - Competitor to Howe's Boston Line (1830s USA)
 - **[Smith's "Boston Alphabet"](./alternative-tactile-scripts/README.md#smiths-boston-alphabet)** - Variant competing with American Braille (1870s USA)
 - **[Snider's System](./alternative-tactile-scripts/README.md#sniders-system)** - Jacob Snider, Jr.'s system using rounded letters; first embossed book in the United States (Gospel of Mark, 1834)
-- **[Terzi's System](./alternative-tactile-scripts/README.md#terzis-system)** - One of the earliest attempts at tactile writing (18th century)
+- **[Francesco Lana de Terzi's Dot Code](./alternative-tactile-scripts/README.md#francesco-lana-de-terzis-dot-code)** - Nine dots in 3x3 grid; published in *Prodromo* (1670). Also known as "Father Lana's Code"
 - **[Varney System](./alternative-tactile-scripts/README.md#varney-system)** - Short-lived American system (19th c. USA)
 - **[Wait's "Point Print"](./alternative-tactile-scripts/README.md#waits-point-print)** - Precursor system to NY Point
 - **[William Chapin's Combined System](./alternative-tactile-scripts/README.md#william-chapins-combined-system)** - Combined Boston Line lowercase with Philadelphia Line capitals (USA, 1868)
@@ -327,7 +330,7 @@
 
 - **[Ballu's Decapoint / Ballu Writing](./alternative-tactile-scripts/README.md#ballus-decapoint--ballu-writing)** - 10-dot writing system used in Spain; written on special dot-board (Spain, 19th century)
 - **[Night Writing (Sonography)](./alternative-tactile-scripts/README.md#night-writing-sonography)** - Charles Barbier's tactile "Ecriture Nocturne" code for military messages; 12-dot cells encoding phonetic sounds; direct predecessor to Braille (France, 1815–1820s)
-- **[Raphigraphy / Decapoint (Louis Braille's System)](./alternative-tactile-scripts/README.md#raphigraphy--decapoint-louis-brailles-system)** - Louis Braille's tactile Latin script readable by both blind and sighted; first digital font (1839); required Raphigraph apparatus
+- **[Raphigraphy / Decapoint (Louis Braille's System)](./alternative-tactile-scripts/README.md#raphigraphy--decapoint-louis-brailles-system)** - Louis Braille's tactile Latin script readable by both blind and sighted (1839); required Raphigraph apparatus
 - **[Standard Braille (Louis Braille's Original System)](./alternative-tactile-scripts/README.md#standard-braille-louis-brailles-original-system)** - Louis Braille's 6-dot cell system; first French alphabet published in 1829; now the international standard (France, 1824-present)
 
 ### Modern Alternative Scripts
@@ -337,7 +340,7 @@
 - **[DotsPlus](./alternative-tactile-scripts/README.md#dotsplus)** - Combines standard Braille with graphical elements
 - **[ELIA Frames](./alternative-tactile-scripts/README.md#elia-frames)** - Geometric shapes within consistent frames; designed for late-blind adults (USA, 2000s–present)
 - **[Fakoo](./alternative-tactile-scripts/README.md#fakoo)** - Alexander Fakoó's 3×3 dot grid system readable by both blind and sighted (2006-2008)
-- **[Fishburne Alphabet](./alternative-tactile-scripts/README.md#fishburne-alphabet)** - Raised geometric symbols meant to be more intuitive than Braille (USA, 2010s)
+- **[Fishburne Alphabet](./alternative-tactile-scripts/README.md#fishburne-alphabet)** - Raised geometric symbols developed 1972 by S.B. Fishburne as larger-than-braille alphabet for adults who could not read braille; used mainly for labeling (USA, 1972)
 - **[Index Braille format](./alternative-tactile-scripts/README.md#index-braille-format)** - Swedish embosser standard
 - **[Mascaro Alphabet](./alternative-tactile-scripts/README.md#mascaro-alphabet)** - Attempted to combine Braille with flat writing; practically never used due to writing difficulties (Spain, 1900, historical)
 - **[Moon Type](./alternative-tactile-scripts/README.md#moon-type)** - Simplified, raised-outline characters derived from Latin alphabet; easier for people with reduced tactile sensitivity (UK, USA, Canada, Australia, New Zealand)
@@ -349,6 +352,8 @@
 - **[Siekoo](./alternative-tactile-scripts/README.md#siekoo)** - Alexander Fakoó's tactile script for electronic devices with seven-segment displays (2012)
 - **[SignWriting (Sutton)](./alternative-tactile-scripts/README.md#signwriting-sutton)** - Visual/tactile notation system for writing any sign language; uses iconic symbols for handshapes, movements, and facial expressions; has embossed tactile forms (USA/International, 1974–present)
 - **[Tactile Calligraphy Systems](./alternative-tactile-scripts/README.md#tactile-calligraphy-systems)** - Experimental raised cursive or decorative scripts for aesthetic purposes (various, contemporary)
+- **[Tactile Emoji / Emoticons](./alternative-tactile-scripts/README.md#tactile-emoji--emoticons)** - Standardized tactile representations of emoji for blind and DeafBlind users; raised-line pictographics, Braille shortcodes, and haptic vibration patterns (International, 2010s–present)
+- **[Tactile QR Codes](./alternative-tactile-scripts/README.md#tactile-qr-codes)** - Modified QR codes adapted for tactile reading with embossed markers and orientation indicators; used in wayfinding and product labeling (International, 2010s–present)
 - **[Tiger Braille](./alternative-tactile-scripts/README.md#tiger-braille)** - Embossing system format
 - **[Vibratese](./alternative-tactile-scripts/README.md#vibratese)** - System based on arbitrary symbols using vibration patterns (experimental/obsolete)
 
@@ -362,7 +367,7 @@
 - **[Malossi Alphabet](./alternative-tactile-scripts/README.md#malossi-alphabet)** - Tapping/pinching specific finger joints to spell letters (Italy, 20th century)
 - **[POP (Print-On-Palm)](./alternative-tactile-scripts/README.md#pop-print-on-palm)** - Index finger used to print message into hand; requires familiarity with printed alphabet (International)
 - **[Social Haptic Communication](./alternative-tactile-scripts/README.md#social-haptic-communication)** - Dr. Riitta Lahtinen and Russ Palmer's system with 139+ standardized signals; conveys emotion, environment, visual/auditory information (Finland/Scandinavia, 1990s–present)
-- **[Spartan Alphabet (Deafblind Manual) / Block Alphabet](./alternative-tactile-scripts/README.md#spartan-alphabet-deafblind-manual--block-alphabet)** - Capital letters drawn on palm; for individuals with prior print experience (UK/USA, various)
+- **[Block Alphabet](./alternative-tactile-scripts/README.md#block-alphabet)** - Block capital letters traced on palm; for individuals with prior print experience. Distinct from the Deafblind Manual Alphabet (tactile two-handed fingerspelling) (UK/USA, various)
 - **[Square Hand](./alternative-tactile-scripts/README.md#square-hand)** - Writing using pencil, tactile guides, continuous style keeping pencil on page (Historical)
 - **[Tadoma](./alternative-tactile-scripts/README.md#tadoma)** - Named for Tad Chapman and Oma Simpson; tactile lip-reading with hand on jaw/lips feeling vocal chord vibrations (USA, early 20th century)
 - **[TaSSeLS (Tactile Signing for Sensory Learners)](./alternative-tactile-scripts/README.md#tassels-tactile-signing-for-sensory-learners)** - Touch cues and adapted signs for understanding, anticipation, and alerts; for children with complex needs (International)
@@ -375,30 +380,32 @@
 
 ### Ancient and Historical Tactile Systems
 
-- **[Aboriginal Message Sticks](./alternative-tactile-scripts/README.md#aboriginal-message-sticks)** - Carved tactile symbols for communication (Australia)
-- **[Adinkra tactile](./alternative-tactile-scripts/README.md#adinkra-tactile)** - Symbol system adaptations (Ghana)
+> **Note:** Some entries in this section (marked with *) are tactile-adjacent cultural systems not originally designed for blind users. They are included for historical context but are excluded from the primary system count. See [taxonomy.md](./taxonomy.md) for counting rules.
+
+- **[Aboriginal Message Sticks](./alternative-tactile-scripts/README.md#aboriginal-message-sticks)** - Carved tactile symbols for communication (Australia) *
+- **[Adinkra tactile](./alternative-tactile-scripts/README.md#adinkra-tactile)** - Symbol system adaptations (Ghana) *
 - **[Babington's Arthrologie](./alternative-tactile-scripts/README.md#babingtons-arthrologie)** - Early finger-joint alphabet system; 17th-century English system predating modern DeafBlind communication
 - **[Didymus the Blind's Carved Wooden Letters](./alternative-tactile-scripts/README.md#didymus-the-blinds-carved-wooden-letters)** - Earliest documented individual tactile reading system; letters engraved into wood read by touch (Alexandria, Egypt, 4th century CE)
 - **[Diderot's System](./alternative-tactile-scripts/README.md#diderots-system)** - Philosopher's proposed tactile alphabet (France, 1749)
 - **[Dr. Thomas Rhodes Armitage's Systems](./alternative-tactile-scripts/README.md#dr-thomas-rhodes-armitages-systems)** - Multiple tactile experiments (UK, 1860s)
-- **[Father Lana's Code](./alternative-tactile-scripts/README.md#father-lanas-code)** - Nine dots in 3×3 matrix (1617); proto-dot matrix system that may have influenced Charles Barbier
+- **[Father Lana's Code](./alternative-tactile-scripts/README.md#father-lanas-code)** - See Francesco Lana de Terzi's Dot Code (same person; published 1670, not 1617)
 - **[Fleischer's System](./alternative-tactile-scripts/README.md#fleischers-system)** - German embossed variant (Germany, 19th c.)
 - **[Harsdörffer's Wax Writing](./alternative-tactile-scripts/README.md#harsdorffers-wax-writing)** - Writing in wax tablets (Germany, 1651)
-- **[Japanese Anma/Amma Tradition](./alternative-tactile-scripts/README.md#japanese-anmaamma-tradition)** - Traditional Japanese massage practice legally exclusive to blind practitioners during Tokugawa period; tactile expertise as professional identity (Japan, 1600s–present)
+- **[Japanese Anma/Amma Tradition](./alternative-tactile-scripts/README.md#japanese-anmaamma-tradition)** - Traditional Japanese massage practice legally exclusive to blind practitioners during Tokugawa period; tactile expertise as professional identity (Japan, 1600s-present) *
 - **[Knie's System](./alternative-tactile-scripts/README.md#knies-system)** - Alternative embossed letters (Germany, 19th c.)
 - **[Maria Theresia von Paradis's Method](./alternative-tactile-scripts/README.md#maria-theresia-von-paradis-method)** - Blind musician's communication system (Austria, 1780s)
-- **[Nsibidi adaptations](./alternative-tactile-scripts/README.md#nsibidi-adaptations)** - Igbo/Ekpe symbolic system (West Africa)
-- **[Ogham (tactile use)](./alternative-tactile-scripts/README.md#ogham-tactile-use)** - Edge-carved alphabet (Ireland)
+- **[Nsibidi adaptations](./alternative-tactile-scripts/README.md#nsibidi-adaptations)** - Igbo/Ekpe symbolic system (West Africa) *
+- **[Ogham (tactile use)](./alternative-tactile-scripts/README.md#ogham-tactile-use)** - Edge-carved alphabet (Ireland) *
 - **[Peniche's Phonetic System](./alternative-tactile-scripts/README.md#peniches-phonetic-system)** - Portuguese tactile writing (Portugal, 1800s)
-- **[Quipu / Khipu](./alternative-tactile-scripts/README.md#quipu--khipu)** - Andean knot-based recording system; fibers differentiated by touch; can record dates, statistics, accounts; some are logosyllabic (2600 BCE–present, still used in South America)
+- **[Quipu / Khipu](./alternative-tactile-scripts/README.md#quipu--khipu)** - Andean knot-based recording system; fibers differentiated by touch; can record dates, statistics, accounts; some are logosyllabic (2600 BCE-present, still used in South America) *
 - **[Rampazetto's Engraved Letters](./alternative-tactile-scripts/README.md#rampazettos-engraved-letters)** - Early carved wooden letters for blind readers (Italy, 1575)
-- **[Rongorongo](./alternative-tactile-scripts/README.md#rongorongo)** - Easter Island; potentially tactile component
+- **[Rongorongo](./alternative-tactile-scripts/README.md#rongorongo)** - Easter Island; potentially tactile component *
 - **[Talking Knots (various)](./alternative-tactile-scripts/README.md#talking-knots-various)** - Beyond Quipu; African, Polynesian variants
-- **[Tally Sticks](./alternative-tactile-scripts/README.md#tally-sticks)** - Notched recording systems (Europe/Asia)
-- **[Vanuatu Sand Drawing](./alternative-tactile-scripts/README.md#vanuatu-sand-drawing)** - UNESCO Intangible Cultural Heritage; continuous-line finger-traced patterns encoding stories, knowledge, and ritual information (Vanuatu, ancient–present)
-- **[Wampum Belts](./alternative-tactile-scripts/README.md#wampum-belts)** - Tactile/visual beaded records (North America)
-- **[Yupana (Inca Counting Board)](./alternative-tactile-scripts/README.md#yupana-inca-counting-board)** - Andean tactile mathematical tool complementary to Quipu; stone or clay board with compartments for counting tokens (Inca Empire, pre-Columbian–present)
-- **[Weissenburg's System](./alternative-tactile-scripts/README.md#weissenburgs-system)** - Early tactile communication methods (Germany, 1670s)
+- **[Tally Sticks](./alternative-tactile-scripts/README.md#tally-sticks)** - Notched recording systems (Europe/Asia) *
+- **[Vanuatu Sand Drawing](./alternative-tactile-scripts/README.md#vanuatu-sand-drawing)** - UNESCO Intangible Cultural Heritage; continuous-line finger-traced patterns encoding stories, knowledge, and ritual information (Vanuatu, ancient-present) *
+- **[Wampum Belts](./alternative-tactile-scripts/README.md#wampum-belts)** - Tactile/visual beaded records (North America) *
+- **[Yupana (Inca Counting Board)](./alternative-tactile-scripts/README.md#yupana-inca-counting-board)** - Andean tactile mathematical tool complementary to Quipu; stone or clay board with compartments for counting tokens (Inca Empire, pre-Columbian-present) *
+- **[Weissenburg's System](./alternative-tactile-scripts/README.md#weissenburgs-system)** - Early tactile communication methods (Germany, 1770s)
 
 ### Other Tactile Communication Systems
 
@@ -415,13 +422,20 @@
 - **[Hand-under-Hand (HUH)](./alternative-tactile-scripts/README.md#hand-under-hand-huh)** - Receiver places hands under signer's hands (less intrusive)
 - **[Haptic Environmental Mapping](./alternative-tactile-scripts/README.md#haptic-environmental-mapping)** - Touch-based room/space orientation
 - **[Intervenor methodology](./alternative-tactile-scripts/README.md#intervenor-methodology)** - Canadian DeafBlind support model
+- **[Legal / Courtroom Tactile Interpreting Protocols](./alternative-tactile-scripts/README.md#legal--courtroom-tactile-interpreting-protocols)** - Specialized tactile interpreting protocols for legal proceedings, courtroom testimony, and attorney-client communication (International, 1990s–present)
+- **[Medical Tactile Communication Protocols](./alternative-tactile-scripts/README.md#medical-tactile-communication-protocols)** - Standardized tactile protocols for healthcare including consent procedures, body maps, and clinical examination signals (International, 2000s–present)
+- **[Performing Arts Tactile Methods](./alternative-tactile-scripts/README.md#performing-arts-tactile-methods)** - Tactile stage direction, haptic musical conducting, choreography instruction for blind/DeafBlind performers (International, 2000s–present)
 - **[Pro-Tactile (PT)](./alternative-tactile-scripts/README.md#pro-tactile-pt)** - Tactile-sign language developed by DeafBlind community; conveys grammatical information through pressure, movement, and location on the hand (USA, Canada, Europe)
+- **[Protactile Auslan (PT-Auslan)](./alternative-tactile-scripts/README.md#protactile-auslan-pt-auslan)** - Protactile adaptation of Australian Sign Language (Australia, emerging)
+- **[Protactile BSL (PTBSL)](./alternative-tactile-scripts/README.md#protactile-bsl-ptbsl)** - Protactile adaptation of British Sign Language; touch as primary language channel (UK, emerging)
+- **[Protactile LSQ (PT-LSQ)](./alternative-tactile-scripts/README.md#protactile-lsq-pt-lsq)** - Protactile adaptation of Quebec Sign Language for Francophone DeafBlind community (Canada, emerging)
 - **[Protactile Movement conventions](./alternative-tactile-scripts/README.md#protactile-movement-conventions)** - PT grammatical innovations
 - **[Protactile Points (PTPs)](./alternative-tactile-scripts/README.md#protactile-points-ptps)** - Spatial reference system on receiver's body
 - **[PTASL (Protactile ASL)](./alternative-tactile-scripts/README.md#ptasl-protactile-asl)** - Distinct from standard tactile ASL
 - **[PTASL Grammar](./alternative-tactile-scripts/README.md#ptasl-grammar)** - Modified ASL grammar for tactile perception
 - **[Restricted Field Signing](./alternative-tactile-scripts/README.md#restricted-field-signing)** - Signing within limited visual field
 - **[Rhythmic Attention Signals](./alternative-tactile-scripts/README.md#rhythmic-attention-signals)** - Tapping patterns to gain attention
+- **[Sports Tactile Coaching Methods](./alternative-tactile-scripts/README.md#sports-tactile-coaching-methods)** - Tactile modeling, haptic coaching signals, and play diagrams for blind/DeafBlind athletes (International, 1990s–present)
 - **[SSP (Support Service Provider) protocols](./alternative-tactile-scripts/README.md#ssp-support-service-provider-protocols)** - Professional DeafBlind support
 - **[Supported Typing](./alternative-tactile-scripts/README.md#supported-typing)** - Physical guidance during typing/pointing
 - **[Tactile ASL (TASL)](./alternative-tactile-scripts/README.md#tactile-asl-tasl)** - Hand-over-hand ASL perception (USA)
@@ -469,12 +483,19 @@
 - **[Narrator](./audio-channels/README.md#narrator)** - Built-in screen reader for Windows; English and many other languages
 - **[NVDA (NonVisual Desktop Access)](./audio-channels/README.md#nvda-nonvisual-desktop-access)** - Free, open-source screen reader for Windows; English and many other languages (community-translated)
 - **[Orca](./audio-channels/README.md#orca)** - Free, open-source screen reader for Linux; English and many other languages
+- **[TalkBack](./audio-channels/README.md#talkback)** - Built-in screen reader for Android; one of the most-used mobile screen readers globally
+- **[ChromeVox](./audio-channels/README.md#chromevox)** - Built-in screen reader for Chrome OS
+- **[BRLTTY](./audio-channels/README.md#brltty)** - Background process providing Braille display access for Linux/Unix console
+- **[Dolphin SuperNova](./audio-channels/README.md#dolphin-supernova)** - Screen reader and magnifier for Windows
 - **[PC-Talker](./audio-channels/README.md#pc-talker)** - Japanese screen reader
 - **[VoiceOver](./audio-channels/README.md#voiceover)** - Built-in screen reader for Apple platforms (macOS, iOS, iPadOS, watchOS, tvOS); English and many other languages
 
 ### Audio Descriptions
 
-
+- **[YouDescribe](https://youdescribe.org/)** - Crowdsourced audio description platform for YouTube videos
+- **[ACB Audio Description Project](https://www.acb.org/adp/)** - American Council of the Blind's audio description advocacy and training
+- **[DCMP (Described and Captioned Media Program)](https://dcmp.org/)** - US federally-funded accessible media
+- **[Descriptive Video Service (DVS)](https://www.wgbh.org/foundation/what-we-do/media-accessibility)** - WGBH pioneered audio description for TV (1990)
 
 ### Text-to-Speech (TTS) Systems
 
@@ -488,7 +509,7 @@
 ### Braille Translation Software
 
 - **[Braille2000](./audio-channels/README.md#braille2000)** - Word processor with Braille
-- **[BrailleASCII](./audio-channels/README.md#brailleascii)** - ASCII-to-Braille
+- **[Braille ASCII (NABCC)](./audio-channels/README.md#brailleascii)** - North American Braille ASCII Code; an encoding standard mapping braille cells to ASCII characters
 - **[BrailleBlaster](./audio-channels/README.md#brailleblaster)** - BANA-supported translator
 - **[Duxbury DBT](./audio-channels/README.md#duxbury-dbt)** - Industry-standard translator
 - **[Liblouis](./audio-channels/README.md#liblouis)** - Open-source translation library
@@ -528,7 +549,8 @@
 
 - **[APH (American Printing House) Displays](./tactile-modalities/README.md#aph-american-printing-house-displays)** - Various models
 - **[Freedom Scientific Displays](./tactile-modalities/README.md#freedom-scientific-displays)** - Focus 40, Focus 80, and other models
-- **[HumanWare Devices](./tactile-modalities/README.md#humanware-devices)** - BrailleNote Touch, BrailleSense, and other models
+- **[HumanWare Devices](./tactile-modalities/README.md#humanware-devices)** - BrailleNote Touch and other models
+- **[HIMS (Selvas Healthcare) Devices](./tactile-modalities/README.md#hims-selvas-healthcare-devices)** - BrailleSense series
 - **[Orbit Research Displays](./tactile-modalities/README.md#orbit-research-displays)** - Orbit Reader and various models
 
 ### Talking-Touch Devices
@@ -538,10 +560,17 @@
 
 ### 3D Printed Models
 
-
+- **[See3D](https://see3d.org/)** - Volunteer 3D printing network for educational tactile models
+- **[Tactile Picture Books Project](https://www.tactilepicturebooks.org/)** - 3D printed tactile illustrations for children's books
+- **[APH Tactile Graphic Image Library](https://www.aph.org/tgil/)** - Repository of tactile graphic files including 3D printable models
 
 ### Tactile Graphics
 
+- **[Swell/Microcapsule Paper (PIAF, Zy-Fuse)](https://www.aph.org/)** - Heat-raised tactile graphics on special paper
+- **[TactileView](https://www.tactileview.com/)** - Software for designing and producing tactile graphics
+- **[BANA Tactile Graphics Guidelines](https://www.brailleauthority.org/tg/)** - Standards for creating tactile graphics
+- **[Touch Mapper](https://touchmapper.org/)** - Online tool for creating tactile maps
+- **[Talking Tactile Tablet](https://www.aph.org/)** - Interactive tactile graphics with audio labels
 
 
 ### Experimental and Technological Systems
@@ -551,22 +580,25 @@
 - **[Be My Eyes](./tactile-modalities/README.md#be-my-eyes)** - Volunteer visual assistance
 - **[BlindSquare](./tactile-modalities/README.md#blindsquare)** - GPS/POI navigation app
 - **[Bone conduction + haptics](./tactile-modalities/README.md#bone-conduction--haptics)** - Combined modalities
-- **[Braille Sense 6](./tactile-modalities/README.md#braille-sense-6)** - Latest HumanWare notetaker
+- **[Braille Sense 6](./tactile-modalities/README.md#braille-sense-6)** - Latest HIMS notetaker
 - **[BrailleNote Touch Plus](./tactile-modalities/README.md#braillenote-touch-plus)** - HumanWare tablet
 - **[BuzzClip](./tactile-modalities/README.md#buzzclip)** - Wearable ultrasonic device
 - **[Canute 360](./tactile-modalities/README.md#canute-360)** - Multi-line Braille display
 - **[Chameleon 20](./tactile-modalities/README.md#chameleon-20)** - Ultra-portable display
 - **[Dot Pad](./tactile-modalities/README.md#dot-pad)** - Tactile graphics display
 - **[ElBraille](./tactile-modalities/README.md#elbraille)** - Windows-based Braille device
+- **[Electrostatic Friction Displays](./tactile-modalities/README.md#electrostatic-friction-displays)** - Variable friction surfaces simulating textures and Braille on standard touchscreens (research, 2010s–present)
 - **[Electrotactile Displays](./tactile-modalities/README.md#electrotactile-displays)** - Electrical stimulation patterns representing text (research, 1980s–present)
 - **[Electrotactile tongue displays](./tactile-modalities/README.md#electrotactile-tongue-displays)** - BrainPort technology
 - **[Enabling Technologies embossers](./tactile-modalities/README.md#enabling-technologies-embossers)** - Various models
 - **[Envision Glasses](./tactile-modalities/README.md#envision-glasses)** - AI-powered smart glasses
 - **[eSight](./tactile-modalities/README.md#esight)** - Electronic vision enhancement
 - **[Fingertip vibrotactile](./tactile-modalities/README.md#fingertip-vibrotactile)** - Sub-finger haptic devices
+- **[FlashSonar / Human Echolocation](./tactile-modalities/README.md#flashsonar--human-echolocation)** - Active echolocation training methodology using tongue clicks for spatial perception (Daniel Kish, World Access for the Blind)
 - **[Geldard's Vibratese](./tactile-modalities/README.md#geldards-vibratese)** - 45 WPM vibrotactile language system
 - **[Graphiti](./tactile-modalities/README.md#graphiti)** - Dynamic tactile graphics
 - **[Haptic Belt navigation](./tactile-modalities/README.md#haptic-belt-navigation)** - Vibrating belt directional cues
+- **[Haptic Gloves](./tactile-modalities/README.md#haptic-gloves)** - Wearable gloves with embedded actuators for Braille rendering, remote tactile communication, and spatial guidance
 - **[Haptic Icons](./tactile-modalities/README.md#haptic-icons)** - Vibration patterns representing concepts
 - **[Haptic Vest](./tactile-modalities/README.md#haptic-vest)** - Full-body haptic feedback
 - **[Index Embossers](./tactile-modalities/README.md#index-embossers)** - Swedish embossing systems
@@ -577,12 +609,15 @@
 - **[Lookout](./tactile-modalities/README.md#lookout)** - Google image recognition
 - **[Mantis Q40](./tactile-modalities/README.md#mantis-q40)** - QWERTY + Braille display
 - **[MATRA (Matrix Tactile)](./tactile-modalities/README.md#matra-matrix-tactile)** - Vibrating pin matrix displays
+- **[Mid-Air Haptics](./tactile-modalities/README.md#mid-air-haptics-ultrasonic-phased-arrays)** - Ultrasonic phased arrays creating tactile sensations in free space (Ultraleap, 2013–present)
 - **[Miniguide](./tactile-modalities/README.md#miniguide)** - Handheld ultrasonic device
 - **[Morse Code Vibration](./tactile-modalities/README.md#morse-code-vibration)** - Morse code via tactile pulses
 - **[Mountbatten Brailler](./tactile-modalities/README.md#mountbatten-brailler)** - Electronic classroom Brailler
 - **[NaviLens](./tactile-modalities/README.md#navilens)** - High-contrast marker system
 - **[Nearby Explorer](./tactile-modalities/README.md#nearby-explorer)** - Transit navigation
+- **[Neural Interfaces / Cortical Visual Prostheses](./tactile-modalities/README.md#neural-interfaces--cortical-visual-prostheses)** - Direct cortical stimulation producing phosphene patterns for artificial vision (research/clinical trials)
 - **[NLS eReader](./tactile-modalities/README.md#nls-ereader)** - National Library Service device
+- **[Object Schedules](./tactile-modalities/README.md#object-schedules)** - Tactile scheduling systems using real objects for routine communication (educational/rehabilitation use)
 - **[Optacon Letter Recognition](./tactile-modalities/README.md#optacon-letter-recognition)** - Camera converts print to vibrating pin array felt by fingertip (USA, 1970s–1990s, discontinued)
 - **[OrCam MyEye](./tactile-modalities/README.md#orcam-myeye)** - Wearable text-to-speech
 - **[Orcam Read](./tactile-modalities/README.md#orcam-read)** - Handheld OCR reader
@@ -600,6 +635,7 @@
 - **[Tactons](./tactile-modalities/README.md#tactons)** - Structured vibrotactile messages
 - **[Tadoma-derived Vibrotactile](./tactile-modalities/README.md#tadoma-derived-vibrotactile)** - Artificial Tadoma systems using vibration
 - **[TapTapSee](./tactile-modalities/README.md#taptapsee)** - Photo identification
+- **[Thermal Haptic Displays](./tactile-modalities/README.md#thermal-haptic-displays)** - Temperature-based communication using warming/cooling patterns for navigation and alerts (research, 2000s–present)
 - **[UltraCane](./tactile-modalities/README.md#ultracane)** - Ultrasonic obstacle detection
 - **[Vibrotactile Alphabets](./tactile-modalities/README.md#vibrotactile-alphabets)** - Patterns of vibration on skin representing letters; used in wearable devices (1960s–present)
 - **[Vibrotactile Phonemes](./tactile-modalities/README.md#vibrotactile-phonemes)** - Speech sounds as vibration patterns
@@ -615,12 +651,14 @@
 - **[Pro-Tactile + Speech-to-Text (STT)](./multimodal-systems/README.md#pro-tactile--speech-to-text-stt)** - Combines Pro-Tactile communication with speech-to-text transcription (American Sign Language, British Sign Language, and other sign languages)
 - **[Screen Reader + Magnification + Braille](./multimodal-systems/README.md#screen-reader--magnification--braille)** - Combines visual, auditory, and tactile access (multiple languages)
 - **[Screen-Reader + Braille](./multimodal-systems/README.md#screen-reader--braille)** - Combines synthesized speech output with refreshable Braille display (English, French, German, Spanish, and many others)
+- **[Sign Language + Tactile + Visual](./multimodal-systems/README.md#sign-language--tactile--visual)** - Triple-modality for DeafBlind with residual vision; combines visual signing, tactile signing, and visual aids (multiple sign languages)
+- **[Tactile Graphics + Audio Description + Haptic Feedback](./multimodal-systems/README.md#tactile-graphics--audio-description--haptic-feedback)** - Triple-modality combining raised-line graphics, spoken descriptions, and dynamic haptic cues for complex visual information (multiple languages)
 
 ## Regional Accessibility Infrastructure
 
 - **[Africa](./regional-accessibility/README.md#africa)** - Arabic, French, English, Swahili, Hausa, Amharic, Yoruba, Zulu, Xhosa, and many others; African Braille Consortium, regional audio-book services
 - **[Asia](./regional-accessibility/README.md#asia)** - Mandarin Chinese, Cantonese, Japanese, Korean, Hindi, Bengali, Tamil, Telugu, Malayalam, Punjabi, Urdu, Thai, Vietnamese, Indonesian, Malay, Khmer, Lao, and many others; Chinese Braille (two-cell), Japanese Tenji, Korean Hangul Braille, Indian Braille (Bharati Braille)
-- **[Europe](./regional-accessibility/README.md#europe)** - Multiple languages; European Union's "Accessible Europe" guidelines, national Braille institutes
+- **[Europe](./regional-accessibility/README.md#europe)** - Multiple languages; European Accessibility Act (Directive (EU) 2019/882); Web Accessibility Directive (2016/2102), national Braille institutes
 - **[Latin America](./regional-accessibility/README.md#latin-america)** - Spanish, Portuguese (Brazil); Liblouis-based Braille translators, "Biblioteca del Ciego" networks
 - **[Middle East & North Africa](./regional-accessibility/README.md#middle-east--north-africa)** - Arabic, Persian (Farsi), Hebrew, Kurdish, Turkish; Arabic Braille, Hebrew Braille, Persian Braille standards
 - **[North America](./regional-accessibility/README.md#north-america)** - English, Spanish, French (Canada); Apple VoiceOver, JAWS, NVDA, Braille translation projects (American Braille, Unified English Braille)
@@ -631,9 +669,9 @@
 - **[Community Resources](./resources/README.md#community-resources)** - Online communities, support organizations
 - **[Educational Resources](./resources/README.md#educational-resources)** - Learning Braille, teaching materials, audio description training
 - **[Historical Resources](./resources/README.md#historical-resources)** - Historical documents, museums and archives
-- **[Organizations](./resources/README.md#organizations)** - World Blind Union, International Council on English Braille, BANA, UKAAF, ICEB, World Braille Council, Perkins School for the Blind, ONCE, Overbrook School, DeafBlind International, Helen Keller International, Christoffel-Blindenmission (CBM), Sightsavers, NFB, ACB, AFB, RNIB, CNIB, Vision Australia, Blind Foundation NZ, NAB India, JFVDB (Japan), and many more national and regional organizations
+- **[Organizations](./resources/README.md#organizations)** - World Blind Union, International Council on English Braille, BANA, UKAAF, ICEB, World Braille Council, Perkins School for the Blind, ONCE, Overbrook School, DeafBlind International, Helen Keller International, Christoffel-Blindenmission (CBM), Sightsavers, NFB, ACB, AFB, RNIB, CNIB, Vision Australia, Blind Low Vision NZ, NAB India, JFVDB (Japan), and many more national and regional organizations
 - **[Research and Academic Resources](./resources/README.md#research-and-academic-resources)** - Journals, conferences, accessibility research
-- **[Standards](./resources/README.md#standards)** - Unified English Braille (UEB), Bharati Braille, ISO 13125, WCAG, Section 508, EN 301 549, Marrakesh Treaty, UN CRPD, ISO 24751, ISO 14289 (PDF/UA), JIS X 8341, KS X 9211, GB/T 37668
+- **[Standards](./resources/README.md#standards)** - Unified English Braille (UEB), Bharati Braille, ISO 13125, WCAG, Section 508, EN 301 549, Marrakesh Treaty, UN CRPD, ISO 24751, ISO 14289 (PDF/UA), JIS X 8341, KS X 9211, GB/T 37668; Interpreting standards (RID, WFD, ASLIA); Proficiency assessment tools (APH, Mangold, NRMA)
 - **[Technology Resources](./resources/README.md#technology-resources)** - Screen reader software, Braille translation tools, Braille display manufacturers
 
 ## Contributing

@@ -118,7 +118,7 @@
   }
 
   /* =======================================================================
-     Client-Side Search
+     Client-Side Search (DOM-based, no innerHTML)
      ======================================================================= */
   function initSearch() {
     const input = $('#search-input');
@@ -129,33 +129,71 @@
     const items = $$('main[role="main"] li');
     if (!items.length) return;
 
-    // Store original HTML for restoring highlights
-    const originals = items.map(li => li.innerHTML);
+    // Store cloned originals and cache lowercase text for fast search
+    const originals = items.map(function (li) {
+      return { clone: li.cloneNode(true), text: li.textContent.toLowerCase() };
+    });
+
+    function highlightTextNodes(el, query) {
+      var q = query.toLowerCase();
+      var walker = document.createTreeWalker(el, NodeFilter.SHOW_TEXT, null);
+      var nodesToProcess = [];
+      var node;
+      while ((node = walker.nextNode())) {
+        if (node.nodeValue.toLowerCase().indexOf(q) !== -1) {
+          nodesToProcess.push(node);
+        }
+      }
+
+      nodesToProcess.forEach(function (textNode) {
+        var text = textNode.nodeValue;
+        var lowerText = text.toLowerCase();
+        var frag = document.createDocumentFragment();
+        var lastIndex = 0;
+        var idx = lowerText.indexOf(q, lastIndex);
+
+        while (idx !== -1) {
+          if (idx > lastIndex) {
+            frag.appendChild(document.createTextNode(text.slice(lastIndex, idx)));
+          }
+          var mark = document.createElement('mark');
+          mark.textContent = text.slice(idx, idx + query.length);
+          frag.appendChild(mark);
+          lastIndex = idx + query.length;
+          idx = lowerText.indexOf(q, lastIndex);
+        }
+
+        if (lastIndex < text.length) {
+          frag.appendChild(document.createTextNode(text.slice(lastIndex)));
+        }
+
+        textNode.parentNode.replaceChild(frag, textNode);
+      });
+    }
 
     function doSearch(query) {
-      const q = query.trim().toLowerCase();
+      var q = query.trim().toLowerCase();
 
       if (!q) {
-        // Reset all
-        items.forEach((li, i) => {
+        items.forEach(function (li, i) {
           li.classList.remove('search-hidden');
-          li.innerHTML = originals[i];
+          li.replaceChildren.apply(li, Array.from(originals[i].clone.cloneNode(true).childNodes));
         });
         if (countEl) countEl.textContent = '';
         return;
       }
 
-      let visible = 0;
-      items.forEach((li, i) => {
-        const text = li.textContent.toLowerCase();
-        if (text.includes(q)) {
+      var visible = 0;
+      items.forEach(function (li, i) {
+        if (originals[i].text.indexOf(q) !== -1) {
           li.classList.remove('search-hidden');
           visible++;
-          // Highlight matches
-          li.innerHTML = highlightText(originals[i], query);
+          // Restore original content then highlight
+          li.replaceChildren.apply(li, Array.from(originals[i].clone.cloneNode(true).childNodes));
+          highlightTextNodes(li, query.trim());
         } else {
           li.classList.add('search-hidden');
-          li.innerHTML = originals[i];
+          li.replaceChildren.apply(li, Array.from(originals[i].clone.cloneNode(true).childNodes));
         }
       });
 
@@ -164,37 +202,11 @@
       }
     }
 
-    function highlightText(html, query) {
-      // Only highlight text content, not HTML tags or attributes
-      const re = new RegExp(
-        '(?<=>)([^<]*?)(' + escapeRegex(query) + ')([^<]*?)(?=<)',
-        'gi'
-      );
-      // Also handle text at start/end
-      let result = html.replace(re, function (_, before, match, after) {
-        return '>' + before + '<mark>' + match + '</mark>' + after + '<';
-      });
-
-      // Handle plain text nodes not wrapped in tags
-      const reSimple = new RegExp('(' + escapeRegex(query) + ')', 'gi');
-      // Only apply to text outside tags
-      result = result.replace(/>([^<]+)</g, function (full, text) {
-        if (text.includes('<mark>')) return full;
-        return '>' + text.replace(reSimple, '<mark>$1</mark>') + '<';
-      });
-
-      return result;
-    }
-
-    function escapeRegex(str) {
-      return str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-    }
-
     // Debounced input handler
-    let timer;
+    var timer;
     input.addEventListener('input', function () {
       clearTimeout(timer);
-      timer = setTimeout(() => doSearch(input.value), 150);
+      timer = setTimeout(function () { doSearch(input.value); }, 150);
     });
 
     // Keyboard shortcuts
@@ -234,6 +246,31 @@
   }
 
   /* =======================================================================
+     Dynamic Header Height Measurement
+     ======================================================================= */
+  function initHeaderHeight() {
+    var header = $('.site-header');
+    if (!header) return;
+
+    function update() {
+      var h = header.offsetHeight;
+      document.documentElement.style.setProperty('--header-height', h + 'px');
+    }
+
+    if (typeof ResizeObserver !== 'undefined') {
+      new ResizeObserver(update).observe(header);
+    } else {
+      var resizeTimer;
+      window.addEventListener('resize', function () {
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(update, 100);
+      });
+    }
+
+    update();
+  }
+
+  /* =======================================================================
      Active TOC Tracking
      ======================================================================= */
   function initTocTracking() {
@@ -252,6 +289,9 @@
 
     if (!sections.length) return;
 
+    // Compute rootMargin from header height
+    var headerH = parseInt(getComputedStyle(document.documentElement).getPropertyValue('--header-height'), 10) || 130;
+
     const observer = new IntersectionObserver(
       function (entries) {
         entries.forEach(entry => {
@@ -263,7 +303,7 @@
         });
       },
       {
-        rootMargin: '-150px 0px -60% 0px',
+        rootMargin: '-' + (headerH + 20) + 'px 0px -60% 0px',
         threshold: 0
       }
     );
@@ -310,13 +350,27 @@
   }
 
   /* =======================================================================
-     Mobile TOC: collapse by default on small screens
+     Mobile TOC: collapse/expand based on viewport width
      ======================================================================= */
   function initMobileToc() {
-    if (window.innerWidth < 768) {
-      const details = $('.toc-details');
-      if (details) details.removeAttribute('open');
+    var details = $('.toc-details');
+    if (!details) return;
+
+    function update() {
+      if (window.innerWidth < 768) {
+        details.removeAttribute('open');
+      } else {
+        details.setAttribute('open', '');
+      }
     }
+
+    var resizeTimer;
+    window.addEventListener('resize', function () {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(update, 150);
+    });
+
+    update();
   }
 
   /* =======================================================================
@@ -385,6 +439,7 @@
     initDarkMode();
     initHighContrast();
     initFontSize();
+    initHeaderHeight();
     initSearch();
     initBackToTop();
     initTocTracking();

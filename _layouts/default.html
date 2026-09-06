@@ -4,6 +4,7 @@
   {% include head.html %}
 </head>
 <body>
+  <script>(function(){try{var s=localStorage.getItem('lotb-dark-mode');var d=s!==null?JSON.parse(s):window.matchMedia('(prefers-color-scheme: dark)').matches;document.body.classList.toggle('dark-mode',d);document.body.classList.toggle('light-mode-override',!d);}catch(e){}})()</script>
   <a class="skip-link" href="#main-content" data-i18n-key="skip_to_content">Skip to main content</a>
 
   <header role="banner" class="site-header">

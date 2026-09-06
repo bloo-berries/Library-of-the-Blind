@@ -50,12 +50,12 @@ high_contrast_label: "Переключить режим высокой конт�
 high_contrast_text: "Высокая контрастность"
 search_label: "Поиск записей"
 search_input_label: "Поиск систем и методологий"
-search_placeholder: "Поиск 348 систем... (нажмите /)"
+search_placeholder: "Поиск 323+ систем... (нажмите /)"
 language_label: "Язык"
 
 # Footer
 footer_title: "Библиотека незрячих"
-footer_count: "Документировано 348 уникальных систем языков Брайля и тактильных систем."
+footer_count: "Документировано 323+ уникальных систем языков Брайля и тактильных систем."
 footer_github: "Репозиторий GitHub"
 footer_contributing: "Руководство по участию"
 footer_license: "Лицензия (CC0-1.0)"

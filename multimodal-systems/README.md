@@ -55,14 +55,40 @@ Multimodal systems pair different accessibility technologies together, creating 
   - Transitioning between modalities
   - Comprehensive access solutions
 
+### Sign Language + Tactile + Visual
+- **Languages:** Multiple sign languages
+- **Description:** Triple-modality approach combining visual sign language, tactile signing, and visual aids for DeafBlind individuals with residual vision. This system leverages remaining sight through high-contrast or close-range visual signing, supplements with tactile perception when visual access is insufficient, and integrates visual supports such as magnified video relay or close-vision interpreting. Particularly suited for individuals with progressive vision loss transitioning between visual and tactile communication
+- **Use Cases:**
+  - DeafBlind individuals with partial or fluctuating vision
+  - Progressive vision loss (Usher syndrome, retinitis pigmentosa)
+  - Transitioning from visual to tactile signing
+  - Settings with variable lighting or distance conditions
+- **Examples:**
+  - Visual Frame Sign Language + Tactile ASL backup
+  - Close-vision interpreting + hand-over-hand for complex content
+  - Magnified video relay + tactile confirmation signing
+
+### Tactile Graphics + Audio Description + Haptic Feedback
+- **Languages:** Multiple
+- **Description:** Triple-modality approach combining raised-line tactile graphics with synchronized audio description and dynamic haptic feedback. This integrated system provides comprehensive access to complex visual information by pairing static tactile representations with spoken descriptions and active haptic cues (vibration, force feedback) that guide the user's hands to salient features of the graphic
+- **Use Cases:**
+  - STEM education (maps, diagrams, charts, molecular structures)
+  - Museum and gallery exhibits with complex visual content
+  - Medical imaging and anatomical education
+  - Geographic and spatial information systems
+- **Examples:**
+  - Talking Tactile Tablet with audio labels and vibration cues
+  - 3D-printed models with embedded audio triggers and haptic markers
+  - Interactive tactile maps with audio description and directional haptic guidance
+
 ## Talking-Touch Devices
 
 Portable devices that integrate multiple modalities:
 
-### BrailleSense
+### BrailleSense (HIMS / Selvas Healthcare)
 - **Modalities:** Braille display + Speech + Touch screen
 - **Languages:** Multiple
-- **Description:** Portable computing with combined Braille display and speech
+- **Description:** HIMS (Selvas Healthcare) portable computing with combined Braille display and speech
 
 ### BrailleNote Touch
 - **Modalities:** Braille display + Speech + Touch screen

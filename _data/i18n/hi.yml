@@ -50,12 +50,12 @@ high_contrast_label: "उच्च कंट्रास्ट मोड टॉ�
 high_contrast_text: "उच्च कंट्रास्ट"
 search_label: "प्रविष्टियां खोजें"
 search_input_label: "प्रणालियां और पद्धतियां खोजें"
-search_placeholder: "348 प्रणालियां खोजें... (/ दबाएं)"
+search_placeholder: "323+ प्रणालियां खोजें... (/ दबाएं)"
 language_label: "भाषा"
 
 # Footer
 footer_title: "नेत्रहीनों का पुस्तकालय"
-footer_count: "348 अद्वितीय ब्रेल और स्पर्श भाषा प्रणालियां प्रलेखित।"
+footer_count: "323+ अद्वितीय ब्रेल और स्पर्श भाषा प्रणालियां प्रलेखित।"
 footer_github: "GitHub रिपॉज़िटरी"
 footer_contributing: "योगदान गाइड"
 footer_license: "लाइसेंस (CC0-1.0)"

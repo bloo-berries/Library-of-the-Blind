@@ -41,7 +41,7 @@ Accessibility technologies, standards, and infrastructure organized by geographi
 - And many others
 
 ### Notable Accessibility Infrastructure
-- **Standards:** European Union's "Accessible Europe" guidelines
+- **Standards:** European Accessibility Act (Directive (EU) 2019/882, applying since 28 June 2025); Web Accessibility Directive (2016/2102)
 - **Organizations:** National Braille institutes in many countries
 - **Screen Readers:** NVDA, JAWS, VoiceOver (all localized)
 - **Braille Systems:** Country-specific Braille codes

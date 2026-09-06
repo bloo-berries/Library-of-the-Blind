@@ -157,7 +157,7 @@ Recommended expert witnesses:
 ## Contact Information
 
 **Repository:** Library of the Blind
-**URL:** https://github.com/[repository-url]
+**URL:** https://github.com/bloo-berries/Library-of-the-Blind
 **License:** CC0-1.0 (Public Domain)
 
 ---
@@ -176,5 +176,5 @@ Recommended expert witnesses:
 
 ---
 
-*Document prepared: January 2026*
-*Collection version: 323 methodologies*
+*Document prepared: January 2026 (updated September 2026)*
+*Collection version: 323+ methodologies (count under reconciliation)*

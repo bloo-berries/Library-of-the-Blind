@@ -50,12 +50,12 @@ high_contrast_label: "উচ্চ কন্ট্রাস্ট মোড ট�
 high_contrast_text: "উচ্চ কন্ট্রাস্ট"
 search_label: "এন্ট্রি অনুসন্ধান করুন"
 search_input_label: "পদ্ধতি ও পদ্ধতিবিদ্যা অনুসন্ধান করুন"
-search_placeholder: "348টি পদ্ধতি অনুসন্ধান করুন... (/ চাপুন)"
+search_placeholder: "323+টি পদ্ধতি অনুসন্ধান করুন... (/ চাপুন)"
 language_label: "ভাষা"
 
 # Footer
 footer_title: "দৃষ্টিহীনদের গ্রন্থাগার"
-footer_count: "348টি অনন্য ব্রেইল ও স্পর্শ ভাষা পদ্ধতি নথিভুক্ত।"
+footer_count: "323+টি অনন্য ব্রেইল ও স্পর্শ ভাষা পদ্ধতি নথিভুক্ত।"
 footer_github: "GitHub রিপোজিটরি"
 footer_contributing: "অবদান নির্দেশিকা"
 footer_license: "লাইসেন্স (CC0-1.0)"

@@ -144,5 +144,7 @@ For questions about verification methodology or to report corrections:
 
 ---
 
-*Last updated: January 2026*
-*Total verified entries: 323 (196 Braille + 127 Alternative Tactile)*
+*Last updated: September 2026*
+*Total verified entries: 323+ (196 Braille + 127 Alternative Tactile; count under reconciliation - see note below)*
+
+**Note on count reconciliation (September 2026):** The INVENTORY.csv contains additional entries beyond the 323 verified count, including cross-references (same system listed under multiple regions), duplicate entries being merged, and cultural/historical items marked for reclassification. A full reconciliation is in progress. Cross-referenced entries (e.g., Arabic Braille in both Africa and Asia sections, UEB in both Americas and Europe) are counted only once.
